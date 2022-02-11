@@ -1,5 +1,5 @@
-GC Japanese To English Translation
-===================================
+GameCube Japanese To English Translation Projects
+=================================================
 
 Original project and translations by krom (Peter Lemon).
 
