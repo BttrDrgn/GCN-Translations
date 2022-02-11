@@ -1,8 +1,8 @@
 // GameCube "Lupin The Third - Umi Ni Kieta Hihou" Japanese To English Translation by krom (Peter Lemon):
 
 endian msb // Used To Encode SHIFT-JIS Words
-output "Lupin The Third - Lost Treasure Under The Sea [Disc 1].iso", create
-origin $000000; insert "Lupin The Third - Umi Ni Kieta Hihou [Disc 1][J].iso" // Include Japanese Lupin The Third - Umi Ni Kieta Hihou GameCube ISO Disc 1
+output "../../output/Lupin Disc 1 [U].iso", create
+origin $000000; insert "../../isos/Lupin Disc 1 [J].iso" // Include Japanese Lupin The Third - Umi Ni Kieta Hihou GameCube ISO Disc 1
 
 macro TextSave(OFFSET, TEXT) {
   origin {OFFSET}
@@ -11,7 +11,7 @@ macro TextSave(OFFSET, TEXT) {
 
 macro TextMain(OFFSET, SPACE, SQUARE, TEXT) {
   origin {OFFSET}
-  variable labeloffset(+)
+  variable labeloffset = +
   db $33 // Text Start Byte
   db labeloffset - {OFFSET} + 2 // Text Length
 
