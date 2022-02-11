@@ -1,8 +1,8 @@
 // GameCube "Giftpia" Japanese To English Translation by krom (Peter Lemon):
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "Giftpia.iso", create
-origin $000000; insert "Giftpia [J].iso" // Include Japanese Giftpia ISO
+output "../../output/Giftpia [U].iso", create
+origin $000000; insert "../../isos/Giftpia [J].iso" // Include Japanese Giftpia ISO
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
