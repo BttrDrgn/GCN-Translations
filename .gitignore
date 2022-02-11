@@ -1,3 +1,4 @@
 *.exe
 *.iso
-architectures/
+*.ini
+/bass/
