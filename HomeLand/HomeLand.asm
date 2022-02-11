@@ -451,7 +451,7 @@ Text($5705210C, "Are you sure about erasing this data?") ; fill 11
 
 Text($57052168, "Failed to load this memory card") ; fill 9
 
-Text($570523A8, "    Play Time:") ; fill 6
+Text($570523A8, "  Play Time:") ; fill 8
 
 // Start Screen
 Text($57052600, "Weapons") ; fill 1
@@ -462,7 +462,7 @@ Text($5705262C, "New Game") ; fill 12
 Text($57052640, "Network") ; fill 9
 Text($57052650, "Network Setup") ; fill 3
 Text($57052660, "Connection Test") ; fill 1
-Text($57052670, "Production Staff") ; fill 4
+Text($57052670, "Credits") ; fill 13
 
 Text($57052684, "Go To The Network Settings.       \n")
 Text($570526A7, "Is This OK?") ; fill 14
