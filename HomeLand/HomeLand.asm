@@ -20,8 +20,8 @@ macro TextShiftJIS(OFFSET, TEXT) {
   map '?',  $8148
   map '!',  $8149
   map '~',  $8160
-  map '\s', $8166 // Single Quote "'"
-  map '\d', $8168 // Double Quote '"'
+  map '\'', $8166
+  map '"',  $8168
   map '+',  $817B
   map '&',  $8195
   map '0',  $824F, 10 // Map Numbers
@@ -33,9 +33,9 @@ macro TextShiftJIS(OFFSET, TEXT) {
 }
 
 // Font Colors
-constant BLACK($B0) // Default
-constant BLUE($B8)
-constant RED($BB)
+constant BLACK = $B0 // Default
+constant BLUE = $B8
+constant RED = $BB
 
 // Memory Card
 Text($00115982, " ON") ; fill 7
@@ -438,7 +438,7 @@ Text($57051B60, "You cannot use the same name which exists on this memory card."
 Text($57051BA0, "Adventure will start with this name.") ; fill 4
 Text($57051BC8, "New adventure data has been stored on this memory card.") ; fill 7
 
-Text($57051D18, "%03dhours %02dmins") ; fill 6
+Text($57051D18, "%03d hours %02d mins") ; fill 4
 
 Text($57051F54, "Check memory card SlotA") ; fill 1
 Text($57051F6C, "Edit this memory card") ; fill 11
@@ -458,7 +458,7 @@ Text($57052600, "Weapons") ; fill 1
 Text($57052608, "Shields") ; fill 1
 Text($57052610, "Items") ; fill 3
 Text($57052618, "You have  %D EXP") ; fill 4
-Text($5705262C, "Begin A New Game") ; fill 4
+Text($5705262C, "New Game") ; fill 12
 Text($57052640, "Network") ; fill 9
 Text($57052650, "Network Setup") ; fill 3
 Text($57052660, "Connection Test") ; fill 1
