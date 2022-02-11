@@ -1,8 +1,8 @@
 // GameCube "HomeLand" Japanese To English Translation by krom (Peter Lemon):
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "HomeLand.iso", create
-origin $000000; insert "HomeLand [J].iso" // Include Japanese HomeLand ISO
+output "../../output/HomeLand [U].iso", create
+origin $000000; insert "../../isos/HomeLand [J].iso" // Include Japanese HomeLand ISO
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
