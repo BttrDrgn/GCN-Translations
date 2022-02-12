@@ -84,8 +84,8 @@ Text($23E20CF8, "Mother") ; fill 5
 // Story
 Text($23E1CFAF, "So you want to go.") ; db $81, $A5 ; fill 12
 
-Text($23E20D79, "If the homework is not done\n")
-             db "Mom will get angry!" ; fill 8
+Text($23E20D79, "Mom will get angry if I\n")
+             db "do not do my homework." ; fill 9
 
 Text($23E20DB0, "If you do not finish the homework\n")
              db "Mom will get angry." ; fill 1
@@ -180,7 +180,7 @@ Text($23E21487, "Question 3: \n")
 
 Text($23E214B2, "           ") 
             db QUOTE, "Break Time", QUOTE, "\n" ;
-            db "Here, let's take a breather break!" ; fill 10
+            db "Let's take a quick breather!" ; fill 16
 
 Text($23E214F6, "Homework.\n")
             db "It is halfway through.\n"
@@ -209,8 +209,8 @@ Text($23E21A41, "Have you done\n")
             db "your homework?", $81, $A5 ; fill 7
 
 Text($23E21A66, "Really?\n")
-            db "Once you lied\n"
-            db "about doing it!", $81, $A5 ; fill 2
+            db "You have lied\n"
+            db "about it before!", $81, $A5 ; fill 1
 
 Text($23E21A8F, "Really now!\n")
             db "If you do not finish it\n"
@@ -418,7 +418,7 @@ Text($43B56A80, "[Ganto Mascot]\n")
 Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 
 Text($43B58B90, "Clear Points") ; fill 4
-Text($43B58BA0, "points") ; fill 2
+Text($43B58BA0, " points") ; fill 1
 Text($43B58BA8, "   Force:") ; fill 3
 Text($43B58BB4, " Agility:") ; fill 3
 Text($43B58BC0, "    Mind:") ; fill 3
