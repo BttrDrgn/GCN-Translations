@@ -77,8 +77,8 @@ Text($00199BE8, "No") ; fill 4
 
 // NPC Names
 Text($23E1CC00, "Tenshi") ; fill 1
-
 Text($23E20CF8, "Mother") ; fill 5
+Text($3C08A74B, "Bell") ; fill 2
 
 
 // Story
@@ -101,38 +101,37 @@ Text($23E20E4B, "Closet containing various things is closed.\n")
 
 Text($23E20EC3, QUOTE) ; db "Hero of Justice Quest", QUOTE ; fill 9
 
-Text($23E20EE3, "Horrible monster whale against Roberto!\n")
-             db "Monster ", QUOTE, "Gyao!!", QUOTE ; fill 16
+Text($23E20EE3, "A horrible monster whale attacks Roberto!\n")
+             db "Monster: ", QUOTE, "Gyao!!", QUOTE ; fill 13
 
 Text($23E20F2B, "Danger Roberto!\n")
-             db "Then the shuriken beam explodes!" ; fill 11
+             db "The shuriken beam explodes!" ; fill 5
 
-Text($23E20F66, "Monster ")
+Text($23E20F66, "Monster: ")
             db QUOTE, "Gyaaao...!", QUOTE, "\n"
-            db "Unbearable I cannot run away from it." ; fill 2
+            db "Unbearable I cannot run away from it." ; fill 1
 
-Text($23E20FA2, "A mystery man runs over to Roberto.\n")
-             db "*** ", QUOTE, "Are you not hurt?", QUOTE ; fill 10
+Text($23E20FA2, "A mysterious man runs over to Roberto.\n")
+             db "***: ", QUOTE, "Are you hurt?", QUOTE ; fill 11
 
-Text($23E20FE7, "Roberto increases his honor.\n")
-             db "Roberto ", QUOTE, "Oh! By chance you are the\n"
-             db "Hero of Justice...", QUOTE ; fill 6
+Text($23E20FE7, "Roberto raises his head.\n")
+             db "Roberto: ", QUOTE, "Oh! By chance are you the\n"
+             db "Hero of Justice...", QUOTE ; fill 9
 
 Text($23E21040, "Continue..") ; fill 1
 
-Text($23E2104B, "Appendix is marked in this comic.\n")
-             db "Done a while ago." ; fill 1
+Text($23E2104B, "The appendix has already been marked in this comic.") ; fill 2
 
-Text($23E2107F, "Appendix attached to comic.\n")
-             db "Want to try it?" ; fill 4
+Text($23E2107F, "There is an appendix to the comic.\n")
+             db "Read it?" ; fill 5
 
-Text($23E210AE, RED) ; db $22, "Quest Diagnostic Test.", $22, BLACK, "\n"
-             db "A key can be found in the quest!" ; fill 1
+Text($23E210AE, RED) ; db $22, "Who Are You?", $22, BLACK, "\n"
+             db "A key can be found in the quest!" ; fill 19
 
 Text($23E210EA, "Question 1:\n")
-             db "An incident happens! What do you do?" ; fill 1
+             db "Something happend! What do you do?" ; fill 2
 Text($23E2111B, "Resolve with force!") ; fill 1
-Text($23E2112F, "Resolve with brain!") ; fill 1
+Text($23E2112F, "Resolve with logic!") ; fill 1
 
 Text($23E21143, "Question 2:\n")
              db "Cute clothes or cool clothes.\n"
@@ -141,9 +140,9 @@ Text($23E2118A, "Cute clothes") ; fill 1
 Text($23E21197, "Cool clothes") ; fill 3
 
 Text($23E211A6, "Question 3:\n")
-             db "A Horrible monster needs to be hit!\n"
-             db "What do you do?" ; fill 3
-Text($23E211E8, "Everyone to face it") ; fill 1
+             db "A Horrible monster needs to be slain!\n"
+             db "What do you do?" ; fill 1
+Text($23E211E8, "Team up") ; fill 13
 Text($23E211FC, "Face it alone") ; fill 7
 
 Text($23E21210, "Done") ; fill 3
@@ -159,28 +158,28 @@ Text($23E21280, "If I do not clean up the closet quickly\n")
 
 Text($23E212BF, QUOTE) ; db "Exchange Diary", QUOTE ; fill 3
 
-Text($23E212D4, " Month/Day\n") ; fill 1
-Text($23E212E0, "! This week's\n")
-             db QUOTE, "Hero of Justice Quest", QUOTE, "seen?\n"
-             db "Roberto it was dangerous." ; fill 16
+Text($23E212D4, " Aug. 2nd\n") ; fill 2
+Text($23E212E0, "! Have you read this week's\n")
+             db QUOTE, "Hero of Justice Quest", QUOTE, "?\n"
+             db "Roberto was in danger!" ; fill 9
 
-Text($23E21335, "Huh, some quest with a mysterious man\n")
-             db "that I just read?\n"
-             db "I'll quickly continue, to find out more." ; fill 3
+Text($23E21335, "There was some quest with a mysterious man\n")
+             db "that I read.\n"
+             db "I continued instantly to find out more." ; fill 3
 
-Text($23E21398, "Ah. Is there anything extra to read here?\n")
-             db RED, QUOTE, "Quest Diagnostic Test", QUOTE, BLACK, " some guy.\n" ; fill 9
-             db " will find out tomorrow at\n"
-             db "school!" ; fill 6
+Text($23E21398, "Have you read the appendix in the manga?\n")
+             db RED, QUOTE, "Who Are You?", QUOTE, BLACK, "\n" ; fill 29
+             db " tell me about it tomorrow\n"
+             db "at school!" ; fill 3
 
 Text($23E21417, "Do your homework?") ; fill 6
 Text($23E2142E, "Question 1: \n")
 Text($23E2145D, "Question 2: \n")
 Text($23E21487, "Question 3: \n")
 
-Text($23E214B2, "           ") 
+Text($23E214B2, "     ") 
             db QUOTE, "Break Time", QUOTE, "\n" ;
-            db "Let's take a quick breather!" ; fill 16
+            db "Let's take a quick breather!" ; fill 10
 
 Text($23E214F6, "Homework.\n")
             db "It is halfway through.\n"
@@ -475,6 +474,9 @@ Text($57052684, "Go To The Network Settings.       \n")
 Text($570526A7, "Is This OK?") ; fill 14
 
 //Unsorted
+Text($00115BC4, "Please wait...") ; fill 8
+Text($0043B56E3C, "Please wait a moment.") ; fill 3
+
 Text($00111650, "HomeLand") ; fill 4
 Text($00114988, "Give up?") ; fill 4
 Text($001149a0, "Is it right?") ; fill 2
@@ -482,3 +484,15 @@ Text($001149b0, "Thank you.")
 Text($001149bc, "All right.")
 Text($001149c8, "Is it okay?") ; fill 7
 Text($00114a04, "Revive me!") ; fill 4
+
+Text($3C08A75E, "I'm the one who will teach you the basics.") ; fill 9
+Text($3C08A792, "What do you need to know?") ; fill 2
+
+//-- Questions Box
+Text($3C08A7AE, "Where am I") ; fill 1
+Text($3C08A7B9, "Questor's Curse") ; fill 1
+Text($3C08A7CC, "The incidents") ; fill 1
+Text($3C08A7DD, "Objective") ; fill 5
+Text($3C08A7EC, "Go back home") ; fill 1
+Text($3C08A808, "Nothing") ; fill 3
+//--
