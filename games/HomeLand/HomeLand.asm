@@ -20,8 +20,8 @@ macro TextShiftJIS(OFFSET, TEXT) {
   map '?',  $8148
   map '!',  $8149
   map '~',  $8160
-  map '\'', $8166
-  map '"',  $8168
+  //map '\'', $8166
+  //map '"',  $8168
   map '+',  $817B
   map '&',  $8195
   map '0',  $824F, 10 // Map Numbers
@@ -36,6 +36,9 @@ macro TextShiftJIS(OFFSET, TEXT) {
 constant BLACK = $B0 // Default
 constant BLUE = $B8
 constant RED = $BB
+
+//Other text stuff
+constant QUOTE = $22
 
 // Memory Card
 Text($00115982, " ON") ; fill 7
@@ -68,8 +71,9 @@ Text($00116C14, "Break") ; fill 7
 
 Text($00116C48, "Options") ; fill 5
 
-Text($00199B58, "Yes") ; fill 5
-Text($00199B60, "No") ; fill 6
+Text($00199BE0, "Ya") ; fill 2
+Text($00199C70, "Ya") ; fill 2
+Text($00199BE8, "No") ; fill 4
 
 // NPC Names
 Text($23E1CC00, "Tenshi") ; fill 1
@@ -95,23 +99,24 @@ Text($23E20E4B, "Closet containing various things is closed.\n")
              db "I cleaned up because it becomes quite messy\n"
              db "once it is opened." ; fill 1
 
-Text($23E20EC3, "\dHero of Justice Quest\d") ; fill 9
+Text($23E20EC3, QUOTE) ; db "Hero of Justice Quest", QUOTE ; fill 9
 
 Text($23E20EE3, "Horrible monster whale against Roberto!\n")
-             db "Monster \dGyao!!\d" ; fill 16
+             db "Monster ", QUOTE, "Gyao!!", QUOTE ; fill 16
 
 Text($23E20F2B, "Danger Roberto!\n")
              db "Then the shuriken beam explodes!" ; fill 11
 
-Text($23E20F66, "Monster \dGyaaao...!\d\n")
-             db "Unbearable I cannot run away from it." ; fill 2
+Text($23E20F66, "Monster ")
+            db QUOTE, "Gyaaao...!", QUOTE, "\n"
+            db "Unbearable I cannot run away from it." ; fill 2
 
 Text($23E20FA2, "A mystery man runs over to Roberto.\n")
-             db "*** \dAre you not hurt?\d" ; fill 10
+             db "*** ", QUOTE, "Are you not hurt?", QUOTE ; fill 10
 
 Text($23E20FE7, "Roberto increases his honor.\n")
-             db "Roberto \dOh! By chance you are the\n"
-             db "Hero of Justice...\d" ; fill 6
+             db "Roberto " QUOTE, "Oh! By chance you are the\n"
+             db "Hero of Justice...", QUOTE ; fill 6
 
 Text($23E21040, "Continue..") ; fill 1
 
@@ -121,7 +126,7 @@ Text($23E2104B, "Appendix is marked in this comic.\n")
 Text($23E2107F, "Appendix attached to comic.\n")
              db "Want to try it?" ; fill 4
 
-Text($23E210AE, RED) ; db "\dQuest Diagnostic Test.\d", BLACK, "\n"
+Text($23E210AE, RED) ; db $22, "Quest Diagnostic Test.", $22, BLACK, "\n"
              db "A key can be found in the quest!" ; fill 1
 
 Text($23E210EA, "Question 1:\n")
@@ -152,11 +157,11 @@ Text($23E2125F, "Endurance Defence Type!") ; fill 10
 Text($23E21280, "If I do not clean up the closet quickly\n")
              db "mom will get angry!" ; fill 4
 
-Text($23E212BF, "\dExchange Diary\d") ; fill 3
+Text($23E212BF, QUOTE) ; db "Exchange Diary", QUOTE ; fill 3
 
 Text($23E212D4, " Month/Day\n") ; fill 1
 Text($23E212E0, "! This week's\n")
-             db "\dHero of Justice Quest\d seen?\n"
+             db QUOTE, "Hero of Justice Quest", QUOTE, "seen?\n"
              db "Roberto it was dangerous." ; fill 16
 
 Text($23E21335, "Huh, some quest with a mysterious man\n")
@@ -164,7 +169,7 @@ Text($23E21335, "Huh, some quest with a mysterious man\n")
              db "I'll quickly continue, to find out more." ; fill 3
 
 Text($23E21398, "Ah. Is there anything extra to read here?\n")
-             db RED, "\dQuest Diagnostic Test\d", BLACK, " some guy.\n" ; fill 9
+             db RED, QUOTE, "Quest Diagnostic Test", QUOTE, BLACK, " some guy.\n" ; fill 9
              db " will find out tomorrow at\n"
              db "school!" ; fill 6
 
@@ -173,70 +178,72 @@ Text($23E2142E, "Question 1: \n")
 Text($23E2145D, "Question 2: \n")
 Text($23E21487, "Question 3: \n")
 
-Text($23E214B2, "           \dBreak Time\d\n")
-             db "Here, let's take a breather break!" ; fill 10
+Text($23E214B2, "           ") 
+            db QUOTE, "Break Time", QUOTE, "\n" ;
+            db "Here, let's take a breather break!" ; fill 10
 
 Text($23E214F6, "Homework.\n")
-             db "It is halfway through.\n"
-             db "Take a little break." ; fill 12
+            db "It is halfway through.\n"
+            db "Take a little break." ; fill 12
 
 Text($23E21537, "Homework.\n")
-             db "Only half has been completed..." ; fill 2
+            db "Only half has been completed..." ; fill 2
 
 Text($23E21779, "Is the homework finished?") ; db $81, $A5 ; fill 3 ; db "\n"
 
 Text($23E21798, "When you finish\n")
-             db "you can play with the stuff\n"
-             db "in your ", RED, "closet", BLACK, "!", $81, $A5 ; fill 1 ; db "\n"
+            db "you can play with the stuff\n"
+            db "in your ", RED, "closet", BLACK, "!", $81, $A5 ; fill 1 ; db "\n"
 
 Text($23E217D9, "If you do not clean up\n")
-             db "I won't give you a snack!", $81, $A5 ; fill 1 ; db "\n"
+            db "I won't give you a snack!", $81, $A5 ; fill 1 ; db "\n"
 
 Text($23E2183C, "Look over") ; fill 2
 
 Text($23E21847, "Poof") ; fill 2
 
-Text($23E21A08, "\dOne day, not the same as usual...\d") ; fill 3
+Text($23E21A08, QUOTE)
+            db "One day, not the same as usual...", QUOTE ; fill 3
 
 Text($23E21A41, "Have you done\n")
-             db "your homework?", $81, $A5 ; fill 7
+            db "your homework?", $81, $A5 ; fill 7
 
 Text($23E21A66, "Really?\n")
-             db "Once you lied\n"
-             db "about doing it!", $81, $A5 ; fill 2
+            db "Once you lied\n"
+            db "about doing it!", $81, $A5 ; fill 2
 
 Text($23E21A8F, "Really now!\n")
-             db "If you do not finish it\n"
-             db "I will not give you a snack!", $81, $A5 ; fill 1
+            db "If you do not finish it\n"
+            db "I will not give you a snack!", $81, $A5 ; fill 1
 
 Text($23E21AD2, "Hello ") ; fill 4 ; db ".", $81, $A5 ; fill 2 ; db "\n"
 
 Text($23E21AE2, "I am Tenshi.") ; db $81, $A5 ; fill 4 ; db "\n"
 
 Text($23E21AF5, "From the world in the sky\n")
-             db "the Big God has been\n"
-             db "watching over you.", $81, $A5 ; fill 11 ; db "\n"
+            db "the Big God has been\n"
+            db "watching over you.", $81, $A5 ; fill 11 ; db "\n"
 
 Text($23E21B44, "Do not be afraid\n")
-             db "there's no problem.\n"
-             db "There's nothing suspicious.", $81, $A5 ; fill 1 ; db "\n"
+            db "there's no problem.\n"
+            db "There's nothing suspicious.", $81, $A5 ; fill 1 ; db "\n"
 
 Text($23E21B88, "Today ") ; fill 4 ; db "\n"
-             db "I came to convey to you\n"
-             db "a message from Big God.", $81, $A5 ; fill 2 ; db "\n"
+            db "I came to convey to you\n"
+            db "a message from Big God.", $81, $A5 ; fill 2 ; db "\n"
 
 Text($23E21BC7, "In a book.") ; db $FE, $05, "Is that OK?\n"
-             db "I will tell.", $81, $A5 ; fill 2
+            db "I will tell.", $81, $A5 ; fill 2
 
 Text($23E21BEF, BLUE) ; db "Good " ; fill 3 ; db "\n"
 
 Text($23E21BF9, BLUE) ; db "I am going to see\n"
-             db "plenty of talent\n"
-             db "from thee.", $81, $A5 ; fill 4 ; db "\n"
+            db "plenty of talent\n"
+            db "from thee.", $81, $A5 ; fill 4 ; db "\n"
 
 Text($23E21C2E, BLUE) ; db "Written test results\n"
-             db "were splendid\n"
-             db "you have passed!", $81, $A5 ; fill 1 ; db "\n"
+            db "were splendid\n"
+            db "you have passed!", $81, $A5 ; fill 1 ; db "\n"
 
 Text($23E21C66, BLUE) ; db "You are the person we seek\n"
              db "and have all the makings\n"
@@ -432,7 +439,7 @@ Text($49A0D838, "HomeLand") ; fill 56 // Long Title Text (64 Bytes)
 Text($49A0D8B8, "Adventures in a magical world, let's solve the mystery & incident.") ; fill 62 // Description Text (128 Bytes)
 
 // Start Game
-Text($57051B14, "Which will you start with, a girl or a boy?") ; fill 5
+Text($57051B14, "Are you a boy or a girl?") ; fill 24
 Text($57051B44, "Please name your character.") ; fill 1
 Text($57051B60, "You cannot use the same name which exists on this memory card.") ; fill 2
 Text($57051BA0, "Adventure will start with this name.") ; fill 4
@@ -466,3 +473,12 @@ Text($57052670, "Credits") ; fill 13
 
 Text($57052684, "Go To The Network Settings.       \n")
 Text($570526A7, "Is This OK?") ; fill 14
+
+//Unsorted
+Text($00111650, "HomeLand") ; fill 4
+Text($00114988, "Give up?") ; fill 4
+Text($001149a0, "Is it right?") ; fill 2
+Text($001149b0, "Thank you.")
+Text($001149bc, "All right.")
+Text($001149c8, "Is it okay?") ; fill 7
+Text($00114a04, "Revive me!") ; fill 4
