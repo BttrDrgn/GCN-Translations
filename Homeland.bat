@@ -1,1 +1,1 @@
-bass\\bass.exe games\\HomeLand\\HomeLand.asm
+bass\\bass.exe games\\HomeLand\\Main.asm

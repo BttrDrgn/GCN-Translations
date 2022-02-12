@@ -1,86 +1,3 @@
-// GameCube "HomeLand" Japanese To English Translation by krom (Peter Lemon):
-
-endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "../../output/HomeLand [U].iso", create
-origin $000000; insert "../../isos/HomeLand [J].iso" // Include Japanese HomeLand ISO
-
-macro Text(OFFSET, TEXT) {
-  map 0, 0, 256 // Map Default ASCII Chars
-
-  origin {OFFSET}
-  db {TEXT} // ASCII Text To Print
-}
-
-macro TextShiftJIS(OFFSET, TEXT) {
-  // Map Shift-JIS Words
-  map ' ',  $8140
-  map $2C,  $8143 // Comma ","
-  map '.',  $8144
-  map ':',  $8146
-  map '?',  $8148
-  map '!',  $8149
-  map '~',  $8160
-  //map '\'', $8166
-  //map '"',  $8168
-  map '+',  $817B
-  map '&',  $8195
-  map '0',  $824F, 10 // Map Numbers
-  map 'A',  $8260, 26 // Map English "Upper Case" Characters
-  map 'a',  $8281, 26 // Map English "Lower Case" Characters
-
-  origin {OFFSET}
-  dw {TEXT} // Shift-JIS Text To Print
-}
-
-// Font Colors
-constant BLACK = $B0 // Default
-constant BLUE = $B8
-constant RED = $BB
-
-//Other text stuff
-constant QUOTE = $22
-
-// Memory Card
-Text($00115982, " ON") ; fill 7
-Text($0011598C, "  OFF") ; db $81, $E8 ; fill 5
-Text($00115998, "It has been set") ; fill 5
-Text($001159AE, " Memorize") ; fill 5
-Text($001159BE, "  Reset") ; db $81, $E8 ; fill 7
-
-Text($00115B3C, "Please Wait") ; fill 13
-
-Text($00115CFC, "There is a problem with the memory card in SlotA.\n")
-Text($00115D2E, "It might get fixed by initializing it,     \n")
-Text($00115D5A, "but all the data will be lost.  \n")
-Text($00115D7B, "Do you want to initialize?") ; fill 3
-
-Text($00115DE8, "Initializing memory card. Is this OK?") ; fill 7
-
-Text($00115E6C, "It is now initialized.") ; fill 2
-
-Text($00115EC0, "It will not be able to save your progress in the game.") ; fill 6
-
-Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
-Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
-
-Text($001160F8, "The adventure was recorded.") ; fill 1
-
-// Menus
-Text($00116C08, "Record") ; fill 6
-Text($00116C14, "Break") ; fill 7
-
-Text($00116C48, "Options") ; fill 5
-
-Text($00199BE0, "Ya") ; fill 2
-Text($00199C70, "Ya") ; fill 2
-Text($00199BE8, "No") ; fill 4
-
-// NPC Names
-Text($23E1CC00, "Tenshi") ; fill 1
-Text($23E20CF8, "Mother") ; fill 5
-Text($3C08A74B, "Bell") ; fill 2
-
-
 // Story
 Text($23E1CFAF, "So you want to go.") ; db $81, $A5 ; fill 12
 
@@ -125,8 +42,8 @@ Text($23E2104B, "The appendix has already been marked in this comic.") ; fill 2
 Text($23E2107F, "There is an appendix to the comic.\n")
              db "Read it?" ; fill 5
 
-Text($23E210AE, RED) ; db $22, "Who Are You?", $22, BLACK, "\n"
-             db "A key can be found in the quest!" ; fill 19
+Text($23E210AE, RED) ; db $22, "The Quester Test", $22, BLACK, "\n"
+             db "A key can be found in the quest!" ; fill 15
 
 Text($23E210EA, "Question 1:\n")
              db "Something happend! What do you do?" ; fill 2
@@ -168,7 +85,7 @@ Text($23E21335, "There was some quest with a mysterious man\n")
              db "I continued instantly to find out more." ; fill 3
 
 Text($23E21398, "Have you read the appendix in the manga?\n")
-             db RED, QUOTE, "Who Are You?", QUOTE, BLACK, "\n" ; fill 29
+             db RED, QUOTE, "The Quester Test", QUOTE, BLACK, "\n" ; fill 25
              db " tell me about it tomorrow\n"
              db "at school!" ; fill 3
 
@@ -311,10 +228,8 @@ Text($23E21FE0, "When you are ready\n")
              db "please come over here\n"
              db "& ask again.", $81, $A5 ; fill 2
 
-// Star Park
-Text($3C08A832, "Here is the Star Park.") ; db $81, $A5 ; fill 4 ; db "\n"
-
-Text($3C08BE74, "Tenshi") ; fill 1
+// Quester Park
+Text($3C08A832, "This is the Quester Park.") ; db $81, $A5 ; fill 2 ; db "\n"
 
 Text($3C08C02C, "OK we have arrived.") ; db $81, $A4, "\n" ; fill 1 ; db "\n"
 
@@ -339,160 +254,3 @@ Text($3C08C15C, "I will be waiting\n")
 Text($3C08C17F, "..........") ; db $FE, $14, "\n"
              db "Mr. " ; fill 1 ; db "........", $FE, $1E, "\n"
              db "Take care.", $FE, $32, $81, $A1 ; fill 1
-
-// Game Menus
-Text($41C05442, "Yes") ; fill 2
-Text($41C05447, "No") ; fill 5
-
-Text($43ADDF6C, "Block") ; fill 7
-
-Text($43ADDF90, "Pinnock") ; fill 5
-
-Text($43ADDFD0, "Ganto") ; fill 3
-
-Text($43B242B4, RED) ; db "B Button", BLACK, ": Quit & Return" ; fill 11
-
-Text($43B3D704, "Exchange Item") ; fill 3
-
-Text($43B43370, "Call Somone") ; fill 4
-
-Text($43B434B8, "Guts") ; fill 4
-
-Text($43B43F18, "Loud voice reaches around the world") ; fill 1
-
-Text($43B44194, "Increase force") ; fill 2
-
-Text($43B4AC37, "Pow") ; fill 6
-
-TextShiftJIS($43B54790, "Joining") ; fill 2
-
-Text($43B55730, "    Sort Items") ; fill 2
-
-TextShiftJIS($43B55B90, "Thinking") ; db $81, $63 ; fill 2
-
-TextShiftJIS($43B55BEC, "ForceUp+") ; db $25, $44 ; fill 2
-
-TextShiftJIS($43B55EF0, "ForceNormal") ; fill 2
-
-Text($43B560D8, "Status") ; fill 2
-Text($43B560E0, "Points") ; fill 6
-Text($43B560EC, "Items") ; fill 7
-Text($43B560F8, "Skill") ; fill 3
-Text($43B56100, "Ask") ; fill 9
-
-Text($43B56114, "Examine") ; fill 5
-
-Text($43B56128, "Talk") ; fill 4
-Text($43B56130, "Team Up") ; fill 5
-
-Text($43B5620C, "I do not have any items") ; fill 5
-
-Text($43B56228, "Use") ; fill 5
-
-Text($43B56240, "Drop") ; fill 4
-Text($43B56248, "Give") ; fill 8
-
-Text($43B56390, "Join Team") ; fill 3
-Text($43B5639C, "Leave Team") ; fill 2
-
-Text($43B56428, "Normal") ; fill 6
-
-Text($43B564CC, "Top Zoom") ; fill 8
-Text($43B564DC, "Skill Pointer") ; fill 3
-Text($43B564EC, "BGM Volume") ; fill 10
-Text($43B56500, " SE Volume") ; fill 6
-
-Text($43B56570, "[Block Mascot]\n")
-             db " The Block is part of a tribe of toys who live in a town.\n"
-             db " Weak in power, exert your personality to grow stronger." ; fill 11
-
-Text($43B56784, "[Pinnock Mascot]\n")
-             db " A tribe of friendly dolls living in a village.\n"
-             db " Can injure monsters, also has cure as an ability." ; fill 17
-
-Text($43B56A80, "[Ganto Mascot]\n")
-             db " A tribe of large builders, protecting the fort of Parumara.\n"
-             db " It has outstanding offensive & destructive power." ; fill 10
-
-Text($43B56D18, "There is no Mascot here yet.") ; fill 8
-
-Text($43B58B90, "Clear Points") ; fill 4
-Text($43B58BA0, " points") ; fill 1
-Text($43B58BA8, "   Force:") ; fill 3
-Text($43B58BB4, " Agility:") ; fill 3
-Text($43B58BC0, "    Mind:") ; fill 3
-Text($43B58BCC, "  Attack:") ; fill 3
-Text($43B58BD8, " Defense:") ; fill 3
-Text($43B58BE4, "  Life:") ; fill 1
-Text($43B58BEC, " Power:") ; fill 1
-Text($43B58BF4, "/ ") ; fill 2
-Text($43B58BF8, "Until Next Level:") ; fill 3
-Text($43B58C0C, "Current Completion:") ; fill 1
-
-Text($43B58C3C, " Level") ; fill 2
-Text($43B58C44, "     Exp:") ; fill 3
-
-// Banner Text
-Text($49A0D7F8, "HomeLand") ; fill 24 // Title Text (32 Bytes)
-Text($49A0D838, "HomeLand") ; fill 56 // Long Title Text (64 Bytes)
-Text($49A0D8B8, "Adventures in a magical world, let's solve the mystery & incident.") ; fill 62 // Description Text (128 Bytes)
-
-// Start Game
-Text($57051B14, "Are you a boy or a girl?") ; fill 24
-Text($57051B44, "Please name your character.") ; fill 1
-Text($57051B60, "You cannot use the same name which exists on this memory card.") ; fill 2
-Text($57051BA0, "Adventure will start with this name.") ; fill 4
-Text($57051BC8, "New adventure data has been stored on this memory card.") ; fill 7
-
-Text($57051D18, "%03d hours %02d mins") ; fill 4
-
-Text($57051F54, "Check memory card SlotA") ; fill 1
-Text($57051F6C, "Edit this memory card") ; fill 11
-Text($57051F8C, "Start without saving data") ; fill 23
-Text($57051FBC, "Is it OK to erase this data?") ; fill 8
-Text($57051FE0, "Are you sure about erasing this data?") ; fill 11
-
-Text($570520E8, "Is it OK to erase this data?") ; fill 8
-Text($5705210C, "Are you sure about erasing this data?") ; fill 11
-
-Text($57052168, "Failed to load this memory card") ; fill 9
-
-Text($570523A8, "  Play Time:") ; fill 8
-
-// Start Screen
-Text($57052600, "Weapons") ; fill 1
-Text($57052608, "Shields") ; fill 1
-Text($57052610, "Items") ; fill 3
-Text($57052618, "You have  %D EXP") ; fill 4
-Text($5705262C, "New Game") ; fill 12
-Text($57052640, "Network") ; fill 9
-Text($57052650, "Network Setup") ; fill 3
-Text($57052660, "Connection Test") ; fill 1
-Text($57052670, "Credits") ; fill 13
-
-Text($57052684, "Go To The Network Settings.       \n")
-Text($570526A7, "Is This OK?") ; fill 14
-
-//Unsorted
-Text($00115BC4, "Please wait...") ; fill 8
-Text($0043B56E3C, "Please wait a moment.") ; fill 3
-
-Text($00111650, "HomeLand") ; fill 4
-Text($00114988, "Give up?") ; fill 4
-Text($001149a0, "Is it right?") ; fill 2
-Text($001149b0, "Thank you.")
-Text($001149bc, "All right.")
-Text($001149c8, "Is it okay?") ; fill 7
-Text($00114a04, "Revive me!") ; fill 4
-
-Text($3C08A75E, "I'm the one who will teach you the basics.") ; fill 9
-Text($3C08A792, "What do you need to know?") ; fill 2
-
-//-- Questions Box
-Text($3C08A7AE, "Where am I") ; fill 1
-Text($3C08A7B9, "Questor's Curse") ; fill 1
-Text($3C08A7CC, "The incidents") ; fill 1
-Text($3C08A7DD, "Objective") ; fill 5
-Text($3C08A7EC, "Go back home") ; fill 1
-Text($3C08A808, "Nothing") ; fill 3
-//--
