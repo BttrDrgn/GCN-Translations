@@ -29,6 +29,6 @@ For consistency sake, we recommend doing it all on one line like so
 # Supported Games
 | Game                          | ISO                  | Hash                                     |
 |-------------------------------|----------------------|------------------------------------------|
-| Giftpia                       | HomeLand [J].iso     | 5E74644701364263BDD016D2D54D25DEE1436345 |
-| HomeLand                      | Giftpia [J].iso      | 8C91982B7F23A06076B83C665025D07F3202ED9A |
+| Giftpia                       | Giftpia [J].iso     | 8C91982B7F23A06076B83C665025D07F3202ED9A |
+| HomeLand                      | HomeLand [J].iso      | 5E74644701364263BDD016D2D54D25DEE1436345 |
 | Lupin III: Umi ni Kieta Hihou | Lupin Disc 1 [J].iso | F41C5DD290C50C635AB552C8D0672B8C5C9716C2 |
