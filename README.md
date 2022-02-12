@@ -11,6 +11,8 @@ Load the entire Japanese ISO, or the patched one to make sure you do not attempt
 To perform a simple string edit, do the following but make sure not to roll over into the null terminator!
 - `Text($00000000, "Our new text!")`
 
+If you are using 010 and you right click the starting character on the right side of the hex view, you can copy the address by clicking `Select Range` and copying where it starts.
+
 If there happens to be some string data left before the null terminator, do the following (including into the null termination)
 - `fill 4`
 - The number after the operation is the byte count
