@@ -115,7 +115,7 @@ Text($23E20FA2, "A mystery man runs over to Roberto.\n")
              db "*** ", QUOTE, "Are you not hurt?", QUOTE ; fill 10
 
 Text($23E20FE7, "Roberto increases his honor.\n")
-             db "Roberto " QUOTE, "Oh! By chance you are the\n"
+             db "Roberto ", QUOTE, "Oh! By chance you are the\n"
              db "Hero of Justice...", QUOTE ; fill 6
 
 Text($23E21040, "Continue..") ; fill 1
