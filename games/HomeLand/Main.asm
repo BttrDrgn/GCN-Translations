@@ -10,6 +10,10 @@ macro Text(OFFSET, TEXT) {
   db {TEXT}
 }
 
+macro Next() {
+  db $81, $A5
+}
+
 macro TextShiftJIS(OFFSET, TEXT) {
   // Map Shift-JIS Words
   map ' ',  $8140
