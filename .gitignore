@@ -2,3 +2,4 @@
 *.ini
 /bass/
 /release/
+.vscode/
