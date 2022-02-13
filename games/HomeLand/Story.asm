@@ -274,7 +274,7 @@ Text($3C08A808, "Nothing") ; fill 3
 //-- Where am I
 Text($3C08A89A, "We call it ") ; db RED, "Mijikaku Park.", BLACK ; fill 19
 Text($3C08A8CB, "The park is connected to") ; fill 4
-Text($3C08A908, "the entire world.") ; fill 5
+Text($3C08A908, "the entire world.") ; db $81, $A5 ; fill 3
 //
 
 //-- Quester's Role

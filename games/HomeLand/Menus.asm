@@ -165,5 +165,17 @@ Text($00115EC0, "It will not be able to save your progress in the game.") ; fill
 Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
+//Items
+//Text($25899888, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($25A16A08, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($27C14BF1, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($2C420B82, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($30DBADC8, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($34335747, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($362A8CEE, "  Money:") ; fill 1 ; db " pts" ; fill 1
+//Text($3BCA3AB3, "  Money:") ; fill 1 ; db " pts" ; fill 1
+
+
+
 //Unsorted
 Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " points ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 28

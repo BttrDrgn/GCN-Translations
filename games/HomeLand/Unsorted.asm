@@ -10,7 +10,7 @@ Text($001149bc, "All right.")
 Text($001149c8, "Is it okay?") ; fill 7
 Text($00114a04, "Revive me!") ; fill 4
 
-Text($3BFC377A, "See you again.") ; fill 1 
-Text($3C089F2F, "See you again.") ; fill 1 
+Text($3BFC377A, "See you soon") ; db $81, $A5 ; fill 1 
+Text($3C089F2F, "See you soon") ; db $81, $A5 ; fill 1 
 Text($3C08BC8D, "Hello") ; fill 6
 Text($00114B8C, "Hello") ; fill 6
