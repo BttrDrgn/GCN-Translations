@@ -39,7 +39,7 @@ Text($43B56500, " SE Volume") ; fill 6
 Text($00116C90, "Save") ; fill 5
 Text($00116C9C, "Break") ; fill 6
 Text($00116CD0, "Settings") ; fill 1
-
+Text($00199E28, "History") ; fill 1
 
 // Game Menus
 Text($41C05442, "Yes") ; fill 2
@@ -168,3 +168,6 @@ Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
 Text($001160F8, "The adventure was recorded.") ; fill 1
+
+
+Text($3C08C6EA, "Insert") ; fill 1 ; db " points and your mascot will\nfly away and become an assistant on your journey." ; fill 26
