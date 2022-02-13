@@ -88,16 +88,16 @@ TextShiftJIS($43B55BEC, "ForceUp+") ; db $25, $44 ; fill 2
 TextShiftJIS($43B55EF0, "ForceNormal") ; fill 2
 
 Text($43B56570, "[Block Mascot]\n")
-             db " The Block is part of a tribe of toys who live in a town.\n"
-             db " Weak in power, exert your personality to grow stronger." ; fill 11
+                db " The Block is part of a tribe of toys who live in a town.\n"
+                db " Weak in power, exert your personality to grow stronger." ; fill 11
 
 Text($43B56784, "[Pinnock Mascot]\n")
-             db " A tribe of friendly dolls living in a village.\n"
-             db " Can injure monsters, also has cure as an ability." ; fill 17
+                db " A tribe of friendly dolls living in a village.\n"
+                db " Can injure monsters, also has cure as an ability." ; fill 17
 
 Text($43B56A80, "[Ganto Mascot]\n")
-             db " A tribe of large builders, protecting the fort of Parumara.\n"
-             db " It has outstanding offensive & destructive power." ; fill 10
+                db " A tribe of large builders, protecting the fort of Parumara.\n"
+                db " It has outstanding offensive & destructive power." ; fill 10
 
 Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 Text($43B56D3C, "I'm already on an adventure") ; fill 1
@@ -175,7 +175,6 @@ Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 //Text($362A8CEE, "  Money:") ; fill 1 ; db " pts" ; fill 1
 //Text($3BCA3AB3, "  Money:") ; fill 1 ; db " pts" ; fill 1
 
-
-
 //Unsorted
-Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " points ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 28
+Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " bol ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 29
+Text($3C08C760, "You only have") ; db RED ; fill 6 ; db "              bol", BLACK, "which is not enough." ; fill 25
