@@ -46,6 +46,7 @@ constant RED = $BB
 
 //Other text stuff
 constant QUOTE = $22
+constant NEWLINE = $0A
 
 include "Menus.asm"
 include "Story.asm"
