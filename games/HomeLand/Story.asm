@@ -40,7 +40,7 @@ Text($23E21040, "Continue..") ; fill 1
 Text($23E2104B, "The appendix has already been marked in this comic.") ; fill 2
 
 Text($23E2107F, "There is an appendix to the comic.\n")
-                b "Read it?" ; fill 5
+                db "Read it?" ; fill 5
 
 Text($23E210AE, RED) ; db $22, "The Quester Test", $22, BLACK, "\n"
                 db "A key can be found in the quest!" ; fill 15
@@ -179,7 +179,7 @@ Text($23E21D0B, "Amazing! ") ; fill 3 ; db ".\n"
                 db "the ", RED, "Quest", BLACK, ".", $81, $A5 ; fill 1
 
 Text($23E21D41, "Huh?") ; db $FE, $0A, " A ", RED, "Quest", BLACK, "\n"
-                b "What have I missed?", $81, $A5 ; fill 1 ; db "\n"
+                db "What have I missed?", $81, $A5 ; fill 1 ; db "\n"
 
 Text($23E21D69, "Well put simply\n")
                 db "you have been called to\n"
@@ -266,31 +266,50 @@ Text($3BFC3755, "What else do you want to know?") ; db $81, $9A ; fill 2
 Text($3C08B16E, "What else do you want to know?") ; db $81, $9A ; fill 2
 
 //-- Questions Box
-Text($3C08A7AE, "Where am I") ; fill 1
+Text($3C08A7AE, "Where Am I") ; fill 1
 Text($3C08A7B9, "Quester's Role") ; fill 4
-Text($3C08A7CC, "Various Quests") ; fill 2
+Text($3C08A7CC, "Quests") ; fill 10
 Text($3C08A7DD, "Objective") ; fill 5
-Text($3C08A7EC, "Go back home") ; fill 1
+Text($3C08A7EC, "Return Home") ; fill 2
 Text($3C08A808, "Nothing") ; fill 3
 //--
 
-//-- Where am I
+//-- Where Am I
 Text($3C08A89A, "We call it ") ; db RED, "Mijikaku Park.", BLACK ; fill 19
 Text($3C08A8CB, "The park is connected to") ; fill 4
-Text($3C08A908, "the entire world.") ; db $81, $A5 ; fill 3
+Text($3C08A908, "the entire world.") ; Next() ; fill 3
 //
 
 //-- Quester's Role
-Text($3C08A94C, "What is a Quester's role?\nIt is very simple.") ; db $81, $A5 ; fill 4
-Text($3C08A97E, "People all over the world have problems and you resolve them!") ; db $81, $A5; fill 2
-Text($3C08A9C3, "Listen carefully to people\nto solve their problems.") ; db $81, $A5 ; fill 24
-Text($3C08AA13, "The more problems you solve,\nthe more Big God will reward  you.") ; db $81, $A5 ; fill 4
+Text($3C08A94C, "What is a Quester's role?\nIt is very simple.") ; Next() ; fill 4
+Text($3C08A97E, "People all over the world have problems and you resolve them!") ; Next() ; fill 2
+Text($3C08A9C3, "Listen carefully to people\nto solve their problems.") ; Next() ; fill 24
+Text($3C08AA13, "The more problems you solve,\nthe more Big God will reward  you.") ; Next() ; fill 4
 // 
+
+//-- Big God
+Text($3C08AA5A, "Big God is the all-seeing\nbeing that watches over\nthe whole world.") ; Next() ; fill 1
+Text($3C08AAA0, "Big God watches your questing\nand rewards you for your\nefforts.") ; Next() ; fill 13
+//
+
+//-- Quests
+Text($3C08AAEE, "There are issues all over the world, they are Quests.") ; Next() ; fill 5
+Text($3C08AB29, "The more Quests you complete, the more challenging the Quests become.") ; Next() ; fill 4 
+Text($3C08AB79, "When you solve a Quest,\nyour duty as a Quester will be\ncompleted.") ; Next() ; fill 5
+Text($3C08ABC3, "When finished with Quests,\nyou can call on Big God for\nyour rewards.") ; Next() ; fill 13
+//
+
+//-- Return Home
+Text($3C08AF0A, "To return home, open the\n") ; db RED, "Start Menu", BLACK, " and press ", RED, "Quit." ; Next() ; fill 4
+Text($3C08AF49, "If you leave, I will be\nvery lonely...") ; Next() ; fill 1
+Text($3C08AF73, "The next time you play,\nyou will continue\nwhere you left.") ; Next() ; fill 1
+//
 
 //First Quest dialogue
 //Angel
 Text($248799DB, "The people of this town often have issues.") ; fill 5
 Text($24879A0E, "I hope you can resolve everyone's issue.") ; fill 13
+
 Text($24879A47, "Big God will always be watching over") ; fill 2 ; db " from the heavens." ; fill 13
 
 //Kris

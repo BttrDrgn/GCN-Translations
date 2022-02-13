@@ -154,7 +154,7 @@ Text($0011598C, "  OFF") ; db $81, $E8 ; fill 5
 Text($00115998, "It has been set") ; fill 5
 Text($001159AE, " Memorize") ; fill 5
 Text($001159BE, "  Reset") ; db $81, $E8 ; fill 7
-Text($00115B3C, "Please Wait") ; fill 13
+Text($00115B38, "An error has occured.") ; fill 7
 Text($00115CFC, "There is a problem with the memory card in SlotA.\n")
 Text($00115D2E, "It might get fixed by initializing it,     \n")
 Text($00115D5A, "but all the data will be lost.  \n")
