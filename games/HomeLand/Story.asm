@@ -259,8 +259,8 @@ Text($3C08C17F, "..........") ; db $FE, $14, "\n"
 Text($3C08A752, "Hello ") ; fill 6
 Text($3C08A75E, "I'm  the one who will\nteach you the basics.") ; fill 9
 Text($3C08A792, "What do you need to know?") ; fill 2
-Text($3BFC3755, "What else do you want to know?") ; fill 4
-Text($3C08B16E, "What else do you want to know?") ; fill 4
+Text($3BFC3755, "What else do you want to know?") ; db $81, $9A ; fill 2
+Text($3C08B16E, "What else do you want to know?") ; db $81, $9A ; fill 2
 
 //-- Questions Box
 Text($3C08A7AE, "Where am I") ; fill 1
