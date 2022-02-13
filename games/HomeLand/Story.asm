@@ -134,7 +134,7 @@ Text($23E21A8F, "Really now!\n")
 
 Text($23E21AD2, "Hello ") ; fill 4 ; db ".", $81, $A5 ; fill 2 ; db "\n"
 
-Text($23E21AE2, "I am Tenshi.") ; db $81, $A5 ; fill 4 ; db "\n"
+Text($23E21AE2, "I am Angel.") ; db $81, $A5 ; fill 4 ; db "\n"
 
 Text($23E21AF5, "From the world in the sky\n")
             db "the Big God has been\n"
@@ -254,3 +254,7 @@ Text($3C08C15C, "I will be waiting\n")
 Text($3C08C17F, "..........") ; db $FE, $14, "\n"
              db "Mr. " ; fill 1 ; db "........", $FE, $1E, "\n"
              db "Take care.", $FE, $32, $81, $A1 ; fill 1
+
+//Text($248799DB, "The people of this town often have issues.") ; fill 5
+//Text($24879A0E, "I hope you can resolve everyone's issue.") ; fill 13
+//Text($24879A47, "Big God will always be watching over") ; fill 2 ; " from the heavens." ; fill 13

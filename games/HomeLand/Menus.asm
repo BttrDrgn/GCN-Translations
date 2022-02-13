@@ -1,10 +1,6 @@
 //Loading transition
 Text($00115BC4, "Please wait...") ; fill 8
 
-Text($00199BE0, "Ya") ; fill 2
-Text($00199C70, "Ya") ; fill 2
-Text($00199BE8, "No") ; fill 4
-
 //Context Menu
 Text($43B560D8, "Status") ; fill 2
 Text($43B560E0, "Points") ; fill 6
@@ -40,10 +36,42 @@ Text($00116C90, "Save") ; fill 5
 Text($00116C9C, "Break") ; fill 6
 Text($00116CD0, "Settings") ; fill 1
 Text($00199E28, "History") ; fill 1
+Text($0019A198, "History") ; fill 1
+
+Text($00116DFC, "Would you like to save and return home?") ; fill 4
+Text($00116CE8, "Save adventure to memory card?") ; fill 2
+Text($00116D08, "Save adventure to memory card?") ; fill 2
+Text($00116180, "Adventure has been saved.") ; fill 3
+
 
 // Game Menus
 Text($41C05442, "Yes") ; fill 2
+Text($00199BE0, "Yes") ; fill 2
+Text($00199C70, "Yes") ; fill 2
+
 Text($41C05447, "No") ; fill 5
+Text($00199D78, "No") ; fill 5
+Text($00199BE8, "No") ; fill 5
+Text($00199C5F, "No") ; fill 5
+Text($499D61F9, "No") ; fill 5
+Text($499D5516, "No") ; fill 5
+Text($499D5210, "No") ; fill 5
+Text($499D5137, "No") ; fill 5
+Text($499D5057, "No") ; fill 5
+Text($499D4F7B, "No") ; fill 5
+Text($499D4E5B, "No") ; fill 5
+Text($499D4A65, "No") ; fill 5
+Text($499D418F, "No") ; fill 5
+Text($499D40D4, "No") ; fill 5
+Text($499D3BB9, "No") ; fill 5
+Text($41BD646B, "No") ; fill 5
+Text($3EE6D7BF, "No") ; fill 5
+Text($3EA74D12, "No") ; fill 5
+Text($3EA73F77, "No") ; fill 5
+Text($3CF906CC, "No") ; fill 5
+Text($3CF8DD48, "No") ; fill 5
+Text($00199C60, "No") ; fill 5
+
 
 Text($43ADDF6C, "Block") ; fill 7
 
@@ -168,6 +196,6 @@ Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
 //Weird text box issue when saving
-Text($001160F8, "                    Saved") ; fill 1
+Text($001160F8, "                    Saving") ; fill 1
 
-Text($3C08C6EA, "Insert") ; fill 3 ; db " points and your mascot will\nfly away and become an assistant on your journey." ; fill 28
+Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " points ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 28
