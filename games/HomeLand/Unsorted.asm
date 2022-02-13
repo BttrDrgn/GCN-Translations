@@ -10,7 +10,7 @@ Text($001149bc, "All right.")
 Text($001149c8, "Is it okay?") ; fill 7
 Text($00114a04, "Revive me!") ; fill 4
 
-Text($3C08A75E, "I'm the one who will teach you the basics.") ; fill 9
+Text($3C08A75E, "I'm the one who will\nteach you the basics.") ; fill 9
 Text($3C08A792, "What do you need to know?") ; fill 2
 
 //-- Questions Box
@@ -21,3 +21,9 @@ Text($3C08A7DD, "Objective") ; fill 5
 Text($3C08A7EC, "Go back home") ; fill 1
 Text($3C08A808, "Nothing") ; fill 3
 //--
+
+//-- Where am I?
+Text($3C08A89A, "We call it ") ; db RED, "Mijikaku Park.", BLACK ; fill 19
+Text($3C08A8CB, "The park is connected to") ; fill 4
+Text($3C08A908, "the entire world.") ; fill 5
+//

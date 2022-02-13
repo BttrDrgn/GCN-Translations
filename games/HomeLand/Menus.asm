@@ -167,7 +167,7 @@ Text($00115EC0, "It will not be able to save your progress in the game.") ; fill
 Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
-Text($001160F8, "The adventure was recorded.") ; fill 1
+//Weird text box issue when saving
+Text($001160F8, "                    Saved") ; fill 1
 
-
-Text($3C08C6EA, "Insert") ; fill 1 ; db " points and your mascot will\nfly away and become an assistant on your journey." ; fill 26
+Text($3C08C6EA, "Insert") ; fill 3 ; db " points and your mascot will\nfly away and become an assistant on your journey." ; fill 28

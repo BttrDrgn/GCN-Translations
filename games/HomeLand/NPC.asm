@@ -14,3 +14,5 @@ Text($272DF650, "Patrol Angel") ; fill 3
 Text($27C13C0F, "Patrol Angel") ; fill 3
 Text($28CCD0B0, "Patrol Angel") ; fill 3
 Text($3C08854C, "Patrol Angel") ; fill 3
+
+Text($24877C04, "Chib") ; fill 1
