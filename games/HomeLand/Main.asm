@@ -14,6 +14,10 @@ macro Next() {
   db $81, $A5
 }
 
+macro Prompt() {
+  db $81, $9A
+}
+
 macro TextShiftJIS(OFFSET, TEXT) {
   // Map Shift-JIS Words
   map ' ',  $8140
@@ -47,4 +51,6 @@ include "Menus.asm"
 include "Story.asm"
 include "Banner.asm"
 include "NPC.asm"
+include "Room.asm"
+include "Park.asm"
 include "Unsorted.asm"
