@@ -33,4 +33,4 @@ For consistency sake, we recommend doing it all on one line like so
 |-------------------------------|----------------------|------------------------------------------|
 | Giftpia                       | Giftpia [J].iso     | 52D0610AE78A2A5BC4BDD79CF3BFCD97C7F0A638 |
 | HomeLand                      | HomeLand [J].iso      | 5E74644701364263BDD016D2D54D25DEE1436345 |
-| Lupin III: Umi ni Kieta Hihou | Lupin Disc 1 [J].iso | 7097c62bb0dad853eedd17fab86e333937fc207d |
+| Lupin III: Umi ni Kieta Hihou | Lupin Disc 1 [J].iso | 7097C62BB0DAD853EEDD17FAB86E333937FC207D |
