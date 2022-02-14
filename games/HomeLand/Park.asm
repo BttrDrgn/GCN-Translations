@@ -81,3 +81,12 @@ Text($3C089EAD, "What do you want to know?") ; Prompt() ; fill 2
 Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach youhow to talk to others!" ; Next() ; fill 1
 //Im not sure how this works, will come back to it later
 //Text($3C08B3C6, "Since it is your first time\nhere,") ; db $20, " I will tell you about it later" ; Next() ; fill 1
+
+//Timote Scroll
+Text($3C08C2EC, "        ") ; db RED, "[ Fast-Talking Scroll ]", BLACK
+                db NEWLINE, "1. PLACEHOLDER"
+                db NEWLINE, "2. PLACEHOLDER" ; fill 62
+Text($3C08C36B, "3. PLACEHOLDER")
+                db NEWLINE, "4. PLACEHOLDER"
+                db NEWLINE, "5. PLACEHOLDER" ; fill 82
+Text($3C08C3EA, "6. PLACEHOLDER") ; fill 76
