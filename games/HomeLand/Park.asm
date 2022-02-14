@@ -76,3 +76,8 @@ Text($3C08AF73, "The next time you play,\nyou will continue\nwhere you left.") ;
 Text($3C089E14, "I have been recording events\nthat happen througout\nthe world.") ; Next() ; fill 15
 Text($3C089E62, "If you want to know what's\nhappening,feel free to ask me\nabout it!") ; Next() ; fill 5
 Text($3C089EAD, "What do you want to know?") ; Prompt() ; fill 2
+
+//Timote Dialogue
+Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach youhow to talk to others!" ; Next() ; fill 1
+//Im not sure how this works, will come back to it later
+//Text($3C08B3C6, "Since it is your first time\nhere,") ; db $20, " I will tell you about it later" ; Next() ; fill 1
