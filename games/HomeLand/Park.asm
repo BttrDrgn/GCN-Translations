@@ -1,5 +1,4 @@
 // First time in Quester Park
-Text($3C08A832, "This is the Quester Park.") ; db $81, $A5 ; fill 2 ; db "\n"
 
 Text($3C08C02C, "OK we have arrived.") ; db $81, $A4, "\n" ; fill 1 ; db "\n"
 
@@ -42,7 +41,8 @@ Text($3C08A808, "Nothing") ; fill 3
 //--
 
 //-- Where Am I
-Text($3C08A89A, "We call it ") ; db RED, "Mijikaku Park.", BLACK ; fill 19
+Text($3C08A832, "This is the Quester Park.") ; db $81, $A5 ; fill 2 ; db "\n"
+Text($3C08A89A, "We call it ") ; db RED, "QUester Park.", BLACK ; fill 20
 Text($3C08A8CB, "The park is connected to") ; fill 4
 Text($3C08A908, "the entire world.") ; Next() ; fill 3
 //
@@ -83,9 +83,10 @@ Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach youh
 //Text($3C08B3C6, "Since it is your first time\nhere,") ; db $20, " I will tell you about it later" ; Next() ; fill 1
 
 //Timote Scroll
-Text($3C08C2EC, "        ") ; db RED, "[ Fast-Talking Scroll ]", BLACK
-                db NEWLINE, "1. PLACEHOLDER"
-                db NEWLINE, "2. PLACEHOLDER" ; fill 62
+Text($3C08C2EC, "        ")
+                db RED, "[ Fast-Talking Scroll ]", BLACK
+                db NEWLINE, "1. You can text instantly with the D-Pad."
+                db NEWLINE, "2. You can also press ", RED , "Talk", BLACK, " in the action menu." ; fill 1
 Text($3C08C36B, "3. PLACEHOLDER")
                 db NEWLINE, "4. PLACEHOLDER"
                 db NEWLINE, "5. PLACEHOLDER" ; fill 82
