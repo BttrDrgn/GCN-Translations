@@ -1,8 +1,5 @@
 //Kind of a pointless file but ill keep it
 
-//Region
-Text($0, "GHEE91")
-
 // Banner Text
 Text($49A0D7F8, "HomeLand") ; fill 24 // Title Text (32 Bytes)
 Text($49A0D838, "HomeLand") ; fill 56 // Long Title Text (64 Bytes)

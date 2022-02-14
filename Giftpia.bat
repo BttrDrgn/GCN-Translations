@@ -1,1 +1,1 @@
-bass\\bass.exe games\\Giftpia\\Giftpia.asm
+bass\\bass.exe games\\Giftpia\\Main.asm

@@ -1,1 +1,1 @@
-bass\\bass.exe "games\\Lupin Disc 1\\Lupin Disc 1.asm"
+bass\\bass.exe "games\\Lupin Disc 1\\Main.asm"

@@ -27,8 +27,8 @@ macro TextShiftJIS(OFFSET, TEXT) {
   map '?',  $8148
   map '!',  $8149
   map '~',  $8160
-  //map '\'', $8166
-  //map '"',  $8168
+  //map '\s', $8166 // Single Quote "'"
+  //map '\d', $8168 // Double Quote '"'
   map '+',  $817B
   map '&',  $8195
   map '0',  $824F, 10 // Map Numbers
@@ -47,6 +47,9 @@ constant RED = $BB
 //Other text stuff
 constant QUOTE = $22
 constant NEWLINE = $0A
+
+//Region
+Text($3, "E")
 
 include "Menus.asm"
 include "Story.asm"
