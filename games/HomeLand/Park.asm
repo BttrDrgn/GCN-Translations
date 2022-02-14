@@ -71,6 +71,7 @@ Text($3C08AF0A, "To return home, open the\n") ; db RED, "Start Menu", BLACK, " a
 Text($3C08AF49, "If you leave, I will be\nvery lonely...") ; Next() ; fill 1
 Text($3C08AF73, "The next time you play,\nyou will continue\nwhere you left.") ; Next() ; fill 1
 //
+//End Bell Dialogue
 
 //Hischin Dialogue
 Text($3C089E14, "I have been recording events\nthat happen througout\nthe world.") ; Next() ; fill 15
@@ -83,11 +84,13 @@ Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach youh
 //Text($3C08B3C6, "Since it is your first time\nhere,") ; db $20, " I will tell you about it later" ; Next() ; fill 1
 
 //Timote Scroll
-Text($3C08C2EC, "        ")
-                db RED, "[ Fast-Talking Scroll ]", BLACK
+Text($3C08C2EC, "")
+                db RED, "        [ Fast-Talking Scroll ]", BLACK
                 db NEWLINE, "1. You can text instantly with the D-Pad."
                 db NEWLINE, "2. You can also press ", RED , "Talk", BLACK, " in the action menu." ; fill 1
-Text($3C08C36B, "3. PLACEHOLDER")
-                db NEWLINE, "4. PLACEHOLDER"
-                db NEWLINE, "5. PLACEHOLDER" ; fill 82
-Text($3C08C3EA, "6. PLACEHOLDER") ; fill 76
+Text($3C08C36B, "")
+                db "3. Press the ", RED, "X Button", BLACK, " to exit."
+                db NEWLINE, "4. Use the L button to switch character sets."
+                db NEWLINE, "5. Press R to insert a space." ; fill 18
+Text($3C08C3EA, "6. It may be faster to use the predictive text")
+                db NEWLINE, "rather than typing manually." ; fill 1
