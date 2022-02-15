@@ -34,6 +34,24 @@ TextShiftJIS($43CEF06E, " Damage") ; fill 1
 Text($43CF07DC, "%D") ; TextShiftJISCont(" BOL") ; fill 6
 Text($43B55AF8, "%D") ; TextShiftJISCont(" BOL") ; fill 6
 
-Text($43B55B08, "%D") ; TextShiftJISCont(" BOL : ") ; db $25, $44 ; TextShiftJISCont(" EXP") ; fill 2
-Text($43CF07EC, "%D") ; TextShiftJISCont(" BOL : ") ; db $25, $44 ; TextShiftJISCont(" EXP") ; fill 2
+Text($43B55B08, "%D") ; TextShiftJISCont(" BOL : ") ; DoubleVA() ; TextShiftJISCont(" EXP") ; fill 2
+Text($43CF07EC, "%D") ; TextShiftJISCont(" BOL : ") ; DoubleVA() ; TextShiftJISCont(" EXP") ; fill 2
+
+TextShiftJIS($43B543F4, "Dodged!") ; fill 3
+TextShiftJIS($43CEF0C4, "Dodged!") ; fill 3
+
+//Due to items not being wide char, items displaying here no longer works
+TextShiftJIS($43CF03C0, "Equip") ; fill 6
+TextShiftJIS($43B556DC, "Equip") ; fill 6
+
+TextShiftJIS($43B556F8, "Unequ") ; fill 6
+TextShiftJIS($43CF03DC, "Unequ") ; fill 6
+
+TextShiftJIS($43B54418, "Blocking") ; fill 1
+TextShiftJIS($43CEF0E8, "Blocking") ; fill 1
+
+
+TextShiftJIS($43CF0424, "Got Item") ; fill 2
+TextShiftJIS($43B55740, "Got Item") ; fill 2
+TextShiftJIS($29BDAC36, "Got Item") ; fill 2
 //End Battle messages
