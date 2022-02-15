@@ -27,6 +27,8 @@ Text($43B5620C, "I do not have any items") ; fill 5
 Text($43B56228, "Use") ; fill 5
 Text($43B56240, "Drop") ; fill 4
 Text($43B56248, "Give") ; fill 8
+Text($43B56238, "Unequip") ; fill 1
+Text($43CF0ECC, "Unequip") ; fill 1
 
 //Team Menu
 Text($43B56390, "Join Team") ; fill 3
@@ -105,15 +107,35 @@ Text($43B56A80, "[Ganto Mascot]\n")
 Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 Text($43B56D3C, "I'm already on an adventure") ; fill 1
 
-//Stats menu
+//Stats and Level up menu
 Text($43B56428, "Normal") ; fill 6
 Text($43B58B90, "Clear Points") ; fill 4
 Text($43B58BA0, " points") ; fill 1
+
 Text($43B58BA8, "   Force:") ; fill 3
+Text($43B58E00, "   Force:") ; fill 3
+Text($43CF3EE8, "   Force:") ; fill 3
+Text($43CF4140, "   Force:") ; fill 3
+
 Text($43B58BB4, " Agility:") ; fill 3
+Text($43B58E0C, " Agility:") ; fill 3
+Text($43CF414C, " Agility:") ; fill 3
+Text($43CF3EF4, " Agility:") ; fill 4
+
 Text($43B58BC0, "    Mind:") ; fill 3
+Text($43B58E18, "    Mind:") ; fill 3
+Text($43CF4158, "    Mind:") ; fill 3
+Text($43CF3F00, "    Mind:") ; fill 3
+
 Text($43B58BCC, "  Attack:") ; fill 3
+Text($43B58E24, "  Attack:") ; fill 3
+Text($43CF3F0C, "  Attack:") ; fill 3
+Text($43CF4164, "  Attack:") ; fill 3
+
 Text($43B58BD8, " Defense:") ; fill 3
+Text($43B58E34, "   Defense:") ; fill 3
+Text($43CF3F18, " Defense:") ; fill 3
+Text($43CF4174, "   Defense:") ; fill 3
 
 Text($3C08BE14, "Pow") ; fill 2
 Text($43B58BEC, " Power:") ; fill 2
@@ -185,6 +207,3 @@ Text($00115E6C, "It is now initialized.") ; fill 2
 Text($00115EC0, "It will not be able to save your progress in the game.") ; fill 6
 Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
-
-//Battle Text
-Text($35D12298, " Damage") ; fill 4
