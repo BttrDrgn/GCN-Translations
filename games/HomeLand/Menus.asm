@@ -1,7 +1,7 @@
 //Loading transition
 Text($00115BC4, "Please wait...") ; fill 8
 
-//Context Menu
+//Action Menu
 Text($43B560D8, "Status") ; fill 2
 Text($43B560E0, "Points") ; fill 6
 Text($43B560EC, "Items") ; fill 7
@@ -10,6 +10,7 @@ Text($43B56100, "Ask") ; fill 9
 Text($43B56114, "Examine") ; fill 5
 Text($43B56128, "Talk") ; fill 4
 Text($43B56130, "Team Up") ; fill 5
+Text($43B54940, "Attack") ; fill 6
 
 //Item Menu
 Text($43B5620C, "I do not have any items") ; fill 5
