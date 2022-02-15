@@ -2,6 +2,11 @@
 Text($00115BC4, "Please wait...") ; fill 8
 
 //Action Menu
+Text($00114E44, "Block") ; fill 4
+Text($00114F20, "Respawn") ; fill 5
+Text($43B53EB0, "Block") ; fill 4
+Text($43B54940, "Attack") ; fill 6
+Text($43B5494C, "Block") ; fill 4
 Text($43B560D8, "Status") ; fill 2
 Text($43B560E0, "Points") ; fill 6
 Text($43B560EC, "Items") ; fill 7
@@ -10,7 +15,12 @@ Text($43B56100, "Ask") ; fill 9
 Text($43B56114, "Examine") ; fill 5
 Text($43B56128, "Talk") ; fill 4
 Text($43B56130, "Team Up") ; fill 5
-Text($43B54940, "Attack") ; fill 6
+Text($43B5613C, "Respawn") ; fill 5
+Text($43B561F8, "Run") ; fill 5
+Text($43CEF61C, "Block") ; fill 4
+Text($43CF0DC8, "Respawn") ; fill 5
+Text($43CF0E8C, "Run") ; fill 5
+Text($43CF1738, "Block") ; fill 4
 
 //Item Menu
 Text($43B5620C, "I do not have any items") ; fill 5
@@ -22,7 +32,6 @@ Text($43B56248, "Give") ; fill 8
 Text($43B56390, "Join Team") ; fill 3
 Text($43B5639C, "Leave Team") ; fill 2
 
-Text($43B56428, "Normal") ; fill 6
 
 //Settings Menu
 Text($43B564CC, "Battling Zoom") ; fill 5
@@ -43,6 +52,10 @@ Text($00116DFC, "Would you like to save and return home?") ; fill 4
 Text($00199E28, "History") ; fill 1
 Text($0019A198, "History") ; fill 1
 
+//Respawn Menu
+Text($43B56148, "Respawn and return to a safe place?") ; fill 9
+Text($43CF0DD4, "Respawn and return to a safe place?") ; fill 9
+
 Text($00199BE0, "Yes") ; fill 2
 Text($00199C70, "Yes") ; fill 2
 Text($41C05442, "Yes") ; fill 2
@@ -58,17 +71,6 @@ Text($3EA74D12, "No") ; fill 5
 Text($3EE6D7BF, "No") ; fill 5
 Text($41BD646B, "No") ; fill 5
 Text($41C05447, "No") ; fill 5
-Text($499D3BB9, "No") ; fill 5
-Text($499D40D4, "No") ; fill 5
-Text($499D418F, "No") ; fill 5
-Text($499D4A65, "No") ; fill 5
-Text($499D4E5B, "No") ; fill 5
-Text($499D4F7B, "No") ; fill 5
-Text($499D5057, "No") ; fill 5
-Text($499D5137, "No") ; fill 5
-Text($499D5210, "No") ; fill 5
-Text($499D5516, "No") ; fill 5
-Text($499D61F9, "No") ; fill 5
 
 
 //Mascot
@@ -104,6 +106,7 @@ Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 Text($43B56D3C, "I'm already on an adventure") ; fill 1
 
 //Stats menu
+Text($43B56428, "Normal") ; fill 6
 Text($43B58B90, "Clear Points") ; fill 4
 Text($43B58BA0, " points") ; fill 1
 Text($43B58BA8, "   Force:") ; fill 3
@@ -111,13 +114,30 @@ Text($43B58BB4, " Agility:") ; fill 3
 Text($43B58BC0, "    Mind:") ; fill 3
 Text($43B58BCC, "  Attack:") ; fill 3
 Text($43B58BD8, " Defense:") ; fill 3
-Text($43B58BE4, "  Life:") ; fill 1
-Text($43B58BEC, " Power:") ; fill 1
+
+Text($3C08BE14, "Pow") ; fill 2
+Text($43B58BEC, " Power:") ; fill 2
+Text($43B58F7C, "Pow") ; fill 2
+Text($43CF3F24, " Power:") ; fill 2
+Text($43CF42BC, "Pow") ; fill 2
+
 Text($43B58BF4, "/ ") ; fill 2
 Text($43B58BF8, "Until Next Level:") ; fill 3
 Text($43B58C0C, "Current Completion:") ; fill 1
-Text($43B58C3C, " Level") ; fill 2
 Text($43B58C44, "     Exp:") ; fill 3
+
+Text($3C08BE2D, "Life") ; fill 1
+Text($43B58BE4, "  Life:") ; fill 1
+Text($43B58F60, "Life") ; fill 1
+Text($43CF42A0, "Life") ; fill 1
+
+Text($3C08BE3D, " Level") ; fill 2  
+Text($43B58C3C, " Level") ; fill 2
+Text($43B58C3C, " Level") ; fill 2
+Text($43B58F58, " Level") ; fill 2
+Text($43CF3F7C, " Level") ; fill 2
+Text($43CF4298, " Level") ; fill 2
+//End Stats menu
 
 // Start Game
 Text($57051B14, "Are you a boy or a girl?") ; fill 24
@@ -168,7 +188,3 @@ Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
 //Battle Text
 Text($35D12298, " Damage") ; fill 4
-
-//Items
-
-//Unsorted
