@@ -27,6 +27,14 @@ macro Next() {
 macro Prompt() {
   db $81, $9A
 }
+
+macro DoubleVA() {
+  db $25, $44
+}
+
+macro StringVA() {
+  db $25, $73
+}
 //End
 
 macro TextShiftJIS(OFFSET, TEXT) {
