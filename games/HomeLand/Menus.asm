@@ -2,6 +2,7 @@
 Text($00115BC4, "Please wait...") ; fill 8
 
 //Action Menu
+
 Text($00114E44, "Block") ; fill 4
 Text($00114F20, "Respawn") ; fill 5
 Text($43B53EB0, "Block") ; fill 4
@@ -21,12 +22,18 @@ Text($43CEF61C, "Block") ; fill 4
 Text($43CF0DC8, "Respawn") ; fill 5
 Text($43CF0E8C, "Run") ; fill 5
 Text($43CF1738, "Block") ; fill 4
+Text($43B5610C, "Open") ; fill 4
+Text($43CF0D90, "Open") ; fill 4
 
 //Item Menu
 Text($43B5620C, "I do not have any items") ; fill 5
 Text($43B56228, "Use") ; fill 5
 Text($43B56240, "Drop") ; fill 4
 Text($43B56248, "Give") ; fill 8
+Text($00199DC0, "Equip") ; fill 3
+Text($43B56230, "Equip") ; fill 3 
+Text($3C08BCC7, "Equip") ; fill 2
+Text($43CF0EC4, "Equip") ; fill 3
 Text($43B56238, "Unequip") ; fill 1
 Text($43CF0ECC, "Unequip") ; fill 1
 
@@ -207,3 +214,49 @@ Text($00115E6C, "It is now initialized.") ; fill 2
 Text($00115EC0, "It will not be able to save your progress in the game.") ; fill 6
 Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
+
+//Shop menu
+
+//buy: sell:
+// 82 A9 82 A2 82 E0 82 CC 82 F0 82 B7 82 E9 00 82 E0 82 BF 82 E0 82 CC 82 F0 82 A4 82 E9 00 82 E2 82 DF 82 E9 00
+
+Text($43CF1074, "Bulk Sell") ; fill 7
+Text($43B563E0, "Bulk Sell") ; fill 7
+
+Text($24C3F5A9, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($24C43446, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($26687FAA, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($27A61F30, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($27F950E1, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($27F975AA, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($297B9B51, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($297BBF76, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2AEF2936, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2B13B6AD, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2B13E516, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2BE3AB54, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2C19C886, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2C68B3A1, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2C68D6DE, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2D1D15B6, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2E494015, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($2FAD3E73, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3051001E, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($306E6226, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($30DB8DA6, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3305DAC6, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3349E63B, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($334AA071, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($337E694C, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3404AD95, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($345B94A3, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($345BBFAA, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3492C67D, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3492EE62, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($35BB2112, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($362A338E, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($37115F0E, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($37317A2F, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($37E864A6, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3A234D28, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
+Text($3FDA1135, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
