@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "HomeLand | Windows",
+            "label": "HomeLand | Win",
             "type": "shell",
             "command": "cls ; cd ../../ ; bass\\bass.exe games\\HomeLand\\Main.asm ; echo ---------- ; echo Finished! ; echo ----------",
             "problemMatcher": [],
