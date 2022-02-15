@@ -1,6 +1,4 @@
-GameCube Japanese To English Translation Projects
-=================================================
-
+# GameCube Japanese To English Translation Projects
 Original project and translations by krom (Peter Lemon).
 
 # Contributing
@@ -27,6 +25,19 @@ For consistency sake, we recommend doing it all on one line like so
 - Extract the bass release archive into the `bass` folder on the root of the project
 - Run the `.bat` of the game you wish to compile at the root of the project
 - The output should be in `output` when finished and will be named `{folder name} [U].iso`
+
+--------------
+
+### Visual Studio Code
+If you are using Visual Studio Code, you can use the `tasks.json` found [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode/Windows) for the project you are building.
+
+To install `tasks.json`
+- Make a `.vscode` folder in the game's folder that you want to build
+- Download said game's `task.json` from [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode/Windows)
+- Place it in the `.vscode` folder
+- `Ctrl + Shift + B` to build
+
+--------------
 
 # Supported Games
 | Game                          | ISO                  | Hash                                     |
