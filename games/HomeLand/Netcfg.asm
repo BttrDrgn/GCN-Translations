@@ -12,7 +12,7 @@ Text($499D4AB9, "Modem adapter or BBA")
                 db NEWLINE, "Press the A button to continue." ; fill 23
 
 Text($499D7CB9, "Legal info that no one cares about.")
-                db NEWLINE, "Just continue to setting up your network settings." ; fill 1143
+                db NEWLINE, "Just continue to setting up", NEWLINE, "your network settings." ; fill 1143
 
 Text($499D8187, "Agree") ; fill 4
 Text($499D8190, "Disagree") ; fill 3
@@ -31,10 +31,10 @@ Text($49984530, "Scroll") ; fill 4
 Text($499D4408, "Scroll") ; fill 4
 Text($499D63BD, "Scroll") ; fill 4
 
-Text($499D4412, "Back") ; fill 1
-Text($499D4452, "Back") ; fill 1
-Text($499D4461, "Back") ; fill 1
-Text($499D652E, "Back") ; fill 1
+Text($499D4413, "Back") ; fill 1
+Text($499D4453, "Back") ; fill 1
+Text($499D4462, "Back") ; fill 1
+Text($499D652F, "Back") ; fill 1
 //End Controls
 
 Text($499D3BB9, "No") ; fill 5
