@@ -29,11 +29,11 @@ For consistency sake, we recommend doing it all on one line like so
 --------------
 
 ### Visual Studio Code
-If you are using Visual Studio Code, you can use the `tasks.json` found [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode/Windows) for the project you are building.
+If you are using Visual Studio Code, you can use the `tasks.json` found [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode) for the project you are building.
 
 To install `tasks.json`
 - Make a `.vscode` folder in the game's folder that you want to build
-- Download said game's `task.json` from [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode/Windows)
+- Download said game's `task.json` from [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode)
 - Place it in the `.vscode` folder
 - `Ctrl + Shift + B` to build
 
