@@ -1,6 +1,6 @@
 
 # HomeLand
-
+![Banner](/../assets/HomeLand/Banner.png)
 # Translation Goals
 Sorted by priority, subject to change
 1. Menus
