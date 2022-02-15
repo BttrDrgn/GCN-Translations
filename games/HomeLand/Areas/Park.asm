@@ -4,25 +4,25 @@ Text($3C08C02C, "OK we have arrived.") ; db $81, $A4, "\n" ; fill 1 ; db "\n"
 
 Text($3C08C044, "It is a special place\n")
                 db "to travel the world\n"
-                db "for the Quests.", $81, $A5 ; fill 4 ; db "\n"
+                db "for the Quests." ; Next() ; fill 4 ; db "\n"
 
 Text($3C08C084, "Angels come here\n")
                 db "to give necessary knowledge\n"
-                db "about the Quests.", $81, $A5 ; fill 16 ; db "\n"
+                db "about the Quests." ; Next() ; fill 16 ; db "\n"
 
 Text($3C08C0D5, "Please listen well\n")
-                db "to what they have to say.", $81, $A5 ; fill 3 ; db "\n"
+                db "to what they have to say." ; Next() ; fill 3 ; db "\n"
 
 Text($3C08C107, "When you are ready\n")
                 db "to journey on your Quest\n"
-                db "please come and talk to me.", $81, $A5 ; fill 11 ; db "\n"
+                db "please come and talk to me." ; Next() ; fill 11 ; db "\n"
 
 Text($3C08C15C, "I will be waiting\n")
-                db "over there.", $81, $A5 ; fill 4
+                db "over there." ; Next() ; fill 4
 
 Text($3C08C17F, "..........") ; db $FE, $14, "\n"
                 db "Mr. " ; fill 1 ; db "........", $FE, $1E, "\n"
-                db "Take care.", $FE, $32, $81, $A1 ; fill 1
+                db "Take care.", $FE, $32 ; Next() ; fill 1
 
 //Bell dialogue
 Text($3BFC3755, "What else do you want to know?") ; Prompt() ; fill 2
@@ -62,26 +62,25 @@ Text($3C08AAA0, "Big God watches your questing\nand rewards you for your\neffort
 //-- Quests
 Text($3C08AAEE, "There are issues all over the world, they are Quests.") ; Next() ; fill 5
 Text($3C08AB29, "The more Quests you complete, the more challenging the Quests become.") ; Next() ; fill 4 
-Text($3C08AB79, "When you solve a Quest,\nyour duty as a Quester will be\ncompleted.") ; Next() ; fill 5
-Text($3C08ABC3, "When finished with Quests,\nyou can call on Big God for\nyour rewards.") ; Next() ; fill 13
+Text($3C08AB79, "When you solve a Quest,") ; db NEWLINE, "your duty as a Quester will be\ncompleted." ; Next() ; fill 5
+Text($3C08ABC3, "When finished with Quests,") ; db NEWLINE, "you can call on Big God for\nyour rewards." ; Next() ; fill 13
 //
 
 //-- Return Home
-Text($3C08AF0A, "To return home, open the\n") ; db RED, "Start Menu", BLACK, " and press ", RED, "Quit." ; Next() ; fill 4
-Text($3C08AF49, "If you leave, I will be\nvery lonely...") ; Next() ; fill 1
-Text($3C08AF73, "The next time you play,\nyou will continue\nwhere you left.") ; Next() ; fill 1
+Text($3C08AF0A, "To return home, open the") ; db NEWLINE, RED, "Start Menu", BLACK, " and press ", RED, "Quit." ; Next() ; fill 4
+Text($3C08AF49, "If you leave, I will be") ; db NEWLINE, "very lonely..." ; Next() ; fill 1
+Text($3C08AF73, "The next time you play,") ; db NEWLINE, "you will continue\nwhere you left." ; Next() ; fill 1
 //
 //End Bell Dialogue
 
 //Hischin Dialogue
-Text($3C089E14, "I have been recording events\nthat happen througout\nthe world.") ; Next() ; fill 15
+Text($3C089E14, "I have been recording events") ; db NEWLINE, "that happen throughout", NEWLINE, "the world." ; Next() ; fill 14
 Text($3C089E62, "If you want to know what's\nhappening,feel free to ask me\nabout it!") ; Next() ; fill 5
 Text($3C089EAD, "What do you want to know?") ; Prompt() ; fill 2
 
 //Timote Dialogue
-Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach youhow to talk to others!" ; Next() ; fill 1
-//Im not sure how this works, will come back to it later
-//Text($3C08B3C6, "Since it is your first time\nhere,") ; db $20, " I will tell you about it later" ; Next() ; fill 1
+Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach you how to talk to others!" ; Next() ; fill 1
+Text($3C08B3C6, "Since it is your first time") ; db NEWLINE, "here, I will tell you about it later" ; Next() ; fill 1
 
 //Timote Scroll
 Text($3C08C2EC, "")

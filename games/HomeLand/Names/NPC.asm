@@ -16,6 +16,6 @@ Text($27C13C0F, "Patrol Angel") ; fill 3
 Text($28CCD0B0, "Patrol Angel") ; fill 3
 Text($3C08854C, "Patrol Angel") ; fill 3
 
-
-//Originally Chibi
-Text($24877C04, "Kris") ; fill 1
+//Cloots
+Text($24877C04, "Chib") ; fill 1
+//End

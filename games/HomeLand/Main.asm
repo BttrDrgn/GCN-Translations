@@ -10,6 +10,16 @@ macro Text(OFFSET, TEXT) {
   db {TEXT}
 }
 
+//Text utilities
+// Font Colors
+constant BLACK = $B0 // Default
+constant BLUE = $B8
+constant RED = $BB
+
+//Other text stuff
+constant QUOTE = $22
+constant NEWLINE = $0A
+
 macro Next() {
   db $81, $A5
 }
@@ -17,6 +27,7 @@ macro Next() {
 macro Prompt() {
   db $81, $9A
 }
+//End
 
 macro TextShiftJIS(OFFSET, TEXT) {
   // Map Shift-JIS Words
@@ -39,23 +50,25 @@ macro TextShiftJIS(OFFSET, TEXT) {
   dw {TEXT} // Shift-JIS Text To Print
 }
 
-// Font Colors
-constant BLACK = $B0 // Default
-constant BLUE = $B8
-constant RED = $BB
-
-//Other text stuff
-constant QUOTE = $22
-constant NEWLINE = $0A
-
 //Region
 Text($3, "E")
 
-include "Menus.asm"
-include "Story.asm"
 include "Banner.asm"
-include "NPC.asm"
-include "Monsters.asm"
-include "Room.asm"
-include "Park.asm"
+
+include "Menus.asm"
+
+//Names
+include "Names/NPC.asm"
+include "Names/Monsters.asm"
+include "Names/Items.asm"
+//---
+
+//Areas
+include "Areas/Room.asm"
+include "Areas/Park.asm"
+include "Areas/Cloots.asm"
+//---
+
+include "Chatter.asm"
+
 include "Unsorted.asm"

@@ -1,4 +1,3 @@
-// Story
 Text($23E1CFAF, "So you want to go.") ; db $81, $A5 ; fill 12
 
 Text($23E20D79, "Mom will get angry if I\n")
