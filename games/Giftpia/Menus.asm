@@ -29,7 +29,7 @@ Text($57006AB4, " Mono") ; fill 7
 
 Text($5700A154, "Child") ; fill 7
 
-Text($5700ED10, "%sHour%sMin") ; fill 1
+Text($5700ED10, "%s hr %s m") ; fill 1
 
 Text($57053114, "%sMane") ; fill 2
 
@@ -38,3 +38,5 @@ Text($57053168, " No") ; fill 5
 
 Text($57053170, "Vibrate") ; fill 1
 Text($57053178, "Return") ; fill 2
+Text($57053180, "  ON") ; fill 4
+Text($57053188, "   OFF") ; fill 2
