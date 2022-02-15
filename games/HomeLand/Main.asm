@@ -72,3 +72,5 @@ include "Areas/Cloots.asm"
 include "Chatter.asm"
 
 include "Unsorted.asm"
+
+include "Netcfg.asm"
