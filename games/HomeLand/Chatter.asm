@@ -44,8 +44,8 @@ TextShiftJIS($43CEF0C4, "Dodged!") ; fill 3
 TextShiftJIS($43CF03C0, "Equip") ; fill 6
 TextShiftJIS($43B556DC, "Equip") ; fill 6
 
-TextShiftJIS($43B556F8, "Unequ") ; fill 6
-TextShiftJIS($43CF03DC, "Unequ") ; fill 6
+TextShiftJIS($43B556F8, "Unequip") ; fill 2
+TextShiftJIS($43CF03DC, "Unequip") ; fill 2
 
 TextShiftJIS($43B54418, "Blocking") ; fill 1
 TextShiftJIS($43CEF0E8, "Blocking") ; fill 1
