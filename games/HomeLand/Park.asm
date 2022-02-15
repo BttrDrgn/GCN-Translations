@@ -94,3 +94,13 @@ Text($3C08C36B, "")
                 db NEWLINE, "5. Press R to insert a space." ; fill 18
 Text($3C08C3EA, "6. It may be faster to use the predictive text")
                 db NEWLINE, "rather than typing manually." ; fill 1
+
+//Leaving
+Text($3C08BE7B, "Are you ready to embark?") ; db $FE07 ; Prompt() ; fill 10 
+Text($3C08BEA2, "When you are ready,") ; db NEWLINE, "come talk to me." ; Next() ; fill 19 
+Text($3C08C2C0, "Well then, let's go!!!") ; Next() ; fill 19
+
+//Others
+//Familiar
+Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " bol ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 29
+Text($3C08C760, "You only have") ; db RED ; fill 6 ; db "              bol", BLACK, "which is not enough." ; fill 25
