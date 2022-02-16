@@ -2,6 +2,13 @@
 Original project and translations by krom (Peter Lemon).
 
 # Contributing
+
+### Non-programmer
+If you are not a programmer and feel as if a translation is wrong, please use the [Discord Server](https://discord.gg/axzRyKtQJx) and use the #issues channel for the respective game you wish to report an issue for. Please provide screenshots to help reports go smoothly.
+
+However, if you are a progammer, please use the GitHub issues to point out specific issues and read the next section below.
+
+### Programmer
 We recommend using the hex editor [010](https://www.sweetscape.com/010editor/) because it supports Shift-JIS encording.
 
 Load the entire Japanese ISO, or the patched one to make sure you do not attempt to implement already implemented strings, into 010 then go to `View  -> Character Set` and set this to `Japanese (Shift_JIS)`, it is inside the `International` drop-down.
