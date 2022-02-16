@@ -1,5 +1,8 @@
-# GameCube Japanese To English Translation Projects
-Original project and translations by krom (Peter Lemon).
+<h1 align="center"> Japanese To English Translation Projects for GameCube</h1>
+
+<p align="center">
+  <img width="256" height="256" src="/../assets/logo.png">
+</p>
 
 # Patching
 Please read the PATCHING guide [here](https://github.com/BttrDrgn/GCN-Translations/blob/329805a00d6ed7548c045fd4b6e8154ff6ca5766/PATCHING.md)
@@ -57,3 +60,5 @@ To install `tasks.json`
 | HomeLand                       | HomeLand [J].iso        | `5E74644701364263BDD016D2D54D25DEE1436345` |
 | Kururin Squash!                | Kururin Squash! [J].iso | `F1E5E50751CEE4FA654182E0904F7F6EF721E5CC` |
 | Lupin III: Umi ni Kieta Hihou  | Lupin Disc 1 [J].iso    | `7097C62BB0DAD853EEDD17FAB86E333937FC207D` |
+
+<p align="center"> Original project and initial translations by krom (Peter Lemon). </p>
