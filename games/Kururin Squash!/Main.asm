@@ -38,7 +38,7 @@ macro TextShiftJIS(OFFSET, TEXT) {
 }
 
 macro ReplaceAsset(ORIGIN, FILE, SIZE) {
-  if (file.size({FILE}) > {SIZE}) {
+  if (file.size({FILE}) > {SIZE} && {SIZE} != -1) {
     Assert("File {FILE} is bigger than Size {SIZE}")
   } else if (file.size({FILE}) <= {SIZE}) {
     origin {ORIGIN}
@@ -51,4 +51,4 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 Text($3, "E")
 
 include "Title.asm"
-include "Unsorted.asm"
+include "Text.asm"
