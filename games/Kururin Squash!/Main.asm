@@ -37,12 +37,13 @@ macro TextShiftJIS(OFFSET, TEXT) {
   dw {TEXT} // Shift-JIS Text To Print
 }
 
-macro FillIn(SIZE, FILE) {
-  constant LENGTH = file.size({FILE})
-  if (LENGTH > {SIZE}) {
+macro ReplaceAsset(ORIGIN, FILE, SIZE) {
+  if (file.size({FILE}) > {SIZE}) {
     Assert("File {FILE} is bigger than Size {SIZE}")
-  } else if (LENGTH <= {SIZE}) {
-    fill {SIZE} - LENGTH
+  } else if (file.size({FILE}) <= {SIZE}) {
+    origin {ORIGIN}
+    insert {FILE}
+    fill {SIZE} - file.size({FILE})
   }
 }
 

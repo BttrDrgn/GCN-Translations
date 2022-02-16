@@ -1,2 +1,3 @@
-origin $4E5FD634
-insert "fs/demo/text/mode.txt" ; FillIn(152, "fs/demo/text/mode.txt")
+ReplaceAsset($4E5FD634, "fs/demo/text/mode.txt", 152)
+ReplaceAsset($4E60023C, "fs/demo/text/type.txt", 112)
+ReplaceAsset($4E6002AC, "fs/demo/text/vsmenu.txt", 1108)
