@@ -1,0 +1,46 @@
+Select number of players.
+
+Select number of players.
+
+Select number of players.
+
+Use a normal Helirin.
+Win by reaching the goal quick enough.
+Battle royale with Action Helirin.
+Win by collecting enough coins.
+This is a
+simple course.
+Try to not get popped
+from the piston jams!
+Be careful along the path
+or you will be jammed!
+Be careful through the maze
+or it will mess you up!
+Be careful of the
+spinning sword jams!
+The course will be
+chosen randomly.
+Select the stage you want to play.
+Choose an option.
+Battle royale with Action Helirin.
+Win by collecting enough coins.
+The faster the player,
+the longer the Helirin.
+Helirin can collide together
+instead of phasing through.
+Use handicaps
+in races.
+Reset to the
+default settings.
+Close the
+options menu.
+Set the number
+of hearts.
+Set the length
+of the match.
+Use handicaps
+in battles.
+Reset to the
+default settings.
+Close the
+options menu.
