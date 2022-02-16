@@ -20,7 +20,7 @@ For consistency sake, we recommend doing it all on one line like so
 
 # How To Compile
 - Drop your Japanese isos (non-nkit compressed) into the `isos` folder
-  - Make sure they are named properly! Check below in the [Supported Games section](https://github.com/BttrDrgn/GCN-Translations/blob/master/README.md#Suppoorted%20Games) for more info
+  - Make sure they are named properly! Check below in the [Supported Games section](https://github.com/BttrDrgn/GCN-Translations/blob/master/README.md#supported-games) for more info
 - Download the latest bass release from here https://github.com/ARM9/bass/releases/
 - Extract the bass release archive into the `bass` folder on the root of the project
 - Run the `.bat` of the game you wish to compile at the root of the project
