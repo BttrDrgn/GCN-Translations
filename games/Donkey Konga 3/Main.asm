@@ -32,5 +32,23 @@ macro TextShiftJIS(OFFSET, TEXT) {
   dw {TEXT} // Shift-JIS Text To Print
 }
 
+//Not a real assert, just prints the error message in console and doesn't compile further
+macro Assert(MESSAGE) {
+  "{MESSAGE}\n"
+}
+
+macro ReplaceAsset(ORIGIN, FILE, SIZE) {
+  if(!file.exists({FILE})) { Assert("{FILE} doesn't exist!") }
+  if (file.size({FILE}) > {SIZE} && {SIZE} != -1) {
+    Assert("File {FILE} is bigger than Size {SIZE}")
+  } else if (file.size({FILE}) <= {SIZE}) {
+    origin {ORIGIN}
+    insert {FILE}
+    fill {SIZE} - file.size({FILE})
+  }
+}
+
 //Region
 Text($3, "E")
+
+include "Resource.asm"

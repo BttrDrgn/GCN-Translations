@@ -4,11 +4,6 @@ endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
 output "../../output/Kururin Squash! [U].iso", create
 origin $000000; insert "../../isos/Kururin Squash! [J].iso" // Include Japanese Kururin Squash! ISO
 
-//Not a real assert, just prints the error message in console and doesn't compile further
-macro Assert(MESSAGE) {
-  "{MESSAGE}\n"
-}
-
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
 
@@ -37,7 +32,13 @@ macro TextShiftJIS(OFFSET, TEXT) {
   dw {TEXT} // Shift-JIS Text To Print
 }
 
+//Not a real assert, just prints the error message in console and doesn't compile further
+macro Assert(MESSAGE) {
+  "{MESSAGE}\n"
+}
+
 macro ReplaceAsset(ORIGIN, FILE, SIZE) {
+  if(!file.exists({FILE})) { Assert("{FILE} doesn't exist!") }
   if (file.size({FILE}) > {SIZE} && {SIZE} != -1) {
     Assert("File {FILE} is bigger than Size {SIZE}")
   } else if (file.size({FILE}) <= {SIZE}) {
