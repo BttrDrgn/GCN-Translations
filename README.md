@@ -1,6 +1,9 @@
 # GameCube Japanese To English Translation Projects
 Original project and translations by krom (Peter Lemon).
 
+# Patching
+Please read the PATCHING guide [here](https://github.com/BttrDrgn/GCN-Translations/blob/18a90844f17dfd454891efc20da8a601a11e3611/PATCHING.md)
+
 # Contributing
 
 ### Non-programmer
