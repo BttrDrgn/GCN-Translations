@@ -39,15 +39,15 @@ macro Assert(MESSAGE) {
 
 macro ReplaceAsset(ORIGIN, FILE, SIZE) {
   if !file.exists({FILE}) {
-    Assert("{FILE} doesn't exist!")
-  }
-  
-  if (file.size({FILE}) > {SIZE} && {SIZE} != -1) {
-    Assert("File {FILE} is bigger than Size {SIZE}")
-  } else if (file.size({FILE}) <= {SIZE}) {
-    origin {ORIGIN}
-    insert {FILE}
-    fill {SIZE} - file.size({FILE})
+    print "{FILE} doesn't exist!"
+  } else if file.exists({FILE}) {
+    if (file.size({FILE}) > {SIZE} && {SIZE} != -1) {
+      Assert("File {FILE} is bigger than Size {SIZE}")
+    } else if (file.size({FILE}) <= {SIZE}) {
+      origin {ORIGIN}
+      insert {FILE}
+      fill {SIZE} - file.size({FILE})
+    }
   }
 }
 
