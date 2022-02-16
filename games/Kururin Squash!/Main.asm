@@ -34,3 +34,5 @@ macro TextShiftJIS(OFFSET, TEXT) {
 
 //Region
 Text($3, "E")
+
+include "Title.asm"
