@@ -1,1 +1,0 @@
-SJIS_Dump.exe "..\\isos\\HomeLand [J].iso" "HomeLand [J] Dump.txt" 5 0

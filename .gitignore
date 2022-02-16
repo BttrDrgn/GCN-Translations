@@ -2,4 +2,5 @@
 *.ini
 /bass/
 /release/
+/scripts/dump/*.txt
 .vscode/
