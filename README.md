@@ -2,7 +2,7 @@
 Original project and translations by krom (Peter Lemon).
 
 # Patching
-Please read the PATCHING guide [here](https://github.com/BttrDrgn/GCN-Translations/blob/18a90844f17dfd454891efc20da8a601a11e3611/PATCHING.md)
+Please read the PATCHING guide [here](https://github.com/BttrDrgn/GCN-Translations/blob/329805a00d6ed7548c045fd4b6e8154ff6ca5766/PATCHING.md)
 
 # Contributing
 
