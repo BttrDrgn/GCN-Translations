@@ -54,7 +54,7 @@ macro TextShiftJIS(OFFSET, TEXT) {
   map '?',  $8148
   map '!',  $8149
   map '~',  $8160
-  //map '\s', $8166 // Single Quote "'"
+  map '\'', $8166 // Single Quote "'"
   //map '\d', $8168 // Double Quote '"'
   map '+',  $817B
   map '&',  $8195
