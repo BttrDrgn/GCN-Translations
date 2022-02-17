@@ -221,7 +221,6 @@ Text($43B563E0, "Bulk Sell") ; fill 7
 Text($43B563BC, "Sell") ; fill 4
 Text($43CF1050, "Sell") ; fill 4
 
-
 Text($24C3F5A9, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
 Text($24C43446, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
 Text($26687FAA, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2

@@ -315,6 +315,11 @@ Text($41BD64EA, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
 Text($41C054C6, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
 //End
 
+//Pickup item
+Text($43B68770, " found %s") ; fill 7
+Text($49B55DF8, " found %s") ; fill 7
+
+
 //Battle messages
 TextShiftJIS($43B5439E, " Damage") ; fill 1
 TextShiftJIS($43CEF06E, " Damage") ; fill 1
@@ -328,6 +333,9 @@ Text($43CF07EC, "%D") ; TextShiftJISCont(" BORU : ") ; DoubleVA() ; TextShiftJIS
 TextShiftJIS($43B543F4, "Dodged!") ; fill 3
 TextShiftJIS($43CEF0C4, "Dodged!") ; fill 3
 
+TextShiftJIS($43B54374, "Ran Away!") ; fill 3
+TextShiftJIS($43CEF0C4, "Ran Away!") ; fill 3
+
 //Due to items not being wide char, items displaying here no longer works
 TextShiftJIS($43CF03C0, "Equip") ; fill 6
 TextShiftJIS($43B556DC, "Equip") ; fill 6
@@ -337,7 +345,6 @@ TextShiftJIS($43CF03DC, "Unequip") ; fill 2
 
 TextShiftJIS($43B54418, "Blocking") ; fill 1
 TextShiftJIS($43CEF0E8, "Blocking") ; fill 1
-
 
 TextShiftJIS($43CF0424, "Got Item") ; fill 2
 TextShiftJIS($43B55740, "Got Item") ; fill 2
