@@ -2,7 +2,6 @@
 Text($00115BC4, "Please wait...") ; fill 8
 
 //Action Menu
-
 Text($00114E44, "Block") ; fill 4
 Text($00114F20, "Respawn") ; fill 5
 Text($43B53EB0, "Block") ; fill 4
@@ -216,12 +215,12 @@ Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
 //Shop menu
-
-//buy: sell:
-// 82 A9 82 A2 82 E0 82 CC 82 F0 82 B7 82 E9 00 82 E0 82 BF 82 E0 82 CC 82 F0 82 A4 82 E9 00 82 E2 82 DF 82 E9 00
-
 Text($43CF1074, "Bulk Sell") ; fill 7
 Text($43B563E0, "Bulk Sell") ; fill 7
+
+Text($43B563BC, "Sell") ; fill 4
+Text($43CF1050, "Sell") ; fill 4
+
 
 Text($24C3F5A9, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
 Text($24C43446, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2

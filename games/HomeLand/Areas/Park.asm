@@ -101,5 +101,5 @@ Text($3C08C2C0, "Well then, let's go!!!") ; Next() ; fill 19
 
 //Others
 //Familiar
-Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " bol ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 29
-Text($3C08C760, "You only have") ; db RED ; fill 6 ; db "              bol", BLACK, "which is not enough." ; fill 25
+Text($3C08C6EA, "Insert") ; db RED ; fill 3 ; db " boru ", BLACK, "and your mascot will\nfly away and become an assistant on your journey." ; fill 28
+Text($3C08C760, "You only have") ; db RED ; fill 6 ; db "              boru", BLACK, "which is not enough." ; fill 24

@@ -6,8 +6,8 @@ Text($43ADA8E4, "Money") ; fill 2
 Text($43C8DDAC, "Money") ; fill 2
 Text($49B086F0, "Money") ; fill 2
 
-Text($43B57214, "%s : %s bol") ; fill 1
-Text($43CF1CCC, "%s : %s bol") ; fill 1
+Text($43B57214, "%s: %s boru") ; fill 1
+Text($43CF1CCC, "%s: %s boru") ; fill 1
 //
 
 //
@@ -17,6 +17,15 @@ Text($49B0871C, "Herbs") ; fill 4
 
 Text($43B3D72C, "Restores 70 Life") ; fill 8
 Text($43CDED14, "Restores 70 Life") ; fill 8
+//
+
+//
+
+Text($30B3DF4F, "Antidote Herb") ; fill 3
+Text($43ADAA14, "Antidote Herb") ; fill 3
+Text($43C8DEDC, "Antidote Herb") ; fill 3
+Text($49B08820, "Antidote Herb") ; fill 3
+
 //
 
 //
