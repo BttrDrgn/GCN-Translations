@@ -1,7 +1,7 @@
 #SongInfo
 
 #1
-SONGNAME= ‰Ô 
+SONGNAME=Hana
 FILENAME=01hana
 OFFSET=2.1
 LENGTH=150
@@ -15,12 +15,12 @@ PRICE=404
 4=5
 B=6
 C=4
-RUBY=‚Í@‚È
+RUBY=ã¯ã€€ãª
 COMMENT=
 GENRE=1
 
 #2
-SONGNAME=ŒN‚É‚a‚t‚l‚o
+SONGNAME=Kimi ni Bump
 FILENAME=02kimini
 OFFSET=0.6
 LENGTH=180
@@ -34,12 +34,12 @@ PRICE=879
 4=4
 B=4
 C=6
-RUBY=‚«‚Ý@@@  ƒo@ƒ“@ƒv
+RUBY=ãã¿ã€€ã€€ã€€  ãƒã€€ãƒ³ã€€ãƒ—
 COMMENT=
 GENRE=1
 
 #3
-SONGNAME=ƒ}ƒcƒPƒ“ƒTƒ“ƒo‡U
+SONGNAME=Matsuken Samba â…¡
 FILENAME=03matsuken
 OFFSET=2.4
 LENGTH=120
@@ -53,12 +53,12 @@ PRICE=382
 4=2
 B=5
 C=5
-RUBY=@@@@@@@@@@@@@@ƒc[
-COMMENT=ƒVƒ‡[ƒgƒo[ƒWƒ‡ƒ“
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ãƒ„ãƒ¼
+COMMENT=short version
 GENRE=10
 
 #4
-SONGNAME=‚g‚‚‚‚™ ‚c‚‚™‚“
+SONGNAME=Happy Days
 FILENAME=04happy
 OFFSET=0.11
 LENGTH=200
@@ -72,12 +72,12 @@ PRICE=102
 4=1
 B=5
 C=2
-RUBY=@ƒn@ƒb@ƒs@[@@@@ƒf@ƒC@ƒY
+RUBY=ã€€ãƒã€€ãƒƒã€€ãƒ”ã€€ãƒ¼ã€€ã€€ã€€ã€€ãƒ‡ã€€ã‚¤ã€€ã‚º
 COMMENT=
 GENRE=1
 
 #5
-SONGNAME=ƒƒRƒ[ƒVƒ‡ƒ“
+SONGNAME=Rokoroushon
 FILENAME=05LOCO
 OFFSET=2.2
 LENGTH=200
@@ -96,7 +96,7 @@ COMMENT=
 GENRE=1
 
 #6
-SONGNAME=‚±‚ê‚ªŽ„‚Ì¶‚«‚é“¹
+SONGNAME=Kore Ga Watashi no Ikiru Michi
 FILENAME=06korega
 OFFSET=2.5
 LENGTH=120
@@ -110,12 +110,12 @@ PRICE=825
 4=3
 B=1
 C=2
-RUBY=@@@@@  ‚í‚½‚µ@@‚¢@@@@  ‚Ý‚¿
+RUBY=ã€€ã€€ã€€ã€€ã€€  ã‚ãŸã—ã€€ã€€ã„ã€€ã€€ã€€ã€€  ã¿ã¡
 COMMENT=
 GENRE=1
 
 #7
-SONGNAME=‚s‚n‚l‚n‚q‚q‚n‚v
+SONGNAME=Tomorrow
 FILENAME=07tomorrow
 OFFSET=0.9
 LENGTH=200
@@ -129,12 +129,12 @@ PRICE=1082
 4=3
 B=1
 C=2
-RUBY=@@  ƒg@  ƒD@  ƒ‚@  ƒ@  [
+RUBY=ã€€ã€€  ãƒˆã€€  ã‚¥ã€€  ãƒ¢ã€€  ãƒ­ã€€  ãƒ¼
 COMMENT=
 GENRE=1
 
 #8
-SONGNAME=‚‰‚‡‚Ž‚‰‚”‚…‚„-ƒCƒOƒiƒCƒeƒbƒh-
+SONGNAME=Ignited-
 FILENAME=08ignited
 OFFSET=1.4
 LENGTH=120
@@ -149,11 +149,11 @@ PRICE=2412
 B=5
 C=6
 RUBY=
-COMMENT=‹@“®íŽmƒKƒ“ƒ_ƒ€SEED@DESTINY@‚n‚oƒe[ƒ}
+COMMENT=Mobile Suit Gundam SEED Destiny Theme
 GENRE=1
 
 #9
-SONGNAME=ƒŠƒ‰ƒCƒg
+SONGNAME=Rewrite
 FILENAME=09rewrite
 OFFSET=1.5
 LENGTH=120
@@ -168,11 +168,11 @@ PRICE=1024
 B=4
 C=5
 RUBY=
-COMMENT=|‚Ì˜B‹àpŽt@‚n‚oƒe[ƒ}
+COMMENT=Fullmetal Alchemist Theme
 GENRE=1
 
 #10
-SONGNAME=—ˆ‚Ä—ˆ‚Ä‚ ‚½‚µƒ“‚¿
+SONGNAME=Kite Kite Atashinchi
 FILENAME=10kitekite
 OFFSET=1.5
 LENGTH=60
@@ -186,12 +186,12 @@ PRICE=5210
 4=2
 B=3
 C=1
-RUBY=  ‚«@@@‚«
-COMMENT=‚ ‚½‚µƒ“‚¿@‚d‚cƒe[ƒ}
+RUBY=  ãã€€ã€€ã€€ã
+COMMENT=Atashinchi Ending theme
 GENRE=2
 
 #11
-SONGNAME=‚r‚s‚`‚q‚s
+SONGNAME=Start
 FILENAME=11start
 OFFSET=2
 LENGTH=120
@@ -205,12 +205,12 @@ PRICE=570
 4=4
 B=6
 C=8
-RUBY= @ƒX@ƒ^@[@ƒg
-COMMENT=–¼’T’ãƒRƒiƒ“@‚n‚oƒe[ƒ}
+RUBY= ã€€ã‚¹ã€€ã‚¿ã€€ãƒ¼ã€€ãƒˆ
+COMMENT=Detective Conan Theme
 GENRE=1
 
 #12
-SONGNAME=ƒoƒJƒTƒoƒCƒo[
+SONGNAME=Baka Survivor
 FILENAME=12bakasur
 OFFSET=2.4
 LENGTH=120
@@ -225,11 +225,11 @@ PRICE=3818
 B=4
 C=4
 RUBY=
-COMMENT=ƒ{ƒ{ƒ{[ƒ{Eƒ{[ƒ{ƒ{@‚n‚oƒe[ƒ}
+COMMENT=Bobobo-bo Bo-bobo Theme
 GENRE=1
 
 #13
-SONGNAME= Â t ‹¶ ‘› ‹È 
+SONGNAME=Seishun Kyousou Kyoku
 FILENAME=13seishun
 OFFSET=2.6
 LENGTH=200
@@ -243,12 +243,12 @@ PRICE=7610
 4=3
 B=7
 C=7
-RUBY=‚¹‚¢‚µ‚ã‚ñ‚«‚å‚¤‚»‚¤‚«‚å‚­
-COMMENT=‚m‚`‚q‚t‚s‚n@‚n‚oƒe[ƒ}
+RUBY=ã›ã„ã—ã‚…ã‚“ãã‚‡ã†ãã†ãã‚‡ã
+COMMENT=Naruto Theme
 GENRE=1
 
 #14
-SONGNAME=‚f‚n!!!
+SONGNAME=ï¼§ï¼¯!!!
 FILENAME=14go
 OFFSET=2
 LENGTH=200
@@ -262,12 +262,12 @@ PRICE=265
 4=4
 B=5
 C=6
-RUBY=  ƒS@[
+RUBY=  ã‚´ã€€ãƒ¼
 COMMENT=
 GENRE=1
 
 #15
-SONGNAME=‚ß‚´‚¹ƒ|ƒPƒ‚ƒ“ƒ}ƒXƒ^[
+SONGNAME=Aim to Be a Pokemon Master
 FILENAME=15mezase
 OFFSET=0.5
 LENGTH=120
@@ -282,11 +282,11 @@ PRICE=3104
 B=2
 C=1
 RUBY=
-COMMENT=ƒ|ƒPƒbƒgƒ‚ƒ“ƒXƒ^[@‚n‚oƒe[ƒ}
+COMMENT=Pokemon Theme
 GENRE=2
 
 #16
-SONGNAME=ƒIƒ‰‚Í‚É‚ñ‚«‚à‚Ì
+SONGNAME=Ora-wa Ninki Mono
 FILENAME=16orawa
 OFFSET=0.4
 LENGTH=120
@@ -301,11 +301,11 @@ PRICE=9040
 B=3
 C=2
 RUBY=
-COMMENT=ƒNƒŒƒˆƒ“‚µ‚ñ‚¿‚á‚ñ@‚n‚oƒe[ƒ}
+COMMENT=Crayon Shin-chan Theme
 GENRE=2
 
 #17
-SONGNAME=CHA-LA@HEAD-CHA-LA
+SONGNAME=CHA-LAã€€HEAD-CHA-LA
 FILENAME=17chala
 OFFSET=1.1
 LENGTH=120
@@ -319,12 +319,12 @@ PRICE=318
 4=6
 B=6
 C=3
-RUBY= ƒ`  ƒƒ@  ƒ‰@@@  ƒw  ƒb@  ƒ`  ƒƒ  @ƒ‰
-COMMENT=ƒhƒ‰ƒSƒ“ƒ{[ƒ‹‚y@‚n‚oƒe[ƒ}
+RUBY= ãƒ  ãƒ£ã€€  ãƒ©ã€€ã€€ã€€  ãƒ˜  ãƒƒã€€  ãƒ  ãƒ£  ã€€ãƒ©
+COMMENT=Dragon Ball Z Theme
 GENRE=2
 
 #18
-SONGNAME=ƒ^ƒbƒ`
+SONGNAME=Touch
 FILENAME=18touch
 OFFSET=2.35
 LENGTH=120
@@ -339,11 +339,11 @@ PRICE=373
 B=5
 C=4
 RUBY=
-COMMENT=ƒ^ƒbƒ`@‚n‚oƒe[ƒ}
+COMMENT=Touch Theme
 GENRE=2
 
 #19
-SONGNAME=–¾“ú‚É‚È‚Á‚½‚çEEE
+SONGNAME=Ashita ni Nattaraãƒ»ãƒ»ãƒ»
 FILENAME=19ashita
 OFFSET=0.6
 LENGTH=120
@@ -357,12 +357,12 @@ PRICE=551
 4=4
 B=6
 C=5
-RUBY=  ‚ ‚µ‚½
-COMMENT=ƒhƒ“ƒL[ƒRƒ“ƒO@‚n‚oƒe[ƒ}
+RUBY=  ã‚ã—ãŸ
+COMMENT=Donkey Kong Country Theme
 GENRE=2
 
 #20
-SONGNAME=ƒoƒiƒi“V‘
+SONGNAME=Banana Tengoku
 FILENAME=20Btengoku
 OFFSET=0.4
 LENGTH=120
@@ -376,12 +376,12 @@ PRICE=884
 4=5
 B=4
 C=6
-RUBY=@@@@@@‚Ä‚ñ‚²‚­
-COMMENT=ƒhƒ“ƒL[ƒRƒ“ƒO@‚d‚cƒe[ƒ}
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã¦ã‚“ã”ã
+COMMENT=Donkey Kong Country Ending Theme
 GENRE=2
 
 #21
-SONGNAME=ƒhƒŒƒ~ƒtƒ@‚¾‚¢‚¶‚å[‚Ô
+SONGNAME=Doremifa Daijoubu
 FILENAME=21doremi
 OFFSET=0
 LENGTH=200
@@ -396,11 +396,11 @@ PRICE=889
 B=2
 C=3
 RUBY=
-COMMENT=‚Í‚¶‚ß‚Ä‚Ì‚¨‚Â‚©‚¢@ƒe[ƒ}‹È
+COMMENT=Hajimete no Otsukai Theme
 GENRE=3
 
 #22
-SONGNAME=ƒˆ[ƒfƒ‹H‚×•ú‘è
+SONGNAME=Youderu Tabe Houdai
 FILENAME=22Yodel
 OFFSET=1.6
 LENGTH=200
@@ -414,12 +414,12 @@ PRICE=10029
 4=6
 B=8
 C=6
-RUBY=@@@@@@@@  ‚½  @@‚Ù‚¤‚¾‚¢
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€  ãŸ  ã€€ã€€ã»ã†ã ã„
 COMMENT=
 GENRE=10
 
 #23
-SONGNAME=ƒGƒ“ƒ^[ƒeƒCƒi[
+SONGNAME=The Entertainer
 FILENAME=23ent
 OFFSET=2.9
 LENGTH=180
@@ -434,11 +434,11 @@ PRICE=999
 B=8
 C=7
 RUBY=
-COMMENT=ƒWƒ‡ƒbƒvƒŠƒ“@ƒGƒ“ƒ^[ƒeƒCƒi[@‚æ‚è
+COMMENT=by Scott Joplin
 GENRE=6
 
 #24
-SONGNAME=ƒ‰EƒNƒJƒ‰[ƒ`ƒƒ
+SONGNAME=La Cucaracha
 FILENAME=24Cucaracha
 OFFSET=1
 LENGTH=180
@@ -453,11 +453,11 @@ PRICE=5961
 B=7
 C=7
 RUBY=
-COMMENT=ƒƒLƒVƒR–¯—w
+COMMENT=Mexican folk song
 GENRE=5
 
 #25
-SONGNAME=‚¢‚¢“’‚¾‚È
+SONGNAME=Ii yuu da na
 FILENAME=25iiyu
 OFFSET=2.85
 LENGTH=180
@@ -471,12 +471,12 @@ PRICE=785
 4=3
 B=1
 C=3
-RUBY=@@@@  ‚ä
+RUBY=ã€€ã€€ã€€ã€€  ã‚†
 COMMENT=
 GENRE=10
 
 #26
-SONGNAME=Žè‚Ì‚Ð‚ç‚ð‘¾—z‚É
+SONGNAME=Te no Hira wo Taiyou Ni
 FILENAME=26tenohira
 OFFSET=0.7
 LENGTH=180
@@ -490,12 +490,12 @@ PRICE=877
 4=1
 B=2
 C=1
-RUBY=  ‚Ä@@@@@@@@  ‚½‚¢‚æ‚¤
+RUBY=  ã¦ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€  ãŸã„ã‚ˆã†
 COMMENT=
 GENRE=7
 
 #27
-SONGNAME=‚a‚h‚m‚f‚n
+SONGNAME=B-I-N-G-O
 FILENAME=27bingo
 OFFSET=0.6
 LENGTH=180
@@ -509,12 +509,12 @@ PRICE=113
 4=1
 B=2
 C=3
-RUBY=@ƒr@@  ƒ“@@  ƒS
+RUBY=ã€€ãƒ“ã€€ã€€  ãƒ³ã€€ã€€  ã‚´
 COMMENT=
 GENRE=7
 
 #28
-SONGNAME=ƒtƒ@ƒCƒA[ƒGƒ€ƒuƒŒƒ€
+SONGNAME=Fire Emblem Theme
 FILENAME=28Fire
 OFFSET=2.05
 LENGTH=180
@@ -529,11 +529,11 @@ PRICE=6120
 B=7
 C=7
 RUBY=
-COMMENT=ƒtƒ@ƒCƒA[ƒGƒ€ƒuƒŒƒ€@••ˆó‚ÌŒ•@‚b‚l‹È
+COMMENT=from Fire Emblem: The Binding Blade
 GENRE=3
 
 #29
-SONGNAME=ƒAƒCƒlƒNƒ‰ƒCƒlƒiƒnƒgƒ€ƒW[ƒN
+SONGNAME=Eine kleine Nachtmusik
 FILENAME=29EineKleine
 OFFSET=2
 LENGTH=180
@@ -548,11 +548,11 @@ PRICE=1791
 B=5
 C=8
 RUBY=
-COMMENT=ƒ‚[ƒcƒ@ƒ‹ƒg  ƒZƒŒƒi[ƒf‚P‚R”Ô ƒg’·’²‘æˆêŠyÍ  ‚æ‚è
+COMMENT=ãƒ¢ãƒ¼ãƒ„ã‚¡ãƒ«ãƒˆ  ã‚»ãƒ¬ãƒŠãƒ¼ãƒ‡ï¼‘ï¼“ç•ª ãƒˆé•·èª¿ç¬¬ä¸€æ¥½ç«   ã‚ˆã‚Š
 GENRE=4
 
 #30
-SONGNAME=ƒEƒBƒŠƒAƒ€Eƒeƒ‹
+SONGNAME=William Tell Overture
 FILENAME=30wtell
 OFFSET=2.56
 LENGTH=180
@@ -567,11 +567,11 @@ PRICE=1829
 B=5
 C=7
 RUBY=
-COMMENT=ƒƒbƒV[ƒj@‰ÌŒ€ƒEƒBƒŠƒAƒ€Eƒeƒ‹˜‹È@‚æ‚è
+COMMENT=from Rossini Opera William Tell Overture
 GENRE=4
 
 #31
-SONGNAME=‘å—“¬ƒXƒ}ƒbƒVƒ…ƒuƒ‰ƒU[ƒYDX
+SONGNAME=Super Smash Bros. Melee
 FILENAME=31smashbros
 OFFSET=1.4
 LENGTH=180
@@ -585,12 +585,12 @@ PRICE=293
 4=8
 B=6
 C=7
-RUBY=‚¾‚¢‚ç‚ñ‚Æ‚¤@@@@@@@@@@@@@@@@@@  ƒfƒ‰ƒbƒNƒX
-COMMENT=‘å—“¬ƒXƒ}ƒbƒVƒ…ƒuƒ‰ƒU[ƒYDX@ƒI[ƒvƒjƒ“ƒO
+RUBY=ã ã„ã‚‰ã‚“ã¨ã†ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€  ãƒ‡ãƒ©ãƒƒã‚¯ã‚¹
+COMMENT=Super Smash Bros. Melee Opening
 GENRE=0
 
 #32
-SONGNAME=‚±‚¿‚çšƒ‚ƒiƒsƒU
+SONGNAME=Welcome to Mona's Pizza!
 FILENAME=32monapizza
 OFFSET=1.8
 LENGTH=120
@@ -605,11 +605,11 @@ PRICE=10556
 B=6
 C=4
 RUBY=
-COMMENT=‚Ü‚í‚éƒƒCƒhƒCƒ“ƒƒŠƒI@‘}“ü‰Ì
+COMMENT=from WarioWare: Twisted!
 GENRE=0
 
 #33
-SONGNAME=ƒWƒƒƒ“ƒOƒ‹ƒr[ƒg
+SONGNAME=Jungle Beat
 FILENAME=33junglebeet
 OFFSET=1.5
 LENGTH=60
@@ -624,11 +624,11 @@ PRICE=5800
 B=4
 C=4
 RUBY=
-COMMENT=ƒhƒ“ƒL[ƒRƒ“ƒO@ƒWƒƒƒ“ƒOƒ‹ƒr[ƒg@‚æ‚è
+COMMENT=from Donkey Kong Jungle Beat
 GENRE=0
 
 #34
-SONGNAME=ƒXƒ^[ƒtƒHƒbƒNƒX
+SONGNAME=Star Fox
 FILENAME=34Fox
 OFFSET=2.85
 LENGTH=120
@@ -643,11 +643,11 @@ PRICE=6800
 B=3
 C=2
 RUBY=
-COMMENT=ƒXƒ^[ƒtƒHƒbƒNƒX@ƒAƒTƒ‹ƒg@‚æ‚è
+COMMENT=from Star Fox Assault
 GENRE=0
 
 #35
-SONGNAME=‚c‚n‚m‚j‚d‚x'‚r@‚f‚q‚n‚n‚u‚d
+SONGNAME=Donkey's Groove
 FILENAME=35dg
 OFFSET=2
 LENGTH=200
@@ -661,12 +661,12 @@ PRICE=765
 4=8
 B=8
 C=8
-RUBY=@  ƒh@ ƒ“@ ƒL@ [@ ƒY@@@@@@@ƒO@ƒ‹@[@ƒ”
-COMMENT=ƒhƒ“ƒL[ƒRƒ“ƒK‚R‚Ìƒe[ƒ}
+RUBY=ã€€  ãƒ‰ã€€ ãƒ³ã€€ ã‚­ã€€ ãƒ¼ã€€ ã‚ºã€€ã€€ã€€ã€€ã€€ã€€ã€€ã‚°ã€€ãƒ«ã€€ãƒ¼ã€€ãƒ´
+COMMENT=Donkey Konga 3 Theme
 GENRE=0
 
 #36
-SONGNAME=ƒhƒ“ƒL[ƒRƒ“ƒK
+SONGNAME=Donkey Konga
 FILENAME=36dk
 OFFSET=2
 LENGTH=200
@@ -681,11 +681,11 @@ PRICE=0
 B=0
 C=0
 RUBY=
-COMMENT=ƒe[ƒ}‹È‚ðƒtƒ@ƒ~ƒRƒ“•—‚ÉƒAƒŒƒ“ƒWI
+COMMENT=Famicom Arrangement
 GENRE=9
 
 #37
-SONGNAME=‚l‚`‚o‚o‚x
+SONGNAME=Mappy
 FILENAME=37mappy
 OFFSET=2.25
 LENGTH=200
@@ -699,12 +699,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@  ƒ}@ƒb@ƒs@[
+RUBY=ã€€  ãƒžã€€ãƒƒã€€ãƒ”ã€€ãƒ¼
 COMMENT=
 GENRE=8
 
 #38
-SONGNAME=‚o‚`‚b|‚l‚`‚m
+SONGNAME=Pac-Man
 FILENAME=38PM
 OFFSET=1.95
 LENGTH=200
@@ -718,12 +718,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=    ƒp  ƒb  ƒN@@@@ƒ}@  ƒ“
+RUBY=    ãƒ‘  ãƒƒ  ã‚¯ã€€ã€€ã€€ã€€ãƒžã€€  ãƒ³
 COMMENT=
 GENRE=8
 
 #39
-SONGNAME=‚c‚‰‚‡ ‚c‚•‚‡
+SONGNAME=Dig Dug
 FILENAME=39DD
 OFFSET=1.95
 LENGTH=200
@@ -737,12 +737,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@  ƒf  ƒB  ƒO@ƒ_@ƒO
+RUBY=ã€€ã€€  ãƒ‡  ã‚£  ã‚°ã€€ãƒ€ã€€ã‚°
 COMMENT=
 GENRE=8
 
 #40
-SONGNAME=ƒhƒ‹ƒA[ƒK‚Ì“ƒ
+SONGNAME=The Tower of Druaga
 FILENAME=40TD
 OFFSET=2.25
 LENGTH=200
@@ -756,12 +756,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@@@@@@@@@@‚Æ‚¤
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã¨ã†
 COMMENT=
 GENRE=8
 
 #41
-SONGNAME=‚r‚‹‚™‚j‚‰‚„
+SONGNAME=Sky Kid
 FILENAME=41SK
 OFFSET=2.25
 LENGTH=200
@@ -775,12 +775,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=    ƒX   ƒJ   ƒC   ƒL   ƒb   ƒh
+RUBY=    ã‚¹   ã‚«   ã‚¤   ã‚­   ãƒƒ   ãƒ‰
 COMMENT=
 GENRE=8
 
 #42
-SONGNAME=ƒX[ƒp[ƒ}ƒŠƒIƒuƒ‰ƒU[ƒY ’nãBGM
+SONGNAME=Super Mario Bros. Main Theme
 FILENAME=42mario01
 OFFSET=2
 LENGTH=200
@@ -794,12 +794,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@@@@@@@@@@@@@@@@@@@@@@  ‚¿‚¶‚å‚¤
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€  ã¡ã˜ã‚‡ã†
 COMMENT=
 GENRE=9
 
 #43
-SONGNAME=ƒX[ƒp[ƒ}ƒŠƒIƒuƒ‰ƒU[ƒY …’†BGM
+SONGNAME=Super Mario Bros. Underwater Theme
 FILENAME=43mario02
 OFFSET=2
 LENGTH=200
@@ -813,12 +813,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@@@@@@@@@@@@@@@@@@@@@@  ‚·‚¢‚¿‚ã‚¤
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€  ã™ã„ã¡ã‚…ã†
 COMMENT=
 GENRE=9
 
 #44
-SONGNAME=ƒ[ƒ‹ƒ_‚Ì“`à
+SONGNAME=The Legend of Zelda
 FILENAME=44zelda
 OFFSET=2
 LENGTH=200
@@ -832,12 +832,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@@@@@@‚Å‚ñ‚¹‚Â
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã§ã‚“ã›ã¤
 COMMENT=
 GENRE=9
 
 #45
-SONGNAME=ƒoƒ‹[ƒ“ƒtƒ@ƒCƒg
+SONGNAME=Balloon Fight
 FILENAME=45baloonF
 OFFSET=2
 LENGTH=200
@@ -856,7 +856,7 @@ COMMENT=
 GENRE=9
 
 #46
-SONGNAME=ƒhƒNƒ^[ƒ}ƒŠƒI
+SONGNAME=Dr. Mario
 FILENAME=46DrM
 OFFSET=2.5
 LENGTH=200
@@ -875,7 +875,7 @@ COMMENT=
 GENRE=9
 
 #47
-SONGNAME=ƒX[ƒp[ƒ}ƒŠƒIƒuƒ‰ƒU[ƒY‚R
+SONGNAME=Super Mario Bros. 3
 FILENAME=47mario3
 OFFSET=2
 LENGTH=200
@@ -894,7 +894,7 @@ COMMENT=
 GENRE=9
 
 #48
-SONGNAME=¯‚ÌƒJ[ƒrƒB@–²‚Ìò‚Ì•¨Œê
+SONGNAME=Kirby's Adventure
 FILENAME=48KIrby
 OFFSET=1.95
 LENGTH=200
@@ -908,12 +908,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=‚Ù‚µ@@@@@@@@@@@@‚ä‚ß@  ‚¢‚¸‚Ý@‚à‚Ì‚ª‚½‚è
+RUBY=ã»ã—ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã‚†ã‚ã€€  ã„ãšã¿ã€€ã‚‚ã®ãŒãŸã‚Š
 COMMENT=
 GENRE=9
 
 #49
-SONGNAME=“ä ‚Ì ‘º ‰J é
+SONGNAME=è¬Ž ã® æ‘ é›¨ åŸŽ
 FILENAME=49murasame
 OFFSET=1.95
 LENGTH=200
@@ -927,12 +927,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=‚È‚¼@@@‚Þ‚ç‚³‚ß‚¶‚å‚¤
+RUBY=ãªãžã€€ã€€ã€€ã‚€ã‚‰ã•ã‚ã˜ã‚‡ã†
 COMMENT=
 GENRE=9
 
 #50
-SONGNAME=ƒpƒ‹ƒeƒi‚Ì‹¾
+SONGNAME=Palutena's Castle
 FILENAME=50palutena
 OFFSET=2.45
 LENGTH=200
@@ -946,12 +946,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@@@@@@@ ‚©‚ª‚Ý
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ ã‹ãŒã¿
 COMMENT=
 GENRE=9
 
 #51
-SONGNAME=ƒ}ƒŠƒIƒuƒ‰ƒU[ƒY
+SONGNAME=Mario Bros.
 FILENAME=51marioBr
 OFFSET=2.05
 LENGTH=200
@@ -970,7 +970,7 @@ COMMENT=
 GENRE=9
 
 #52
-SONGNAME=‚w‚d‚u‚h‚n‚t‚r
+SONGNAME=Xevious
 FILENAME=52XV
 OFFSET=2
 LENGTH=200
@@ -984,12 +984,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@  ƒ[@ƒr@ƒE@ƒX
+RUBY=ã€€ã€€ã€€  ã‚¼ã€€ãƒ“ã€€ã‚¦ã€€ã‚¹
 COMMENT=
 GENRE=8
 
 #53
-SONGNAME=ƒhƒ“ƒL[ƒRƒ“ƒO
+SONGNAME=Donkey Kong
 FILENAME=53DK
 OFFSET=1.95
 LENGTH=200
@@ -1008,7 +1008,7 @@ COMMENT=
 GENRE=9
 
 #54
-SONGNAME=ƒhƒ“ƒL[ƒRƒ“ƒO‚i‚qD
+SONGNAME=Donkey Kong Jr.
 FILENAME=54DKJr
 OFFSET=1.95
 LENGTH=200
@@ -1022,12 +1022,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=@@@@@@@@@@@@@@  ƒWƒ…ƒjƒA
+RUBY=ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€  ã‚¸ãƒ¥ãƒ‹ã‚¢
 COMMENT=
 GENRE=9
 
 #55
-SONGNAME=ƒNƒ‹ƒNƒ‹ƒ‰ƒ“ƒh
+SONGNAME=Clu Clu Land
 FILENAME=55kurukuru
 OFFSET=1.95
 LENGTH=200
@@ -1046,7 +1046,7 @@ COMMENT=
 GENRE=9
 
 #56
-SONGNAME=ƒAƒCƒXƒNƒ‰ƒCƒ}[
+SONGNAME=Ice Climbers
 FILENAME=56Ice
 OFFSET=1.95
 LENGTH=200
@@ -1065,7 +1065,7 @@ COMMENT=
 GENRE=9
 
 #57
-SONGNAME=Œ©‚æA—EŽÒ‚Í‹A‚é
+SONGNAME=è¦‹ã‚ˆã€å‹‡è€…ã¯å¸°ã‚‹
 FILENAME=57conquer
 OFFSET=0
 LENGTH=180
@@ -1079,12 +1079,12 @@ PRICE=0
 4=0
 B=0
 C=0
-RUBY=  ‚Ý@‚ä‚¤‚µ‚á  ‚©‚¦
+RUBY=  ã¿ã€€ã‚†ã†ã—ã‚ƒ  ã‹ãˆ
 COMMENT=
 GENRE=4
 
 #58
-SONGNAME=ƒ`ƒ…[ƒgƒŠƒAƒ‹
+SONGNAME=Tutorial
 FILENAME=58dk3tutorial
 OFFSET=0
 LENGTH=200
