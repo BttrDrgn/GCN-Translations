@@ -28,3 +28,9 @@ Text($24879A0E, "I hope you can resolve") ; db NEWLINE, "everyone's issues!" ; N
 Text($24879A47, "Big God will always be") ; db NEWLINE, "watching ", $00 ; fill 40
 
 //Chibi
+
+//Pineco
+Text($248785D9, "Sue... Sue...") ; Next() ; fill 5
+Text($24E6F632, "Sue... Sue...") ; Next() ; fill 5
+Text($38DDC3E9, "Sue... Sue...") ; Next() ; fill 5
+Text($3D07AFAE, "Sue... Sue...") ; Next() ; fill 5

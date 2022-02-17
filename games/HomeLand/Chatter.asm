@@ -319,6 +319,9 @@ Text($41C054C6, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
 Text($43B68770, " found %s") ; fill 7
 Text($49B55DF8, " found %s") ; fill 7
 
+//NPC in the way
+TextShiftJIS($43B55094, "Can't Go") ; fill 2
+TextShiftJIS($43CEFD64, "Can't Go") ; fill 2
 
 //Battle messages
 TextShiftJIS($43B5439E, " Damage") ; fill 1

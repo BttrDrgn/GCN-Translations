@@ -1,21 +1,23 @@
-//Room
 Text($23E20CF8, "Mother") ; fill 5
-//End
 
-//Park
 Text($3C08A74B, "Bell") ; fill 2
+
 Text($3C089E0B, "Hischin") ; fill 2
+
 Text($3C08B375, "Timote") ; fill 3
+
 Text($3C08B193, "Lyanse") ; fill 3
+
 Text($3C08A171, "Obada") ; fill 4
-//End
 
-//Cloots
 Text($24877C04, "Chib") ; fill 1
-//End
 
-//General
 Text($3C08A823, "Big God") ; fill 8
+
+Text($24878335, "Pineco") ; fill 1
+Text($24E6F363, "Pineco") ; fill 1
+Text($38DDC11A, "Pineco") ; fill 1
+Text($3D07AD0A, "Pineco") ; fill 1
 
 Text($23E1CC00, "Angel") ; fill 2
 Text($3C08BE74, "Angel") ; fill 2
@@ -85,4 +87,19 @@ Text($345BC0F0, "Shopkeep") ; fill 1
 Text($35BB5223, "Shopkeep") ; fill 1
 Text($37E8654F, "Shopkeep") ; fill 1
 Text($3A234D6C, "Shopkeep") ; fill 1
-//End
+
+Text($31B2E16D, "Hossie") ; fill 3
+Text($3243B5D3, "Hossie") ; fill 3
+Text($334A952E, "Hossie") ; fill 3
+Text($337EBCCB, "Hossie") ; fill 3
+Text($33D123CE, "Hossie") ; fill 3
+Text($3560CB11, "Hossie") ; fill 3
+Text($35D0E11A, "Hossie") ; fill 3
+Text($3612F7DB, "Hossie") ; fill 3
+Text($3662F1EB, "Hossie") ; fill 3
+Text($36722F1B, "Hossie") ; fill 3
+Text($3D078CD1, "Hossie") ; fill 3
+Text($43B463B4, "Hossie") ; fill 3
+Text($43CF9474, "Hossie") ; fill 3
+Text($49B5D0C8, "Hossie") ; fill 3
+
