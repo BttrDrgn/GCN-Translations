@@ -20,14 +20,22 @@ constant RED = $BB
 constant QUOTE = $22
 constant NEWLINE = $0A
 
+//Wait for user input/press a
 macro Next() {
   db $81, $A5
 }
 
+//Delays the next message from loading
+macro Continue() {
+  db $81, $A4
+}
+
+//Menu prompt next
 macro Prompt() {
   db $81, $9A
 }
 
+//VA macros because %s doesn't like to compile properly
 macro DoubleVA() {
   db $25, $44
 }
