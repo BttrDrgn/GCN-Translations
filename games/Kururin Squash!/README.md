@@ -1,3 +1,3 @@
 
 # Kururin Squash!
-![Banner](/../assets/Kururin Squash!/Banner.png)
+![Banner](/../assets/Kururin%20Squash!/Banner.png)
