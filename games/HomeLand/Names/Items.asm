@@ -5,6 +5,10 @@ Text($00199D88, "Money") ; fill 2
 Text($43ADA8E4, "Money") ; fill 2
 Text($43C8DDAC, "Money") ; fill 2
 Text($49B086F0, "Money") ; fill 2
+Text($43CF180C, " Money:") ; fill 1
+Text($43CF1814, " boru") ; fill 3
+Text($43B53F84, " Money:") ; fill 1
+Text($43B53F8C, " boru") ; fill 3
 
 Text($43B57214, "%s: %s boru") ; fill 1
 Text($43CF1CCC, "%s: %s boru") ; fill 1
