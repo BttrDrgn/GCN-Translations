@@ -308,12 +308,10 @@ Text($37E86282, "Thank you!") ; Next() ; fill 9
 Text($43B563F0, "Are you sure?") ; fill 11
 Text($43CF1084, "Are you sure?") ; fill 11
 
-//End
-
 //God phone
 Text($41BD64EA, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
 Text($41C054C6, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
-//End
+
 
 //Pickup item
 Text($43B68770, " found %s") ; fill 7
@@ -349,7 +347,12 @@ TextShiftJIS($43CF03DC, "Unequip") ; fill 2
 TextShiftJIS($43B54418, "Blocking") ; fill 1
 TextShiftJIS($43CEF0E8, "Blocking") ; fill 1
 
-TextShiftJIS($43CF0424, "Got Item") ; fill 2
-TextShiftJIS($43B55740, "Got Item") ; fill 2
-TextShiftJIS($29BDAC36, "Got Item") ; fill 2
-//End
+TextShiftJIS($43B55740, "Got") ; fill 10
+TextShiftJIS($43CF0424, "Got") ; fill 10
+
+TextShiftJIS($3E9ACF8F, "No Space") ; fill 5
+TextShiftJIS($3E9AE40E, "No Space") ; fill 5
+TextShiftJIS($41BD5B58, "No Space") ; fill 5
+TextShiftJIS($41C04B34, "No Space") ; fill 5
+TextShiftJIS($43B55750, "No Space") ; fill 5
+TextShiftJIS($43CF0434, "No Space") ; fill 5

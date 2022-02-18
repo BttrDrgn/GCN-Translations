@@ -23,6 +23,8 @@ Text($43CF0E8C, "Run") ; fill 5
 Text($43CF1738, "Block") ; fill 4
 Text($43B5610C, "Open") ; fill 4
 Text($43CF0D90, "Open") ; fill 4
+Text($43B56200, "Wait") ; fill 8
+Text($43CEFD64, "Wait") ; fill 8
 
 //Item Menu
 Text($43B5620C, "I do not have any items") ; fill 5
