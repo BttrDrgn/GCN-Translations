@@ -304,6 +304,59 @@ Text($37115CEA, "Thank you!") ; Next() ; fill 9
 Text($3731780B, "Thank you!") ; Next() ; fill 9
 Text($37E86282, "Thank you!") ; Next() ; fill 9
 
+Text($24C432C0, "You have no space left.") ; fill 2
+Text($26687E24, "You have no space left.") ; fill 2
+Text($27C15A22, "You have no space left.") ; fill 2
+Text($27F97424, "You have no space left.") ; fill 2
+Text($297BBDF0, "You have no space left.") ; fill 2
+Text($2AEF27B0, "You have no space left.") ; fill 2
+Text($2B13E390, "You have no space left.") ; fill 2
+Text($2C41F668, "You have no space left.") ; fill 2
+Text($2C68D558, "You have no space left.") ; fill 2
+Text($2E493E8F, "You have no space left.") ; fill 2
+Text($2FAD3CED, "You have no space left.") ; fill 2
+Text($2FFC0174, "You have no space left.") ; fill 2
+Text($3050FE98, "You have no space left.") ; fill 2
+Text($306E60A0, "You have no space left.") ; fill 2
+Text($30DB8C20, "You have no space left.") ; fill 2
+Text($3305D940, "You have no space left.") ; fill 2
+Text($334A9EEB, "You have no space left.") ; fill 2
+Text($34335147, "You have no space left.") ; fill 2
+Text($345BBE24, "You have no space left.") ; fill 2
+Text($3492ECDC, "You have no space left.") ; fill 2
+Text($35BB1F8C, "You have no space left.") ; fill 2
+Text($362A3208, "You have no space left.") ; fill 2
+Text($37115D88, "You have no space left.") ; fill 2
+Text($373178A9, "You have no space left.") ; fill 2
+Text($37E86320, "You have no space left.") ; fill 2
+Text($43B56408, "You have no space left.") ; fill 2
+Text($43CF109C, "You have no space left.") ; fill 2
+
+Text($24C43476, "; equip it now?"); fill 5
+Text($26687FDA, "; equip it now?"); fill 5
+Text($27C15BA3, "; equip it now?"); fill 5
+Text($27F975DA, "; equip it now?"); fill 5
+Text($297BBFA6, "; equip it now?"); fill 5
+Text($2AEF2966, "; equip it now?"); fill 5
+Text($2B13E546, "; equip it now?"); fill 5
+Text($2C41F817, "; equip it now?"); fill 5
+Text($2C68D70E, "; equip it now?"); fill 5
+Text($2E494045, "; equip it now?"); fill 5
+Text($2FAD3EA3, "; equip it now?"); fill 5
+Text($3051004E, "; equip it now?"); fill 5
+Text($306E6256, "; equip it now?"); fill 5
+Text($30DB8DD6, "; equip it now?"); fill 5
+Text($3305DAF6, "; equip it now?"); fill 5
+Text($334AA0A1, "; equip it now?"); fill 5
+Text($343352F6, "; equip it now?"); fill 5
+Text($345BBFDA, "; equip it now?"); fill 5
+Text($3492EE92, "; equip it now?"); fill 5
+Text($35BB2142, "; equip it now?"); fill 5
+Text($362A33BE, "; equip it now?"); fill 5
+Text($37115F3E, "; equip it now?"); fill 5
+Text($37317A5F, "; equip it now?"); fill 5
+Text($37E864D6, "; equip it now?"); fill 5
+
 //Bulk selling
 Text($43B563F0, "Are you sure?") ; fill 11
 Text($43CF1084, "Are you sure?") ; fill 11

@@ -217,11 +217,16 @@ Text($00116084, "The memory card in Slot A is used to record the adventure.\n")
 Text($001160BF, "Please do not turn off the power or remove the card.") ; fill 5
 
 //Shop menu
-Text($43CF1074, "Bulk Sell") ; fill 7
-Text($43B563E0, "Bulk Sell") ; fill 7
 
 Text($43B563BC, "Sell") ; fill 4
 Text($43CF1050, "Sell") ; fill 4
+Text($43B563E0, "Bulk Sell") ; fill 7
+Text($43CF1074, "Bulk Sell") ; fill 7
+
+Text($43B563B4, "Buy") ; fill 5
+Text($43CF1048, "Buy") ; fill 5
+Text($43B563D0, "Buy In Bulk") ; fill 5
+Text($43CF1064, "Buy In Bulk") ; fill 5
 
 Text($24C3F5A9, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
 Text($24C43446, "Shopping") ; fill 7 ; db "Sell Stuff" ; fill 5 ; db "Close" ; fill 2
