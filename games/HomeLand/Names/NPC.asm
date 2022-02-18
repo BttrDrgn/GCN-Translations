@@ -14,6 +14,11 @@ Text($24877C04, "Chib") ; fill 1
 
 Text($3C08A823, "Big God") ; fill 8
 
+Text($25899896, "Borio") ; fill 2
+Text($25A16A16, "Borio") ; fill 2
+Text($387DE5C4, "Borio") ; fill 2
+Text($3894CC18, "Borio") ; fill 2
+
 Text($24878335, "Pineco") ; fill 1
 Text($24E6F363, "Pineco") ; fill 1
 Text($38DDC11A, "Pineco") ; fill 1
