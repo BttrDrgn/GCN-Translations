@@ -1,3 +1,5 @@
+ReplaceAsset($4E5F75E4, "fs/demo/text/item.txt", 12890)
 ReplaceAsset($4E5FD634, "fs/demo/text/mode.txt", 152)
+ReplaceAsset($4E5FEE78, "fs/demo/text/stage.txt", 5060)
 ReplaceAsset($4E60023C, "fs/demo/text/type.txt", 112)
 ReplaceAsset($4E6002AC, "fs/demo/text/vsmenu.txt", 1108)
