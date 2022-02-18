@@ -1,0 +1,513 @@
+「Heart-up」（1 use）
+Increases the number of hearts to
+five for a better piece of mind.
+ＩＴＥＭ＿Ｉ０１
+ＩＴＥＭ＿Ｉ０１
+ＩＴＥＭ＿Ｉ０１
+ＩＴＥＭ＿Ｉ０２
+ＩＴＥＭ＿Ｉ０２
+ＩＴＥＭ＿Ｉ０２
+ＩＴＥＭ＿Ｉ０３
+ＩＴＥＭ＿Ｉ０３
+ＩＴＥＭ＿Ｉ０３
+ＩＴＥＭ＿Ｉ０４
+ＩＴＥＭ＿Ｉ０４
+ＩＴＥＭ＿Ｉ０４
+「Amazing heart」（１use）
+Start from the Respawn Area even
+if you lose all of your hearts!
+ＩＴＥＭ＿Ｉ０６
+ＩＴＥＭ＿Ｉ０６
+ＩＴＥＭ＿Ｉ０６
+「Classic Helirin」
+The common Heririn
+unlocked by default.
+「Colorful Helirin」
+Looks like a muffler
+and is a great value.
+「Blue Gradient Helirin」
+Recommended for calm,
+refreshed indiviuals.
+「Orange Gradient Helirin」
+This Helirin is themed with
+bright and stunning colors.
+「Green Gradient Helirin」
+Refresh your body and
+soul with shades of green.
+「Block Helirin」
+Redesigned using a cute
+pink-based shade.
+「Chocolate Helirin」
+A Helirin made from a chocolate bar.
+Tastes like very sweet milk chocolate.
+「Snowman Helirin」
+A special snowman
+that can never melt.
+「Tank Helirin」
+Even though it's a tank, it can fly!
+Made of 76mm boxwood!
+「Hot Chocolate Helirin」
+Helirin that warms you up
+just by looking at it!
+「Rainbow Helirin」
+Helirin sporting a bright
+rainbow of colors.
+「Sakura Helirin」
+Pink Helirin popular
+with the girls.
+「Matcha Sakura Helirin」
+Popular with relaxed girls.
+
+「Wave Helirin」
+Japanese-style Helirin
+with waves painted on the wings.
+「Mushroom Helirin」
+You can't eat the mushrooms because
+they are part of the design.
+「Sky Helirin」
+This Helirin is fun to
+ride on a sunny day.
+「Planet Helirin」
+You can see the wonders of the
+universe through the wings of this Helirin.
+「Black Helirin」
+A dark Helirin that has
+a glowing yellow star.
+「Aqua Helirin」
+Cool design featuring
+blue polka dots.
+「Camo Helirin」
+Makes it easy to
+hide in the woods.
+「Cookie Helirin」
+Topped with delicious
+icing and sprinkles.
+「Strawberry Helirin」
+A delicious mix of
+strawberries and milk.
+「British Helirin」
+I'm a British pilot!
+
+「OneStar Helirin」
+This star is a
+popular icon.
+「Watermelon Helirin」
+Add salt to make this
+summer treat sweeter.
+「Bee Helirin」
+A strange bee that can't
+fly without rotating.
+「Paisley Helirin」
+An exotic design.
+
+「Aroma Helirin」
+A Flower Helirin
+that smells good.
+「Nintendo Helirin」
+Mario's emblem
+rides on the wing.
+「Slicer Helirin」
+The blades of this Super Helirin 
+are very shiny and powerful.
+「Tie-dye Helirin」
+The mysterious color
+amazes the viewer.
+「Candy Helirin」
+I don't know how it tastes
+because I haven't tried it yet.
+「Kamasley Helirin」
+There are no blind spots with
+these sickles on its wing and head!
+「Snake Helirin」
+Helirin made of
+snake leather.
+「Leopard Helirin」
+This leopard-shaped
+Helirin makes me feel rich.
+「Zebra Helirin」
+The two-tone color makes this
+Helirin feel even more like a zebra.
+「Tiger Helirin」
+This Helirin looks as
+strong as a tiger.
+「Holstein Helirin」
+A cow-like Helirin with a
+fashionable black brindle.
+「Wood Helirin」
+The pattern on the wood
+gives you a sense of peace.
+「Junk Helirin」
+Helirin made of
+iron plating.
+「Ketchup Helirin」
+Ketchup-colored Helirin
+for tomato lovers.
+「Bowling Helirin (?)」
+Cool Helirin with
+fashionable design.
+「Fire Helirin」
+Hot-tempered Heliline
+with burning flames.
+「Skull Helirin」
+Skull and crossbones
+design on a black body.
+「Spider Helirin」
+Spins a web that won't
+let go of its prey.
+「Heart Helirin」
+This Helirin has a lot
+of love to go around.
+「Knyarin」
+Messy, but not
+worth avoiding it.
+「Star Helirin」
+A Star Helirin that looks
+like a konpieto.
+「Yusha' Helirin」
+Only the hero can ride the
+legendary sword Helirin.
+「Gold Helirin」
+Helirin made of solid gold.
+Reward for collecting all coins.
+「Platinum Helirin」
+Helirin made of platinum.
+Reward for earning stars on all stages.
+「Normal Meter」
+The default meter unlocked from the start.
+Simple and easy to play.
+「Sickness Meter」
+If you hit a wall underwater,
+your air will run out!
+「Psychedelic」
+A mysterious meter designed
+with psyechedelic colors.
+「Note Meter」
+The meter check mark of the
+notebook design disappears.
+「Technometer」
+High tech meter with
+various cool buttons.
+「Ramen Meter」
+The ramen will spill
+if you hit a wall!
+「Fish Meter」
+Be careful to not let
+the cats eat the fish!
+「Shingouki Meter」
+Adds kicks to the course.
+Be aware of sudden jumps!
+「Chidori Meter」
+The birds will
+fly away when hit.
+「Kururin Family Meter」
+Of the 13 friends,
+watch out for Maigo!
+「Flower Meter」
+Meter full of flowers.
+
+「Rainbow Meter」
+Beautiful pastel shades.
+
+「Magicians Meter」
+The magicians from Kururin
+Paradise are all here!
+「Fantasy Meter」
+Fashionable meter
+with calm colors.
+「Isogashima Meter」
+The bosses are here!
+Will the game become too ugly?
+「Junk Meter」
+If you're a man with
+astringent gears, choose this!
+「Ghost House Meter」
+The ghosts will sleep soon
+when the lights go out.
+「Kingyo Meter」
+Speaking of festivals,
+after all, Kingyo Sukui!
+「Summer Meter」
+Eating watermelon under a blue sky
+in a field full of sunflowers.
+「Witch Meter」
+A little adult funiki as a possible
+reward for clearing all modes?
+
+
+
+「スウィートアイランド１の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド２の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド３の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド４の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド５の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド６の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド７の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「スウィートアイランド８の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド１の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド２の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド３の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド４の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド５の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド６の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド７の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「ナチュラルワールド８の
+　　　　　　　　　　Model」
+これを見てべんきょうしよう
+「スノースケープ１のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ２のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ３のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ４のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ５のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ６のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ７のおてほん」
+これを見てべんきょうしよう
+
+「スノースケープ８のおてほん」
+これを見てべんきょうしよう
+
+「フューチャービジョン１の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン２の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン３の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン４の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン５の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン６の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン７の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「フューチャービジョン８の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット１の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット２の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット３の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット４の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット５の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット６の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット７の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「ワンダープラネット８の
+　　　　　　　　　　おてほん」
+これを見てべんきょうしよう
+「スウィートアイランド１の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド２の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド３の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド４の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド５の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド６の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド７の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スウィートアイランド８の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド１の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド２の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド３の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド４の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド５の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド６の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド７の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ナチュラルワールド８の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ１の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ２の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ３の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ４の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ５の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ６の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ７の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「スノースケープ８の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン１の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン２の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン３の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン４の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン５の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン６の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン７の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「フューチャービジョン８の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット１の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット２の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット３の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット４の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット５の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット６の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット７の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「ワンダープラネット８の
+　　　　　　　すごいおてほん」
+すごいプレイが入っているよ
+「Sweet Island Map」
+You can see the minimaps of
+the stages in Sweet Island!
+「Natural World Map」
+You can see the minimaps of
+the stages in Natural World!
+「Snowscape Map」
+You can see the minimaps of
+the stages in Snowscape!
+「Future City Map」
+You can see the minimaps of
+the stages in Future City!
+「WonderPlanet Map」
+You can see the minimaps of
+the stages in WonderPlanet!
+「Turn & Advance」
+A quiz game using the
+Game Boy Advance and Link Cable!
+「Tsururin」
+You can play Slippery Mode
+as a reward for clearing all stages!
+「Extra course」
+いつもとちがう角度のコースで
+遊べる！
+ぜんぶのステージで
+うさぎ先生より速いタイムを
+だしたきねん
+ぜんぶのステージで
+イソガシマ教授より速いタイムを
+だしたきねん
+ぜんぶのステージで
+トトーリンより速いタイムを
+だしたきねん
+ＩＴＥＭ＿ＭＡＸ
+ＩＴＥＭ＿ＭＡＸ
+ＩＴＥＭ＿ＭＡＸ
