@@ -83,6 +83,19 @@ Text($3EE6D7BF, "No") ; fill 5
 Text($41BD646B, "No") ; fill 5
 Text($41C05447, "No") ; fill 5
 
+//Skills
+Text($43B43370, "Call Somone") ; fill 4
+Text($43CE2688, "Call Somone") ; fill 4
+Text($49B491B4, "Call Somone") ; fill 4
+Text($43B43F18, "Loud voice reaches around the world") ; fill 1
+Text($43B43F18, "Loud voice reaches around the world") ; fill 1
+Text($43CE3230, "Loud voice reaches around the world") ; fill 1
+
+Text($43B43380, "Heal") ; fill 4
+Text($43CE2698, "Heal") ; fill 4
+Text($49B491C4, "Heal") ; fill 4
+Text($43B43F3C, "Recover Life") ; fill 8
+Text($43CE3254, "Recover Life") ; fill 8
 
 //Mascot
 Text($43ADDF6C, "Block") ; fill 7
@@ -90,11 +103,8 @@ Text($43ADDF90, "Pinnock") ; fill 5
 Text($43ADDFD0, "Ganto") ; fill 3
 Text($43B242B4, RED) ; db "B Button", BLACK, ": Quit & Return" ; fill 11
 Text($43B3D704, "Exchange Item") ; fill 3
-Text($43B43370, "Call Somone") ; fill 4
 Text($43B434B8, "Guts") ; fill 4
-Text($43B43F18, "Loud voice reaches around the world") ; fill 1
 Text($43B44194, "Increase force") ; fill 2
-Text($43B4AC37, "Pow") ; fill 6
 Text($43B55730, "    Sort Items") ; fill 2
 TextShiftJIS($43B54790, "Joining") ; fill 2
 TextShiftJIS($43B55B90, "Thinking") ; db $81, $63 ; fill 2
@@ -117,6 +127,10 @@ Text($43B56D18, "There is no Mascot here yet.") ; fill 8
 Text($43B56D3C, "I'm already on an adventure") ; fill 1
 
 //Stats and Level up menu
+Text($43B58BF4, "/ ") ; fill 2
+Text($43B58BF8, "Until Next Level:") ; fill 3
+Text($43B58C0C, "Current Completion:") ; fill 1
+Text($43B58C44, "     Exp:") ; fill 3
 Text($43B56428, "Normal") ; fill 6
 Text($43B58B90, "Clear Points") ; fill 4
 Text($43B58BA0, " points") ; fill 1
@@ -145,25 +159,21 @@ Text($43CF3F0C, "  Attack:") ; fill 3
 Text($43CF4164, "  Attack:") ; fill 3
 
 Text($43B58BD8, " Defense:") ; fill 3
-Text($43B58E34, "   Defense:") ; fill 3
 Text($43CF3F18, " Defense:") ; fill 3
+Text($43B58E34, "   Defense:") ; fill 3
 Text($43CF4174, "   Defense:") ; fill 3
 
-Text($3C08BE14, "Pow") ; fill 2
-Text($43B58BEC, " Power:") ; fill 2
-Text($43B58F7C, "Pow") ; fill 2
+Text($3C08BE14, " Pow") ; fill 1
+Text($43B4AC37, " Pow") ; fill 5
+Text($43B58F7C, " Pow") ; fill 1
+Text($43CF42BC, " Pow") ; fill 1
 Text($43CF3F24, " Power:") ; fill 2
-Text($43CF42BC, "Pow") ; fill 2
-
-Text($43B58BF4, "/ ") ; fill 2
-Text($43B58BF8, "Until Next Level:") ; fill 3
-Text($43B58C0C, "Current Completion:") ; fill 1
-Text($43B58C44, "     Exp:") ; fill 3
+Text($43B58BEC, " Power:") ; fill 2
 
 Text($3C08BE2D, "Life") ; fill 1
-Text($43B58BE4, "  Life:") ; fill 1
 Text($43B58F60, "Life") ; fill 1
 Text($43CF42A0, "Life") ; fill 1
+Text($43B58BE4, "  Life:") ; fill 1
 
 Text($3C08BE3D, " Level") ; fill 2  
 Text($43B58C3C, " Level") ; fill 2
