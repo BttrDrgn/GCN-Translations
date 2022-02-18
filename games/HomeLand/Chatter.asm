@@ -365,7 +365,6 @@ Text($43CF1084, "Are you sure?") ; fill 11
 Text($41BD64EA, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
 Text($41C054C6, "    ") ; db RED, "[ Big God Phone ]        ", BLACK, NEWLINE
 
-
 //Pickup item
 Text($43B68770, " found %s") ; fill 7
 Text($49B55DF8, " found %s") ; fill 7

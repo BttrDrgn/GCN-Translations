@@ -2,10 +2,10 @@
 Text($00115BC4, "Please wait...") ; fill 8
 
 //Action Menu
-Text($00114E44, "Block") ; fill 4
-Text($00114F20, "Respawn") ; fill 5
-Text($43B53EB0, "Block") ; fill 4
 Text($43B54940, "Attack") ; fill 6
+Text($43B53EA4, "Attack") ; fill 6
+Text($00114E44, "Block") ; fill 4
+Text($43B53EB0, "Block") ; fill 4
 Text($43B5494C, "Block") ; fill 4
 Text($43B560D8, "Status") ; fill 2
 Text($43B560E0, "Points") ; fill 6
@@ -16,10 +16,11 @@ Text($43B56114, "Examine") ; fill 5
 Text($43B56128, "Talk") ; fill 4
 Text($43B56130, "Team Up") ; fill 5
 Text($43B5613C, "Respawn") ; fill 5
+Text($43CF0DC8, "Respawn") ; fill 5
+Text($00114F20, "Respawn") ; fill 5
+Text($43CF0E8C, "Run") ; fill 5
 Text($43B561F8, "Run") ; fill 5
 Text($43CEF61C, "Block") ; fill 4
-Text($43CF0DC8, "Respawn") ; fill 5
-Text($43CF0E8C, "Run") ; fill 5
 Text($43CF1738, "Block") ; fill 4
 Text($43B5610C, "Open") ; fill 4
 Text($43CF0D90, "Open") ; fill 4
@@ -135,6 +136,9 @@ Text($43B58E18, "    Mind:") ; fill 3
 Text($43CF4158, "    Mind:") ; fill 3
 Text($43CF3F00, "    Mind:") ; fill 3
 
+Text($00114B74, "Attack") ; fill 6
+Text($43CEF610, "Attack") ; fill 6
+Text($43CF172C, "Attack") ; fill 6
 Text($43B58BCC, "  Attack:") ; fill 3
 Text($43B58E24, "  Attack:") ; fill 3
 Text($43CF3F0C, "  Attack:") ; fill 3
