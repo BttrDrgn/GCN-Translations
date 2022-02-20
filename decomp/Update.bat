@@ -1,2 +1,2 @@
-cd ..\\
-git submodule update --init --jobs=16
+cd ..
+git submodule update --remote --init --jobs=16
