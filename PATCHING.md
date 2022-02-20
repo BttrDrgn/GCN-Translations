@@ -2,7 +2,7 @@
 ## NKit.ISOs
 Nkit.ISOs may not work well with patching, and most certainly will not work well with compiling the actual project.
 
-To patch an ISO, please download the `Nkit + GameCube Partitions` archive from [Vimm's Lair](https://vimm.net/vault/?p=nkit) and drag and drop your `.nkit.iso` on to the `ConvertToISO.exe`
+To patch an ISO, please download `Nkit v1.4` from [GBAtemp](https://gbatemp.net/download/nkit.36157/) and drag and drop your `.nkit.iso` on to the `ConvertToISO.exe`
 When finished, an `.iso` file will be in the `Processing/GameCube/` directory of your Nkit folder.
 
 ## Patching
