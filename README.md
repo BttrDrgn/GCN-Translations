@@ -15,7 +15,7 @@ Please read the CONTRIBUTING guide [here](https://github.com/BttrDrgn/GCN-Transl
   - Make sure they are named properly! Check below in the [Supported Games section](https://github.com/BttrDrgn/GCN-Translations/blob/master/README.md#supported-games) for more info
 - Download the latest bass release from here https://github.com/ARM9/bass/releases/
 - Extract the bass release archive into the `bass` folder on the root of the project
-- Run the `.bat` of the game you wish to compile at the root of the project
+- Run the `.bat` of the game you wish to compile in the `scripts/build` folder if on Windows
 - The output should be in `output` when finished and will be named `{folder name} [U].iso`
 
 --------------
