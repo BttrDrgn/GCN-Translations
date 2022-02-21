@@ -20,7 +20,7 @@ Known files:
 - top.txg
     - Title Screen Menu
 - vs_menu.txg 
-    -VS Mode
+    - VS Mode
 - vs_result.txg
     - VS Mode Results
 - w_map.txg
