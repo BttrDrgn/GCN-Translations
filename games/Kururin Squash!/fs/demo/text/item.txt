@@ -41,11 +41,11 @@ pink-based shade.
 A Helirin made from a chocolate bar.
 Tastes like very sweet milk chocolate.
 「Snowman Helirin」
-A special snowman
-that can never melt.
+This unique snowman
+can never melt.
 「Tank Helirin」
 Even though it's a tank, it can fly!
-Made of 76mm boxwood!
+Made of 76mm boxwood.
 「Hot Chocolate Helirin」
 Helirin that warms you up
 just by looking at it!
@@ -62,20 +62,20 @@ Popular with relaxed girls.
 Japanese-style Helirin
 with waves painted on the wings.
 「Mushroom Helirin」
-You can't eat the mushrooms because
-they are part of the design.
+You can't eat these mushrooms!
+They are only part of the design.
 「Sky Helirin」
 This Helirin is fun to
 ride on a sunny day.
 「Planet Helirin」
 You can see the wonders of the
-universe through the wings of this Helirin.
+universe through its wings.
 「Black Helirin」
 A dark Helirin that has
 a glowing yellow star.
 「Aqua Helirin」
 Cool design featuring
-blue polka dots.
+blue dots.
 「Camo Helirin」
 Makes it easy to
 hide in the woods.
@@ -90,7 +90,7 @@ I'm a British pilot!
 
 「OneStar Helirin」
 This star is a
-popular icon.
+very popular symbol.
 「Watermelon Helirin」
 Add salt to make this
 summer treat sweeter.
@@ -101,19 +101,19 @@ fly without rotating.
 An exotic design.
 
 「Aroma Helirin」
-A Flower Helirin
-that smells good.
+A nice smelling 
+Flower Helirin.
 「Nintendo Helirin」
 Mario's emblem
 rides on the wing.
 「Slicer Helirin」
-The blades of this Super Helirin 
-are very shiny and powerful.
+This Super Helirin has very
+shiny and powerful blades.
 「Tie-dye Helirin」
-The mysterious color
-amazes the viewer.
+The color mesmerizes
+the viewer.
 「Candy Helirin」
-I don't know how it tastes
+I'm not sure how it tastes
 because I haven't tried it yet.
 「Kamasley Helirin」
 There are no blind spots with
@@ -122,7 +122,7 @@ these sickles on its wing and head!
 Helirin made of
 snake leather.
 「Leopard Helirin」
-This leopard-shaped
+This leopard-like
 Helirin makes me feel rich.
 「Zebra Helirin」
 The two-tone color makes this
@@ -215,17 +215,17 @@ Paradise are all here!
 Fashionable meter
 with calm colors.
 「Isogashima Meter」
-The bosses are here!
-Will the game become too ugly?
+The bosses are here,
+and boy they are ugly!
 「Junk Meter」
-If you're a man with
-astringent gears, choose this!
+Choose this ff you're a
+man with astringent gears!
 「Ghost House Meter」
-The ghosts will sleep soon
-when the lights go out.
+The ghosts sleep when
+the lights go out.
 「Kingyo Meter」
-Speaking of festivals,
-after all, Kingyo Sukui!
+Kingyo Sukui, the
+best of all festivals!
 「Summer Meter」
 Eating watermelon under a blue sky
 in a field full of sunflowers.
