@@ -3,4 +3,5 @@
 /bass/
 /release/
 /scripts/dump/*.txt
+/tools/xdelta3/
 .vscode/

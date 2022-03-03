@@ -57,3 +57,4 @@ Text($3, "E")
 include "Banner.asm"
 include "Title.asm"
 include "Text.asm"
+include "Obj.asm"
