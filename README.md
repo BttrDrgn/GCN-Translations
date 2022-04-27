@@ -25,7 +25,7 @@ If you are using Visual Studio Code, you can use the `tasks.json` found [here](h
 
 To install `tasks.json`
 - Make a `.vscode` folder in the game's folder that you want to build
-- Download said game's `task.json` from [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode)
+- Download said game's `tasks.json` from [here](https://github.com/BttrDrgn/GCN-Translations/tree/assets/Build%20Tasks/Vscode)
 - Place it in the `.vscode` folder
 - `Ctrl + Shift + B` to build
 
