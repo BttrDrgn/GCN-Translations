@@ -42,7 +42,7 @@ Text($3C08A808, "Nothing") ; fill 3
 
 //-- Where Am I
 Text($3C08A832, "This is the Quester Park.") ; db $81, $A5 ; fill 2 ; db "\n"
-Text($3C08A89A, "We call it ") ; db RED, "QUester Park.", BLACK ; fill 20
+Text($3C08A89A, "We call it ") ; db RED, "Quester Park.", BLACK ; fill 20
 Text($3C08A8CB, "The park is connected to") ; fill 4
 Text($3C08A908, "the entire world.") ; Next() ; fill 3
 //
@@ -79,6 +79,7 @@ Text($3C089E62, "If you want to know what's\nhappening,feel free to ask me\nabou
 Text($3C089EAD, "What do you want to know?") ; Prompt() ; fill 2
 
 //Timote Dialogue
+//TODO
 Text($3C08B37E, "How do you do?") ; db NEWLINE, "I'm the one that can teach you how to talk to others!" ; Next() ; fill 1
 Text($3C08B3C6, "Since it is your first time") ; db NEWLINE, "here, I will tell you about it later" ; Next() ; fill 1
 
