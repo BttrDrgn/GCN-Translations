@@ -1,6 +1,6 @@
 
 # Nintendo Puzzle Collection
-
+![Banner](/../assets/Nintendo%20Puzzle%20Collection/Banner.png)
 # Translation Goals
 1. Localize title screen
 2. Port Dr. Mario 64 graphics
