@@ -1,2 +1,2 @@
 # Demo
-Not really sure why its called this but this is where most of the game assets are stored
+This folder includes the game assets used in the Japanese demo disc build of the game (10/01/2004), containing virtually all of the raw text.
