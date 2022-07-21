@@ -17,10 +17,12 @@ Known files:
     - Options
 - pause.txg
     - Pause Menu
+- resalt.txg
+    -  Results
 - top.txg
     - Title Screen Menu
 - vs_menu.txg 
-    - VS Mode
+    - VS Mode; mostly complete but graphical bugs present
 - vs_result.txg
     - VS Mode Results
 - w_map.txg
