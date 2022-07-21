@@ -3,9 +3,9 @@
 Known files:
 - ano00.txg
     - In-game text; complete & finalized
-- ch_c_resalt
+- ch_c_resalt.txg
     - Results (Cleared)
-- ch_c_resalt
+- ch_c_resalt.txg
     - Results (Failed)
 - chosen.txg
     - Time Trials
