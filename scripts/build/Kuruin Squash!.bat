@@ -1,2 +1,2 @@
 cd ..\\..\\
-bass\\bass.exe "games\\Kuruin Squash!\\Main.asm"
+bass\\bass.exe "games\\Kururin Squash!\\Main.asm"
