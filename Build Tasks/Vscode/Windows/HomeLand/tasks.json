@@ -6,16 +6,6 @@
         {
             "label": "HomeLand | Win",
             "type": "shell",
-            "command": "cls ; cd ../../decomp/homeland ; make clean ; make ; cd ../../ ; echo '[INFO] Building decomp finished' ; echo '[INFO] Compiling patches' ; bass\\bass.exe games\\HomeLand\\Main.asm ; echo '[INFO] Patches compiled' ; echo ---------- ; echo Finished! ; echo ----------",
-            "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": false
-            }
-        },
-        {
-            "label": "HomeLand | Win (NO DECOMP)",
-            "type": "shell",
             "command": "cls ; cd ../../ ; echo '[INFO] Compiling patches' ; bass\\bass.exe games\\HomeLand\\Main.asm ; echo '[INFO] Patches compiled' ; echo ---------- ; echo Finished! ; echo ----------",
             "problemMatcher": [],
             "group": {
