@@ -6,7 +6,7 @@ services:
       context: ./
       dockerfile: Dockerfile
     container_name: "gcn-translation"
-    image: exptom/gcn-translation
+    image: bttrdrgn/gcn-translation
     volumes:
       - ../isos:/GCN-Translations/isos
       - ../output:/GCN-Translations/output
