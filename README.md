@@ -18,6 +18,13 @@ Please read the CONTRIBUTING guide [here](https://github.com/BttrDrgn/GCN-Transl
 - Run the `.bat` of the game you wish to compile in the `scripts/build` folder if on Windows
 - The output should be in `output` when finished and will be named `{folder name} [U].iso`
 
+## Using Docker
+- The `docker` directory contains a `Dockerfile` and example `docker-compose.yml`
+- Update the `docker-compose.yml` `volumes` section to map your local directories for `isos` and `outputs`. (Ensure all iso files are named correctly)
+- Start the docker container: `docker compose up --build --detach`
+- Translate as many games as you wish, for example: `docker exec gcn-translation ./translate "HomeLand"`
+- Stop the docker container: `docker compose down`
+
 --------------
 
 ### Visual Studio Code
