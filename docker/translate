@@ -1,0 +1,26 @@
+#!/bin/bash
+
+cd /GCN-Translations
+
+# Output command usage
+if [ -z "$1" ]
+then
+     echo "Usage: ./translate \"Name Of Game\""
+     exit 1
+fi
+
+# check provided game exists
+if [ ! -d "games/$1" ]; then
+    echo "Game '$1' does not exist, available choices are:"
+    ls games
+    exit 1
+fi
+
+# update translations git repo
+echo "Updating translations repo..."
+git pull
+
+# build the ISO
+echo "Creating translated ISO for '$1'..."
+bass/bass "games/$1/Main.asm"
+

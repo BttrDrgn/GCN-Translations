@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  gcn-translation:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: "gcn-translation"
+    image: bttrdrgn/gcn-translation
+    volumes:
+      - ../isos:/GCN-Translations/isos
+      - ../output:/GCN-Translations/output
+    restart: unless-stopped
+    tty: true
