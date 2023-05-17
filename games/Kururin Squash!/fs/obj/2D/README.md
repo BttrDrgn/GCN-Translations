@@ -25,5 +25,7 @@ Known files:
     - VS Mode; mostly complete but graphical bugs present
 - vs_result.txg
     - VS Mode Results
+- w_demo.txg
+    - Tutorial Movies  
 - w_map.txg
     - World Map
