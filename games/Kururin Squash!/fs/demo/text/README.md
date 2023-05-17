@@ -1,16 +1,22 @@
 # Text
 
 - boss.txt
-    - Boss Battles
+    - in-game boss battle text
 - Challenge.txt 
-    - in-game challenge level text
-- item.txt & minor variant item2.txt 
-    - items & descriptions (shop)
-- Opening.txt 
-    - opening story text
+    - in-game hints
+- item.txt (for shop), item2.txt (for inventory menu) 
+    - items & descriptions
+- mode.txt
+    - menu text for choosing game mode
+- Opening.txt
+    - opening cutscene text
+- Rank.txt
+    - achievements and post-game rewards
 - shop.txt & shop2.txt 
     - general text for shop
 - stage.txt 
     - in-game level text
+- type.txt
+    - menu text for choosing difficulty
 - vsmenu.txt 
     - option desciptions for VS Menu
