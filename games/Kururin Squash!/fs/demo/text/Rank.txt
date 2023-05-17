@@ -1,0 +1,111 @@
+R-1 :  30［］
+R-1 : 360［Congradulations!;Kururin!］
+R-1 : 380［］
+R-1 : 720［You've beaten my time in;all the stages!］
+R-1 : 740［］
+R-1 :1080［You've become such an excellent pilot!;You are now a true「Sensei」］
+R-1 :1100［］
+R-1 :1440［Gee, thanks!　;"Sensei." It has a nice ring to it.］
+
+R-2 :  30［］
+R-2 : 360［Hey hey, Kururin-kun!;You finally did it, nya!］
+R-2 : 380［］
+R-2 : 720［You've surpassed all my records!;Incredible!］
+R-2 : 740［］
+R-2 :1080［I hate to admit it, but you've; reached the level of「Professor」!］
+R-2 :1100［］
+R-2 :1440［Professor Kururin..;Now I sound really smart!］
+R-2 :1460［］
+R-2 :1800［Don't celebrate just yet,;there's someone even faster than me.］
+R-2 :1820［］
+R-2 :2160［One of my sources claims to;have seen a Legendary Pilot!］
+R-2 :2180［］
+R-2 :2520［A Legendary Helirin Pilot..;is that even possible？］
+
+R-3 :  30［］
+R-3 : 360［Just the other day, you were;learning how to fly..］
+R-3 : 380［］
+R-3 : 720［Seems like you have become a;full-fledged Helirin Pilot!］
+R-3 : 740［］
+R-3 :1080［Good job Kururin!;You've surpassed your own father!］
+R-3 :1100［］
+R-3 :1440［Gee, thanks, Dad!;It's fun to clear stages quickly, huh?］
+R-3 :1460［］
+R-3 :1800［You're my son, after all.;Strive to become the best Helirin Pilot!］
+R-3 :1820［］
+R-3 :2160［From now on, you are your greatest rival!;Strive for the fastest times!］
+
+R-4 :  30［］
+R-4 : 360［Congrats on clearing, Kururin!］
+R-4 : 380［］
+R-4 : 720［As a reward, I've bought you; a weird-looking Helirin］
+R-4 : 740［］
+R-4 :1080［It's a special Helirin called「Tsururin」!］
+R-4 :1100［］
+R-4 :1440［Yay!　Thank you, Sensei Rabbit!］
+R-4 :1460［］
+R-4 :1800［It doesn't have wings, so it's easy to;avoid obstacles, but it can't stay still］
+R-4 :1820［］
+R-4 :2160［When you play, choose;「Tsusurin」in Mode Select］
+R-4 :2180［］
+R-4 :2520［Have fun!］
+
+R-5 :  30［］
+R-5 : 360［Kururin, you are amazing!］
+R-5 : 380［］
+R-5 : 720［You've collected all;the coins in the stages!］
+R-5 : 740［］
+R-5 :1080［As a reward, I'll give you a rare;Helirin you can't buy in the shop!］
+R-5 :1100［］
+R-5 :1440［Wow!　Thanks, Sensei Rabbit!
+R-5 :1460［］
+R-5 :1800［「Gold Helirin」;It's made of real gold!］
+R-5 :1820［］
+R-5 :2160［I put it in the Inventory;so you can use it later.］
+R-5 :2180［］
+R-5 :2520［It performs the same;as the regular Helirin］
+
+R-6 :  30［］
+R-6 : 360［Kururin, you're truly amazing!］
+R-6 : 380［］
+R-6 : 720［You managed to master every stage!;That's quite impressive!］
+R-6 : 740［］
+R-6 :1080［It must have been tough;but you did a great job!］
+R-6 :1100［］
+R-6 :1440［Thanks, Sensei Rabbit!; I did my best］
+R-6 :1460［］
+R-6 :1800［As a reward, here's a Rare Helirin!;It's the「Platinum Helirin」!］
+R-6 :1820［］
+R-6 :2160［It has the same performance, but it has ;a truly beautiful platinum shine!］
+R-6 :2180［］
+R-6 :2520［Way to go, Kururin!;You've proven to be a Helirin Master!］
+
+R-7 :  30［］
+R-7 : 360［Just the other day, you were;learning how to pilot］
+R-7 : 380［］
+R-7 : 720［I never thought you'd master Tsururin;You truly are amazing!］
+R-7 : 740［］
+R-7 :1080［As a reward, here's a Special Item］
+R-7 :1100［］
+R-7 :1440［Yay!　Thanks, Sensei Rabbit!］
+R-7 :1460［］
+R-7 :1800［「Extra Course」can make;the course look different!］
+R-7 :1820［］
+R-7 :2160［You can select it from the;Special tab in your Inventory.］
+R-7 :2180［］
+R-7 :2520［You can use it in Adventure, too!;Use it to change the atmosphere］
+
+R-8 :  30［］
+R-8 : 360［Congradulations on completing;the Story mode!
+R-8 : 380［］
+R-8 : 720［You've beaten all the highscores!］
+R-8 : 740［］
+R-8 :1080［Well done! Your skills have definitely;improved, haven't they?］
+R-8 :1100［］
+R-8 :1440［Thanks, Sensei Rabbit!;I do feel like I've gotten better.］
+R-8 :1460［］
+R-8 :1800［As a reward, here is a rare;Helirin and Meter set!］
+R-8 :1820［］
+R-8 :2160［I put them in your item list; You should check them out］
+R-8 :2180［］
+R-8 :2520［Now conquer the other modes!; Time Trials is sure to give you a challenge.］

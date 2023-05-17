@@ -1,0 +1,40 @@
+a-1:うさぎ    ［Use dash and aim for the goal!］
+a-2:うさぎ    ［Crashing gives a 3 second penalty!］
+a-3:うさぎ    ［Use 'R' to wait rotations］
+a-4:うさぎ    ［Minimize extra movement with 'R'］
+a-5:うさぎ    ［Try to use the inside of the curve］
+a-6:うさぎ    ［Use caution in narrow areas!］
+a-7:うさぎ    ［Aim for shortcuts!］
+a-8:うさぎ    ［Some springs you shouldn't touch］
+b-1:うさぎ    ［Use good timing to slip through the pistons］
+b-2:うさぎ    ［Watch out for approaching pistons!］
+b-3:うさぎ    ［Don't get trapped between pistons!］
+b-4:うさぎ    ［Move carefully even around springs!］
+b-5:うさぎ    ［Pay attention to fast-moving pistons!］
+b-6:うさぎ    ［Dash into narrow areas to avoid obstacles!］
+b-7:うさぎ    ［There are many pistons ahead!］
+b-8:うさぎ    ［The road splits in the middle!］
+c-1:うさぎ    ［Helirin's rotation changes every attempt!］
+c-2:うさぎ    ［There's a fork in the road ahead!］
+c-3:うさぎ    ［Stay calm and dodge the gears!］
+c-4:うさぎ    ［Follow the path that fits your rotation!］
+c-5:うさぎ    ［Use caution with the fast moving gears!］
+c-6:うさぎ    ［Bump the springs at the right time!］
+c-7:うさぎ    ［Many rotating gears ahead!］
+c-8:うさぎ    ［Don't get lost!］
+d-1:うさぎ    ［Search for the right path!］
+d-2:うさぎ    ［Aim for the checkpoint!］
+d-3:うさぎ    ［Be careful to not get lost!］
+d-4:うさぎ    ［Watch out for dead ends!］
+d-5:うさぎ    ［Don't be tricked by similar shapes!］
+d-6:うさぎ    ［Be careful around sharp edges!］
+d-7:うさぎ    ［Don't go in circles!］
+d-8:うさぎ    ［Getting lost can lead to trouble!］
+e-1:うさぎ    ［Be cautious of the blades!］
+e-2:うさぎ    ［Pass around the outside of the blades!］
+e-3:うさぎ    ［Use the crevices to advance!］
+e-4:うさぎ    ［Use the shortcuts, too!］
+e-5:うさぎ    ［Watch out for fast blades!］
+e-6:うさぎ    ［Don't get caught by the blades!］
+e-7:うさぎ    ［Time your movement!］
+e-8:うさぎ    ［Good luck, Kururin!］
