@@ -1,0 +1,513 @@
+「Heart-up」（1 use）
+Increases the number of hearts to
+five for a better piece of mind.
+ＩＴＥＭ＿Ｉ０１
+ＩＴＥＭ＿Ｉ０１
+ＩＴＥＭ＿Ｉ０１
+ＩＴＥＭ＿Ｉ０２
+ＩＴＥＭ＿Ｉ０２
+ＩＴＥＭ＿Ｉ０２
+ＩＴＥＭ＿Ｉ０３
+ＩＴＥＭ＿Ｉ０３
+ＩＴＥＭ＿Ｉ０３
+ＩＴＥＭ＿Ｉ０４
+ＩＴＥＭ＿Ｉ０４
+ＩＴＥＭ＿Ｉ０４
+「Amazing heart」（１use）
+Start from the Respawn Area even
+if you lose all of your hearts!
+ＩＴＥＭ＿Ｉ０６
+ＩＴＥＭ＿Ｉ０６
+ＩＴＥＭ＿Ｉ０６
+「Classic Helirin」
+The common Heririn
+unlocked by default.
+「Colorful Helirin」
+Looks like a muffler
+and is a great value.
+「Blue Gradient Helirin」
+Recommended for calm,
+refreshed indiviuals.
+「Orange Gradient Helirin」
+This Helirin is themed with
+bright and stunning colors.
+「Green Gradient Helirin」
+Refresh your body and
+soul with shades of green.
+「Block Helirin」
+Redesigned using a cute
+pink-based shade.
+「Chocolate Helirin」
+A Helirin made from a chocolate bar.
+Tastes like very sweet milk chocolate.
+「Snowman Helirin」
+This unique snowman
+can never melt.
+「Tank Helirin」
+Even though it's a tank, it can fly!
+Made of 76mm boxwood.
+「Hot Chocolate Helirin」
+Helirin that warms you up
+just by looking at it!
+「Rainbow Helirin」
+Helirin sporting a bright
+rainbow of colors.
+「Sakura Helirin」
+Pink Helirin popular
+with the girls.
+「Matcha Sakura Helirin」
+Popular with relaxed girls.
+
+「Wave Helirin」
+Japanese-style Helirin
+with waves painted on the wings.
+「Mushroom Helirin」
+You can't eat these mushrooms!
+They are only part of the design.
+「Sky Helirin」
+This Helirin is fun to
+ride on a sunny day.
+「Planet Helirin」
+You can see the wonders of the
+universe through its wings.
+「Black Helirin」
+A dark Helirin that has
+a glowing yellow star.
+「Aqua Helirin」
+Cool design featuring
+blue dots.
+「Camo Helirin」
+Makes it easy to
+hide in the woods.
+「Cookie Helirin」
+Topped with delicious
+icing and sprinkles.
+「Strawberry Helirin」
+A delicious mix of
+strawberries and milk.
+「British Helirin」
+I'm a British pilot!
+
+「OneStar Helirin」
+This star is a
+very popular symbol.
+「Watermelon Helirin」
+Add salt to make this
+summer treat sweeter.
+「Bee Helirin」
+A strange bee that can't
+fly without rotating.
+「Paisley Helirin」
+An exotic design.
+
+「Aroma Helirin」
+A nice smelling 
+Flower Helirin.
+「Nintendo Helirin」
+Mario's emblem
+rides on the wing.
+「Slicer Helirin」
+This Super Helirin has very
+shiny and powerful blades.
+「Tie-dye Helirin」
+The color mesmerizes
+the viewer.
+「Candy Helirin」
+I'm not sure how it tastes
+because I haven't tried it yet.
+「Kamasley Helirin」
+There are no blind spots with
+these sickles on its wing and head!
+「Snake Helirin」
+Helirin made of
+snake leather.
+「Leopard Helirin」
+This leopard-like
+Helirin makes me feel rich.
+「Zebra Helirin」
+The two-tone color makes this
+Helirin feel even more like a zebra.
+「Tiger Helirin」
+This Helirin looks as
+strong as a tiger.
+「Holstein Helirin」
+A cow-like Helirin with a
+fashionable black brindle.
+「Wood Helirin」
+The pattern on the wood
+gives you a sense of peace.
+「Junk Helirin」
+Helirin made of
+iron plating.
+「Ketchup Helirin」
+Ketchup-colored Helirin
+for tomato lovers.
+「Pinstripe Helirin」
+Cool Helirin with
+fashionable design.
+「Fire Helirin」
+Hot-tempered Helirin
+with burning flames.
+「Skull Helirin」
+Skull and crossbones
+design on a black body.
+「Spider Helirin」
+Spins a web that won't
+let go of its prey.
+「Heart Helirin」
+This Helirin has a lot
+of love to go around.
+「Knyarin」
+Messy, but not
+worth avoiding it.
+「Star Helirin」
+A Star Helirin that looks
+like a konpieto *(sugar candy).
+「Yusha' Helirin」
+Only the hero can ride the
+legendary sword Helirin.
+「Gold Helirin」
+Helirin made of solid gold.
+Reward for collecting all coins.
+「Platinum Helirin」
+Helirin made of platinum.
+Reward for earning stars on all stages.
+「Normal Meter」
+The default meter unlocked from the start.
+Simple and easy to play.
+「Sickness Meter」
+If you hit a wall underwater,
+your air will run out!
+「Psychedelic」
+A mysterious meter designed
+with psyechedelic colors.
+「Note Meter」
+The meter check mark of the
+notebook design disappears.
+「Technometer」
+High tech meter with
+various cool buttons.
+「Ramen Meter」
+The ramen will spill
+if you hit a wall!
+「Fish Meter」
+Be careful to not let
+the cats eat the fish!
+「Shingouki Meter」
+Adds kicks to the course.
+Be aware of sudden jumps!
+「Chidori Meter」
+The birds will
+fly away when hit.
+「Kururin Family Meter」
+A close-knit family of 13 Kururin.
+Try not to lose them again!
+「Flower Meter」
+Meter full of flowers.
+
+「Rainbow Meter」
+Beautiful pastel shades.
+
+「Magicians Meter」
+The magicians from Kururin
+Paradise are all here!
+「Fantasy Meter」
+Fashionable meter
+with calm colors.
+「Isogashima Meter」
+The bosses are here,
+and boy they are ugly!
+「Junk Meter」
+Choose this if you're a
+man with astringent gears!
+「Ghost House Meter」
+The ghosts sleep when
+the lights go out.
+「Kingyo Meter」
+Kingyo Sukui, the
+best of all festivals!
+「Summer Meter」
+Eating watermelon under a blue sky
+in a field full of sunflowers.
+「Witch Meter」
+Reward for clearing all challenges.
+Slightly Adult atmosphere?
+
+
+
+「Sweet Island 1 Guide」
+
+Use this video to help you complete the level.
+
+「Sweet Island 2 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 3 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 4 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 5 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 6 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 7 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 8 Guide」
+Use this video to help you complete the level.
+
+「Natural World 1 Guide」
+Use this video to help you complete the level.
+
+「Natural World 2 Guide」
+Use this video to help you complete the level.
+
+「Natural World 3 Guide」
+Use this video to help you complete the level.
+
+「Natural World 4 Guide」
+Use this video to help you complete the level.
+
+「Natural World 5 Guide」
+Use this video to help you complete the level.
+
+「Natural World 6 Guide」
+Use this video to help you complete the level.
+
+「Natural World 7 Guide」
+Use this video to help you complete the level.
+
+「Natural World 8 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 1 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 2 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 3 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 4 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 5 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 6 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 7 Guide」
+Use this video to help you complete the level.
+
+「Snowscape 8 Guide」
+Use this video to help you complete the level.
+
+「Future City 1 Guide」
+Use this video to help you complete the level.
+
+「Future City 2 Guide」
+Use this video to help you complete the level.
+
+「Future City 3 Guide」
+Use this video to help you complete the level.
+
+「Future City 4 Guide」
+Use this video to help you complete the level.
+
+「Future City 5 Guide」
+Use this video to help you complete the level.
+
+「Future City 6 Guide」
+Use this video to help you complete the level.
+
+「Future City 7 Guide」
+Use this video to help you complete the level.
+
+「Future City 8 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 1 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 2 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 3 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 4 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 5 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 6 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 7 Guide」
+Use this video to help you complete the level.
+
+「WonderPlanet 8 Guide」
+Use this video to help you complete the level.
+
+「Sweet Island 1 Super Guide」
+Use this video to help you.
+
+「Sweet Island 2 Super Guide」
+Use this video to help you.
+
+「Sweet Island 3 Super Guide」
+Use this video to help you.
+
+「Sweet Island 4 Super Guide」
+Use this video to help you.
+
+「Sweet Island 5 Super Guide」
+Use this video to help you.
+
+「Sweet Island 6 Super Guide」
+Use this video to help you.
+
+「Sweet Island 7 Super Guide」
+Use this video to help you.
+
+「Sweet Island 8 Super Guide」
+Use this video to help you.
+
+「Natural World 1 Super Guide」
+Use this video to help you.
+
+「Natural World 2 Super Guide」
+Use this video to help you.
+
+「Natural World 3 Super Guide」
+Use this video to help you.
+
+「Natural World 4 Super Guide」
+Use this video to help you.
+
+「Natural World 5 Super Guide」
+Use this video to help you.
+
+「Natural World 6 Super Guide」
+Use this video to help you.
+
+「Natural World 7 Super Guide」
+Use this video to help you.
+
+「Natural World 8 Super Guide」
+Use this video to help you.
+
+「Snowscape 1 Super Guide」
+Use this video to help you.
+
+「Snowscape 2 Super Guide」
+Use this video to help you.
+
+「Snowscape 3 Super Guide」
+Use this video to help you.
+
+「Snowscape 4 Super Guide」
+Use this video to help you.
+
+「Snowscape 5 Super Guide」
+Use this video to help you.
+
+「Snowscape 6 Super Guide」
+Use this video to help you.
+
+「Snowscape 7 Super Guide」
+Use this video to help you.
+
+「Snowscape 8 Super Guide」
+Use this video to help you.
+
+「Future City 1 Super Guide」
+Use this video to help you.
+
+「Future City 2 Super Guide」
+Use this video to help you.
+
+「Future City 3 Super Guide」
+Use this video to help you.
+
+「Future City 4 Super Guide」
+Use this video to help you.
+
+「Future City 5 Super Guide」
+Use this video to help you.
+
+「Future City 6 Super Guide」
+Use this video to help you.
+
+「Future City 7 Super Guide」
+Use this video to help you.
+
+「Future City 8 Super Guide」
+Use this video to help you.
+
+「WonderPlanet 1 Super Guide」
+Use this video for some gameplay.
+
+「WonderPlanet 2 Super Guide」
+Use this video for some gameplay.
+
+「WonderPlanet 3 Super Guide」
+Use this video to help you.
+
+「WonderPlanet 4 Super Guide」
+Use this video for some gameplay.
+
+「WonderPlanet 5 Super Guide」
+Use this video for some gameplay.
+
+「WonderPlanet 6 Super Guide」
+Use this video for some gameplay.
+
+「WonderPlanet 7 Super Guide」
+Use this video for some gameplay.
+
+「WonderPlanet 8 Super Guide」
+Use this video for some gameplay.
+「Sweet Island Map」
+You can see the minimaps of
+the stages in Sweet Island!
+「Natural World Map」
+You can see the minimaps of
+the stages in Natural World!
+「Snowscape Map」
+You can see the minimaps of
+the stages in Snowscape!
+「Future City Map」
+You can see the minimaps of
+the stages in Future City!
+「WonderPlanet Map」
+You can see the minimaps of
+the stages in WonderPlanet!
+「Turn & Advance」
+A quiz game using the
+Game Boy Advance and Link Cable!
+「Tsururin」
+You can play Slippery Mode
+as a reward for clearing all stages!
+「Extra course」
+You can play on the courses
+with a different angle!
+「Sensei Trophy」
+Set faster times than Sensei
+Rabbit on all stages.
+「Professor Trophy」
+Set faster times than Professor
+Isogashima on all stages.
+「Dad Trophy」
+Set faster times than
+Totorin on all stages.
+ＩＴＥＭ＿ＭＡＸ
+ＩＴＥＭ＿ＭＡＸ
+ＩＴＥＭ＿ＭＡＸ

@@ -142,11 +142,11 @@ iron plating.
 「Ketchup Helirin」
 Ketchup-colored Helirin
 for tomato lovers.
-「Bowling Helirin (?)」
+「Pinstripe Helirin」
 Cool Helirin with
 fashionable design.
 「Fire Helirin」
-Hot-tempered Heliline
+Hot-tempered Helirin
 with burning flames.
 「Skull Helirin」
 Skull and crossbones
@@ -162,7 +162,7 @@ Messy, but not
 worth avoiding it.
 「Star Helirin」
 A Star Helirin that looks
-like a konpieto.
+like a konpieto *(sugar candy).
 「Yusha' Helirin」
 Only the hero can ride the
 legendary sword Helirin.
@@ -200,8 +200,8 @@ Be aware of sudden jumps!
 The birds will
 fly away when hit.
 「Kururin Family Meter」
-Of the 13 friends,
-watch out for Maigo!
+A close-knit family of 13 Kururin.
+Try not to lose them again!
 「Flower Meter」
 Meter full of flowers.
 
@@ -218,7 +218,7 @@ with calm colors.
 The bosses are here,
 and boy they are ugly!
 「Junk Meter」
-Choose this ff you're a
+Choose this if you're a
 man with astringent gears!
 「Ghost House Meter」
 The ghosts sleep when
@@ -230,251 +230,251 @@ best of all festivals!
 Eating watermelon under a blue sky
 in a field full of sunflowers.
 「Witch Meter」
-A little adult funiki as a possible
-reward for clearing all modes?
+Reward for clearing all challenges.
+Slightly Adult atmosphere?
 
 
 
-「スウィートアイランド１の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド２の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド３の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド４の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド５の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド６の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド７の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「スウィートアイランド８の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド１の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド２の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド３の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド４の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド５の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド６の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド７の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「ナチュラルワールド８の
-　　　　　　　　　　Model」
-これを見てべんきょうしよう
-「スノースケープ１のおてほん」
-これを見てべんきょうしよう
+「Sweet Island 1
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 2
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 3
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 4
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 5
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 6
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 7
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 8
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 1
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 2
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 3
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 4
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 5
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 6
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 7
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Natural World 8
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Snowscape 1 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ２のおてほん」
-これを見てべんきょうしよう
+「Snowscape 2 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ３のおてほん」
-これを見てべんきょうしよう
+「Snowscape 3 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ４のおてほん」
-これを見てべんきょうしよう
+「Snowscape 4 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ５のおてほん」
-これを見てべんきょうしよう
+「Snowscape 5 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ６のおてほん」
-これを見てべんきょうしよう
+「Snowscape 6 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ７のおてほん」
-これを見てべんきょうしよう
+「Snowscape 7 Guide」
+Use this video to help you complete the level.
 
-「スノースケープ８のおてほん」
-これを見てべんきょうしよう
+「Snowscape 8 Guide」
+Use this video to help you complete the level.
 
-「フューチャービジョン１の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン２の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン３の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン４の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン５の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン６の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン７の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「フューチャービジョン８の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット１の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット２の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット３の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット４の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット５の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット６の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット７の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「ワンダープラネット８の
-　　　　　　　　　　おてほん」
-これを見てべんきょうしよう
-「スウィートアイランド１の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド２の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド３の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド４の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド５の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド６の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド７の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スウィートアイランド８の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド１の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド２の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド３の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド４の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド５の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド６の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド７の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ナチュラルワールド８の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ１の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ２の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ３の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ４の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ５の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ６の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ７の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「スノースケープ８の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン１の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン２の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン３の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン４の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン５の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン６の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン７の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「フューチャービジョン８の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット１の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット２の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット３の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット４の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット５の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット６の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット７の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
-「ワンダープラネット８の
-　　　　　　　すごいおてほん」
-すごいプレイが入っているよ
+「Future City 1
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 2
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 3
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 4
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 5
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 6
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 7
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Future City 8
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 1
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 2
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 3
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 4
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 5
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 6
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 7
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「WonderPlanet 8
+　　　　　　　　　　Guide」
+Use this video to help you complete the level.
+「Sweet Island 1
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 2
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 3
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 4
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 5
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 6
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 7
+　　　　　　　Super Guide」
+Use this video to help you.
+「Sweet Island 8
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 1
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 2
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 3
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 4
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 5
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 6
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 7
+　　　　　　　Super Guide」
+Use this video to help you.
+「Natural World 8
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 1
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 2
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 3
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 4
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 5
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 6
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 7
+　　　　　　　Super Guide」
+Use this video to help you.
+「Snowscape 8
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 1
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 2
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 3
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 4
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 5
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 6
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 7
+　　　　　　　Super Guide」
+Use this video to help you.
+「Future City 8
+　　　　　　　Super Guide」
+Use this video to help you.
+「WonderPlanet 1
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
+「WonderPlanet 2
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
+「WonderPlanet 3
+　　　　　　　Super Guide」
+Use this video to help you.
+「WonderPlanet 4
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
+「WonderPlanet 5
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
+「WonderPlanet 6
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
+「WonderPlanet 7
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
+「WonderPlanet 8
+　　　　　　　Super Guide」
+Use this video for some great gameplay.
 「Sweet Island Map」
 You can see the minimaps of
 the stages in Sweet Island!
@@ -497,17 +497,17 @@ Game Boy Advance and Link Cable!
 You can play Slippery Mode
 as a reward for clearing all stages!
 「Extra course」
-いつもとちがう角度のコースで
-遊べる！
-ぜんぶのステージで
-うさぎ先生より速いタイムを
-だしたきねん
-ぜんぶのステージで
-イソガシマ教授より速いタイムを
-だしたきねん
-ぜんぶのステージで
-トトーリンより速いタイムを
-だしたきねん
+You can play on the courses
+with a different angle!
+Set faster times
+than Sensei Rabbit
+on all stages.
+Set faster times than
+Professor Isogashima
+on all stages.
+Set faster times
+than Totorin
+on all stages.
 ＩＴＥＭ＿ＭＡＸ
 ＩＴＥＭ＿ＭＡＸ
 ＩＴＥＭ＿ＭＡＸ

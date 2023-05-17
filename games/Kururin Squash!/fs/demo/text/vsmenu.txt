@@ -5,19 +5,19 @@ Select number of players.
 Select number of players.
 
 Use a normal Helirin.
-Win by reaching the goal quick enough.
+Win by reaching the goal first.
 Battle royale with Action Helirin.
 Win by collecting enough coins.
-This is a
-simple course.
+A simple course
+for beginners.
 Try to not get popped
 from the piston jams!
 Be careful along the path
 or you will be jammed!
 Be careful through the maze
-or it will mess you up!
+or you will get lost!
 Be careful of the
-spinning sword jams!
+spinning blades!
 The course will be
 chosen randomly.
 Select the stage you want to play.

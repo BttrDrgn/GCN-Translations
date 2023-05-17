@@ -1,0 +1,98 @@
+W-A :   30［］
+W-A :  187［Kununununununun］
+W-A :  480［What are you thinking, disturbing;Professor Isogashima like this?］
+W-A :  560［］
+W-A :  711［You don't know about my little brothers?］
+W-A :  823［Ah, in that case.. well then!］
+W-A : 1090［Listen to what I have to say!］
+W-A : 1300［Big Brother, we've been caught by the Professor!］
+W-A : 1357［］
+W-A : 1549［Because they're interfering with my research!］
+W-A : 1810［Why are you catching my little brothers?］
+W-A : 1985［No..I mean..because they're;being a nuisance..never mind.］
+W-A : 2199［If you disturb us next time,］
+W-A : 2399［it won't be for free, you know!］
+
+W-B :   30［］
+W-B :  130［I'm faaaaaling］
+W-B :  255［Are you okay?］
+W-B :  265［］
+W-B :  575［Why do you always bother me?!］
+W-B :  700［I was just avoiding you, you know.］
+W-B :  720［］
+W-B :  800［.....!］
+W-B : 1070［Even with that mocking tone, until Isogashima System is ready・・・］
+W-B : 1111［Gabo］
+W-B : 1340［Sinkiiiiiing］
+W-B : 1480［Are you alright?］
+W-B : 1695［Big Brother!　　　　　　;We were playing with the Professor!］
+W-B : 1847［We even helped him out, see?］
+
+W-C :   30［］
+W-C :  170［Well, well, well,; look what we have here!］
+W-C :  270［Big Brother!］
+W-C :  374［Once the Isogashi System is complete..］
+W-C :  490［Everyone will become busy, you know!］
+W-C :  620［But I don't want to be busy!］
+W-C :  710［What do you want?!］
+W-C :  925［Even though you're free anyway!　　　　　　　　　;Don't work!］
+W-C : 1167［Come to think of it Professor Isogashima has a strange name, doesn't he?］
+W-C : 1390［Lalalala..　　　　　　　　　　　　　　　　　　　　　　　　　　　;I don't want to hear that from you!!］
+W-C : 1450［］
+W-C : 1600［You're always busy, despite being Kururin!］
+
+W-D :   30［］
+W-D :  280［Why don't you like being busy so much?］
+W-D :  340［........］
+W-D :  500［You won't be able to say that for long..］
+W-D :  700［Now is the timeee!］
+W-D :  720［］
+W-D :  846［They're gone!］
+W-D : 1020［Thank you for picking me up Poco!］
+W-D : 1200［I wanted to go shopping, Mari～］
+W-D : 1380［But it's time to go back Pika!］
+W-D : 1530［Alright, let's do it!］
+W-D : 1580［］
+W-D : 1800［Dad, I'll be bac soon!］
+W-D : 1950［（.................）］
+W-D : 2200［Huh? What happened.........］
+
+WD-2 :  200［］
+WD-2 :  300［I'm home!］
+WD-2 :  550［Huh?］
+WD-2 :  880［Dad and Mom aren't here!］
+WD-2 :  970［It's an emergency!］
+WD-2 :  1273［It seems both of them have been;abducted by the Professor!］
+WD-2 :  1530［And not only that..they were taken to 　　　　　　　　　　　　　　　　　　　　　　　　;space！］
+WD-2 :  1630［But it's okay!］
+WD-2 :  1850［We'll chase after them;with the HeliBiByun!］
+WD-2 :  2020［Alright, let's do our best!］
+WD-2 :  2030［］
+WD-2 :  2400［I'm counting on you, Kururin!］
+
+W-E :   30［］
+W-E :  240［Nooooo!］
+W-E :  654［］
+W-E :  900［Uuuuggh..　　　　;My Isogashi System...］
+W-E : 1219［What shall I do now?］
+W-E : 1267［］
+W-E : 1484［Hey, if you have nothing to do,;why don't you come over to my house?］
+W-E : 1700［Let's go on a trip together;with the Professor!］
+W-E : 2015［Travel..?　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　;Vacations..?］
+W-E : 2124［！！！！！！！！！！！！！！！！！！］
+W-E : 2500［No way, no wayyy!;I can't just relax!］
+W-E : 2800［You said you had nothing;to do earlier!］
+W-E : 2855［］
+W-E : 3004［Professor Isogashima..］
+W-E : 3120［Look at that!］
+W-E : 3399［If you could help fix the disaster with;the Isogashi System, I'd be grateful!］
+W-E : 3493［Oooooh!］
+W-E : 3700［Did you find it?］
+W-E : 3794［］
+W-E : 4000［Well, it looks like;we have work to do!］
+W-E : 4330［Hmm..　　　　　　　　　　　　　　　;It's strange to prefer being busy..］
+W-E : 4489［］
+W-E : 4823［Seeing how happy he is, it seems;like he truly enjoys it!］
+W-E : 5060［That's true!］
+W-E : 5260［Let's go back home!］
+W-E : 5400［Okay!］［
