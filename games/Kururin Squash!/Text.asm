@@ -1,6 +1,6 @@
 ReplaceAsset($4E5F53FC, "fs/demo/text/boss.txt", 4039)
 ReplaceAsset($4E5F63C4, "fs/demo/text/Challenge.txt", 2002)
-  ReplaceAsset($4E5F75E4, "fs/demo/text/item.txt", 12890)
+ReplaceAsset($4E5F75E4, "fs/demo/text/item.txt", 12890)
 ReplaceAsset($4E5FA840, "fs/demo/text/item2.txt", 11762)
 ReplaceAsset($4E5FD634, "fs/demo/text/mode.txt", 152)
 ReplaceAsset($4E5FD6CC, "fs/demo/text/Opening.txt", 779)
