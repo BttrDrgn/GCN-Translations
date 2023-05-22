@@ -172,115 +172,115 @@ Reward for collecting all coins.
 「Platinum Helirin」
 Helirin made of platinum.
 Reward for earning stars on all stages.
-「Normal Meter」
-The default meter unlocked from the start.
+「Normal Gauge」
+The default gauge unlocked from the start.
 Simple and easy to play.
-「Sickness Meter」
+「Sickness Gauge」
 If you hit a wall underwater,
 your air will run out!
 「Psychedelic」
-A mysterious meter designed
+A mysterious gauge designed
 with psyechedelic colors.
-「Note Meter」
-The meter check mark of the
-notebook design disappears.
-「Technometer」
-High tech meter with
+「Notebook Gauge」
+The checkmark on the
+notebook disappears.
+「Technogauge」
+High tech gauge with
 various cool buttons.
-「Ramen Meter」
+「Ramen Gauge」
 The ramen will spill
 if you hit a wall!
-「Fish Meter」
+「Fish Gauge」
 Be careful to not let
 the cats eat the fish!
-「Shingouki Meter」
+「Shingouki Gauge」
 Adds kicks to the course.
 Be aware of sudden jumps!
-「Chidori Meter」
+「Chidori Gauge」
 The birds will
 fly away when hit.
-「Kururin Family Meter」
+「Kururin Family Gauge」
 A close-knit family of 13 Kururin.
 Try not to lose them again!
-「Flower Meter」
-Meter full of flowers.
+「Flower Gauge」
+Gauge full of flowers.
 
-「Rainbow Meter」
+「Rainbow Gauge」
 Beautiful pastel shades.
 
-「Magicians Meter」
+「Magicians Gauge」
 The magicians from Kururin
 Paradise are all here!
-「Fantasy Meter」
-Fashionable meter
+「Fantasy Gauge」
+Fashionable gauge
 with calm colors.
-「Isogashima Meter」
+「Isogashima Gauge」
 The bosses are here,
 and boy they are ugly!
-「Junk Meter」
+「Junk Gauge」
 Choose this if you're a
 man with astringent gears!
-「Ghost House Meter」
+「Ghost House Gauge」
 The ghosts sleep when
 the lights go out.
-「Kingyo Meter」
+「Kingyo Gauge」
 Kingyo Sukui, the
 best of all festivals!
-「Summer Meter」
+「Summer Gauge」
 Eating watermelon under a blue sky
 in a field full of sunflowers.
-「Witch Meter」
+「Witch Gauge」
 Reward for clearing all challenges.
 Slightly Adult atmosphere?
 
 
 
-「Sweet Island 1
+「Sweet Shores 1
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 2
+「Sweet Shores 2
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 3
+「Sweet Shores 3
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 4
+「Sweet Shores 4
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 5
+「Sweet Shores 5
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 6
+「Sweet Shores 6
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 7
+「Sweet Shores 7
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 8
+「Sweet Shores 8
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 1
+「Coastal Canopy 1
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 2
+「Coastal Canopy 2
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 3
+「Coastal Canopy 3
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 4
+「Coastal Canopy 4
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 5
+「Coastal Canopy 5
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 6
+「Coastal Canopy 6
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 7
+「Coastal Canopy 7
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Natural World 8
+「Coastal Canopy 8
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
 「Snowscape 1 Guide」
@@ -307,100 +307,100 @@ Use this video to help you complete the level.
 「Snowscape 8 Guide」
 Use this video to help you complete the level.
 
-「Future City 1
+「CyberCity 1
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 2
+「CyberCity 2
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 3
+「CyberCity 3
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 4
+「CyberCity 4
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 5
+「CyberCity 5
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 6
+「CyberCity 6
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 7
+「CyberCity 7
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Future City 8
+「CyberCity 8
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 1
+「WonderVerse 1
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 2
+「WonderVerse 2
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 3
+「WonderVerse 3
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 4
+「WonderVerse 4
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 5
+「WonderVerse 5
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 6
+「WonderVerse 6
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 7
+「WonderVerse 7
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「WonderPlanet 8
+「WonderVerse 8
 　　　　　　　　　　Guide」
 Use this video to help you complete the level.
-「Sweet Island 1
+「Sweet Shores 1
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 2
+「Sweet Shores 2
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 3
+「Sweet Shores 3
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 4
+「Sweet Shores 4
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 5
+「Sweet Shores 5
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 6
+「Sweet Shores 6
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 7
+「Sweet Shores 7
 　　　　　　　Super Guide」
 Use this video to help you.
-「Sweet Island 8
+「Sweet Shores 8
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 1
+「Coastal Canopy 1
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 2
+「Coastal Canopy 2
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 3
+「Coastal Canopy 3
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 4
+「Coastal Canopy 4
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 5
+「Coastal Canopy 5
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 6
+「Coastal Canopy 6
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 7
+「Coastal Canopy 7
 　　　　　　　Super Guide」
 Use this video to help you.
-「Natural World 8
+「Coastal Canopy 8
 　　　　　　　Super Guide」
 Use this video to help you.
 「Snowscape 1
@@ -427,69 +427,69 @@ Use this video to help you.
 「Snowscape 8
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 1
+「CyberCity 1
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 2
+「CyberCity 2
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 3
+「CyberCity 3
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 4
+「CyberCity 4
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 5
+「CyberCity 5
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 6
+「CyberCity 6
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 7
+「CyberCity 7
 　　　　　　　Super Guide」
 Use this video to help you.
-「Future City 8
+「CyberCity 8
 　　　　　　　Super Guide」
 Use this video to help you.
-「WonderPlanet 1
+「WonderVerse 1
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「WonderPlanet 2
+「WonderVerse 2
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「WonderPlanet 3
+「WonderVerse 3
 　　　　　　　Super Guide」
 Use this video to help you.
-「WonderPlanet 4
+「WonderVerse 4
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「WonderPlanet 5
+「WonderVerse 5
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「WonderPlanet 6
+「WonderVerse 6
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「WonderPlanet 7
+「WonderVerse 7
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「WonderPlanet 8
+「WonderVerse 8
 　　　　　　　Super Guide」
 Use this video for some great gameplay.
-「Sweet Island Map」
+「Sweet Shores Map」
 You can see the minimaps of
-the stages in Sweet Island!
-「Natural World Map」
+the stages in Sweet Shores!
+「Coastal Canopy Map」
 You can see the minimaps of
-the stages in Natural World!
+the stages in Coastal Canopy!
 「Snowscape Map」
 You can see the minimaps of
 the stages in Snowscape!
-「Future City Map」
+「CyberCity Map」
 You can see the minimaps of
-the stages in Future City!
-「WonderPlanet Map」
+the stages in CyberCity!
+「WonderVerse Map」
 You can see the minimaps of
-the stages in WonderPlanet!
+the stages in WonderVerse!
 「Turn & Advance」
 A quiz game using the
 Game Boy Advance and Link Cable!

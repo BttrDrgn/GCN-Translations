@@ -1,31 +1,31 @@
 # Location of 2D textures
 
 Known files:
-- ano00.txg
-    - In-game text; complete & finalized
-- ch_c_resalt.txg
+- ano00.txg (complete)
+    - In-game text
+- ch_c_resalt.txg (complete)
     - Results (Cleared)
-- ch_c_resalt.txg
+- ch_f_resalt.txg (complete)
     - Results (Failed)
 - chosen.txg
     - Time Trials
-- fileselect.txg
+- fileselect.txg (runtime error)
     - Single Player
-- itemlist.txg
+- itemlist.txg (complete)
     - Inventory
 - option.txg
     - Options
 - pause.txg
     - Pause Menu
-- resalt.txg
+- resalt.txg (complete)
     -  Results
-- top.txg
-    - Title Screen Menu
+- top.txg (complete)
+    - Title Screen menu
 - vs_menu.txg 
-    - VS Mode; mostly complete but graphical bugs present
+    - Multiplayer menu
 - vs_result.txg
     - VS Mode Results
 - w_demo.txg
-    - Tutorial Movies  
-- w_map.txg
-    - World Map
+    - World names
+- w_map.txg (complete)
+    - Level select
