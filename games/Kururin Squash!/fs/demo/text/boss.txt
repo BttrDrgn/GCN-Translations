@@ -53,7 +53,7 @@ W-D : 1200［I wanted to go shopping, Mari～］
 W-D : 1380［But it's time to go back Pika!］
 W-D : 1530［Alright, let's do it!］
 W-D : 1580［］
-W-D : 1800［Dad, I'll be bac soon!］
+W-D : 1800［Dad, I'll be back soon!］
 W-D : 1950［（.................）］
 W-D : 2200［Huh? What happened.........］
 
