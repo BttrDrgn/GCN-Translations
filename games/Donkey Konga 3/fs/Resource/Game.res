@@ -6,7 +6,7 @@ MODE2=Battle
 MODE3=Concert
 MODE4=Tutorial
 MODE5=Famicom Room
-MODE6=チュートリアル
+MODE6=Tutorial
 
 LV=Monkey
 LV1=Chimp
