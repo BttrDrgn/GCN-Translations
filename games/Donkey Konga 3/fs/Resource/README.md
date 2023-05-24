@@ -4,7 +4,7 @@
     - (Street Performance) If I modify this file, the minigame won't boot
 - BananaIsland.res 
     - Complete, revising
-- BarrelAttck.res   
+- BarrelAttack.res   
     - Minigame.  Not unlocked by default, hard to test translation
 - DemoEnding.res
 - DemoFestival.res
