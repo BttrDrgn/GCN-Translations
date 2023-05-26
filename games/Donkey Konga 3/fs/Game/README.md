@@ -9,6 +9,16 @@ Known files:
 
  - Game.nut
 
+ - Lane.nut
+
  - Live.nut
 
+ - Result.nut
+
+ - Trial.nut
+
  - Tutorial.nut
+
+ - /Phono/Phono.nut
+
+ - /Score/ChallengeScore.nut
