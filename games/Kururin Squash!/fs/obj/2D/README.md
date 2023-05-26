@@ -9,7 +9,7 @@ Known files:
     - Results (Failed)
 - chosen.txg
     - Time Trials
-- fileselect.txg (runtime error)
+- fileselect.txg (complete)
     - Single Player
 - itemlist.txg (complete)
     - Inventory
