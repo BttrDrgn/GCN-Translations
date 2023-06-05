@@ -1,0 +1,123 @@
+[STRINGS]
+; page main
+0=scenario mode
+1=taxi mode
+2=load game
+3=save game
+4=options
+5=credits
+
+; page settings
+20=video
+21=audio
+22=controls
+
+
+; page choosemission
+135=Difficulty
+136=weak
+137=medium
+138=strong
+139=MISSION
+140=Choose mission
+141=My name's B, JB
+142=Baby Boom
+143=Sir, yes sir!
+144=Santa Claus
+145=The pursuit of Qiu
+146=Vive la montagne
+147=The Rally
+148=Rat Rack Time
+149=Final slalom
+150=Baby Boom 2
+
+; page settings control
+
+200=settings
+202=type 1
+203=type 2
+204=steering wheel and pedals
+205=type 1 (Rumble)
+206=type 2 (Rumble)
+207=steering wheel and pedals (Rumble)
+208=no
+209=Rumble
+211=Accelerate
+212=Brake
+213=Rear view
+214=Camera
+215=Hand brake
+216=START/PAUSE
+217=Steering
+218=Steering
+219=Turbo
+
+; PAGE SETTINGS VIDEO
+220=screen adjustment
+221=more
+222=motion blur
+223=slow motion
+
+; PAGE SETTINGS AUDIO
+240=SFX
+241=BGM
+245=audio
+246=mono
+247=stereo
+
+; PAGE PROFILE
+262=Player 1
+263=Player 2
+264=Player 3
+266=Enter your name
+267=mission
+268=difficulty
+269=done
+270=difficulty locked
+271=credits left
+272=infinite credits
+
+
+;Page results
+400=You won
+401=new kit available :
+402=shock absorbers
+403=booster type p45 : 250 km/h
+404=front and rear spoilers
+405=air vents
+406=booster type p51 : 300 km/h
+407=snow/ice tires
+408=caterpillar tracks
+409=studded snow tires
+410=booster type p90 : 350 km/h
+411=unlocked new taxi mode level
+412=congradulations! you have finished the story on hard mode
+413=unlocked hard scenerio mode
+414=new record
+415=you have earned some credits
+
+
+; STANDARD
+900=yes
+901=no
+902=accept
+903=return
+904=edit
+905=delete
+906=ok
+907=insert
+
+
+; ingame menus
+1000=continue
+1001=restart
+1002=menu
+1003=quit
+1004=next mission
+1005=quit mission
+
+; confirmations
+1200=Are you sure you want ||to restart this race ?
+1201=Are you sure you want ||to return to the menu ?
+1203=Reset your player data ?
+1204=|next mission :|| Button         

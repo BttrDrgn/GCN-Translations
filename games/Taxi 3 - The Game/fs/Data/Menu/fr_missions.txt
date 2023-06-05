@@ -1,0 +1,45 @@
+[Desc_TAXI]
+0=A good dose of pure adrenaline, without damage constraints. Fight your way through traffic in a race against the clock!
+
+[Desc_0]
+0=DESCRIPTION : The famous secret agent needs a ride in your taxi: he urgently needs to get to the airport. Taken abruptly from your meal, your anger begins to simmer. But a large wad of cash quickly brings you back to your senses.: get ready for the race of a lifetime!
+1=OBJECTIVES :|- Take the secret agent to the airport and make sure to arrive in the allotted time, passing through the mandatory checkpoints.|- Get ahead of the train before the checkpoint.
+
+
+[Desc_1]
+0=DESCRIPTION : You offer to take Lilly to the doctor and her father, the general, to the police station. Upon learning that Lilly was pregnant, you decide to drive very carefully in order to avoid harming the baby.
+1=OBJECTIVES :|- Take pregnant Lily to the hospital as carefully as possible.|- Avoid violent shocks as much as possible.
+
+
+[Desc_2]
+0=DESCRIPTION : The extra caution put the general behind schedule, and you will have to make up for the lost time. No problem, it's right up your alley! :| Put the pedal to the medal !
+1=OBJECTIVES :|- Escort the general as quickly as possible to the police station.|- Get flashed by the radar at more than 245 km/h.
+
+
+[Desc_3]
+0=DESCRIPTION : You meet up with Emilien at the police staion and decide to take him home. On the way, however, he sees a pecular sight : a Santa on a scooter ! Follow him carefully to find out who he is...
+1=OBJECTIVES :|- Follow the Santa Claus scooter without being spotted to find the marker of the Santa Claus gang.|- Pass below an accident.
+
+[Desc_4]
+0=DESCRIPTION : Emilien got caught trying to infiltrate the HQ of the Santa Claus Gang. Qiu and her henchmen abduct him and plan to dispose of him in a remote location. Without hesitation, you pursue them to save your friend.
+1=OBJECTIVES :|- Follow Qiu to the warehouse without being spotted to find where she is holding Emilien hostage.
+
+[Desc_5]
+0=DESCRIPTION : The gang members fled to a mountain villiage. No time to spare : rush towards the villiage on the highway before the thieves escape!
+1=OBJECTIVES :|- Reach the exit for the Alps as quickly as possible.|- Blow up the police radar by beating the speed record of 295 km/h.
+
+[Desc_6]
+0=DESCRIPTION : Arriving at the village, you find yourself in the middle of a car rally. You'll have to play tight and smash the times of the fiercest competitors.
+1=OBJECTIVES :|- Do not lose sight of the 4x4.
+
+[Desc_7]
+0=DESCRIPTION : The thugs have abandoned their 4x4 for a snowplow. You will finally be able to test your new modification : the mountain tracks ! Follow the tracks of the snowplow and be careful with your taxi !
+1=OBJECTIVES :|- Follow the Rat Rack to discover the hideout of the Santa Claus gang.|- Avoid the snowfall.
+
+[Desc_8]
+0=DESCRIPTION : The criminals spotted you and quickly put on their skis. They speed away, hurling down the slopes at full speed. However, you won't let them get away that easily. With the help of your new studded snow tires, you'll be able chase after them in this final pursuit.
+1=OBJECTIVES :|- Race down the giant slalom track within the time limit.
+
+[Desc_9]
+0=DESCRIPTION : After solving the problem, Emilien receives a phone call : Petra is pregnant and will give birth at any moment ! He needs the fastest transportation back to Marseille. You accept the task and remind him to buckle up : you drive fast !!!
+1=OBJECTIVES :|- Arrive in time for Petra's delivery.

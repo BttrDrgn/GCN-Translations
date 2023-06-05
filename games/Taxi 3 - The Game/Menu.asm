@@ -1,0 +1,6 @@
+ReplaceAsset($36EC00, "fs/Data/Menu/credits.txt", 3223)
+ReplaceAsset($1153F50, "fs/Data/Menu/fr_menu.txt", 2024)
+ReplaceAsset($11547CC, "fs/Data/Menu/fr_missions.txt", 3500)
+//ReplaceAsset($E0D234, "fs/Data/Menu/Data/GameOver.tga", 32812)
+//ReplaceAsset($102FCF4, "fs/Data/Menu/Data/smalllogos.tga", 65580)
+//ReplaceAsset($1072DD0, "fs/Data/Menu/Data/verrouille_map.tga", 262188)
