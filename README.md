@@ -39,12 +39,14 @@ To install `tasks.json`
 --------------
 
 # Supported Games
-| Game                           | ISO                     | Hash                                       |
-|--------------------------------|-------------------------|--------------------------------------------|
-| Donkey Konga 3                 | Donkey Konga 3 [J].iso  | `877022ACC53A3EB97A4290C45F69BE345DEFA0E0` |
-| Giftpia                        | Giftpia [J].iso         | `52D0610AE78A2A5BC4BDD79CF3BFCD97C7F0A638` |
-| HomeLand                       | HomeLand [J].iso        | `5E74644701364263BDD016D2D54D25DEE1436345` |
-| Kururin Squash!                | Kururin Squash! [J].iso | `F1E5E50751CEE4FA654182E0904F7F6EF721E5CC` |
-| Lupin III: Umi ni Kieta Hihou  | Lupin Disc 1 [J].iso    | `7097C62BB0DAD853EEDD17FAB86E333937FC207D` |
+| Game                           | ISO                      | Hash                                       |
+|--------------------------------|--------------------------|--------------------------------------------|
+| Donkey Konga 3                 | Donkey Konga 3 [J].iso   | `877022ACC53A3EB97A4290C45F69BE345DEFA0E0` |
+| Giftpia                        | Giftpia [J].iso          | `52D0610AE78A2A5BC4BDD79CF3BFCD97C7F0A638` |
+| HomeLand                       | HomeLand [J].iso         | `5E74644701364263BDD016D2D54D25DEE1436345` |
+| Kururin Squash!                | Kururin Squash! [J].iso  | `F1E5E50751CEE4FA654182E0904F7F6EF721E5CC` |
+| Lupin III: Umi ni Kieta Hihou  | Lupin Disc 1 [J].iso     | `7097C62BB0DAD853EEDD17FAB86E333937FC207D` |
+| Metal Gear Solid Special Disc  | MGS Special Disc [J].iso | `7DEB1F25832A40D3DB234122ED675294CC4C3CF6` |
+| Taxi 3: The Game               | Taxi 3 [F].iso           | `FC104322DA45EE740B331EDE2E410E13E78B5D75` |
 
 <p align="center"> Original project and initial translations by krom (Peter Lemon). </p>
