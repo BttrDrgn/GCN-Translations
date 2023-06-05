@@ -1,4 +1,4 @@
-<h1 align="center"> Japanese To English Translation Projects for GameCube</h1>
+<h1 align="center"> Translation Projects for GameCube</h1>
 
 <p align="center">
   <img width="256" height="256" src="/../assets/logo.png">
@@ -11,7 +11,7 @@ Please read the PATCHING guide [here](https://github.com/BttrDrgn/GCN-Translatio
 Please read the CONTRIBUTING guide [here](https://github.com/BttrDrgn/GCN-Translations/blob/master/CONTRIBUTING.md)
 
 # How To Compile
-- Drop your Japanese isos (non-nkit compressed) into the `isos` folder
+- Drop the required language isos (non-nkit compressed) into the `isos` folder
   - Make sure they are named properly! Check below in the [Supported Games section](https://github.com/BttrDrgn/GCN-Translations/blob/master/README.md#supported-games) for more info
 - Download the latest bass release from here https://github.com/ARM9/bass/releases/
 - Extract the bass release archive into the `bass` folder on the root of the project
