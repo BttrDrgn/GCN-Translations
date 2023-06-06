@@ -1,3 +1,11 @@
+<h2 align="center"> This repository is now archived. Please follow the new GitHub organization which encapsulates this project and more! </h2>
+<h1 align="center"><a href="https://github.com/DOL-Translations">DOL-Translations</a></h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h1 align="center"> Translation Projects for GameCube</h1>
 
 <p align="center">
